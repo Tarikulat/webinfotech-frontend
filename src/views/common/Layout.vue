@@ -1,5 +1,5 @@
 <script setup>
-import { Topbar, Header, HeroSection, Service, Testimonial, Chartbot, Footer } from '@/views/common'
+import { Topbar, Header, HomeSection, Footer } from '@/views/common'
 
 </script>
 
@@ -11,9 +11,11 @@ import { Topbar, Header, HeroSection, Service, Testimonial, Chartbot, Footer } f
 
     <Header />
 
+    <HomeSection />
+
     <RouterView />
 
-    <Chartbot />
+    <!-- <Chartbot /> -->
 
     <Footer />
 
