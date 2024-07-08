@@ -9,7 +9,7 @@
                             <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <a href=""><span class="fas fa-phone mr-2">
-                                        </span>Sales - 01839636749 (9AM-9PM)</a>
+                                        </span>Call - 01793800828 (9AM-9PM)</a>
                                 </li>
                             </ul>
                         </div>
