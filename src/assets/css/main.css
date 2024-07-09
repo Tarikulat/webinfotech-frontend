@@ -33,7 +33,9 @@
 .al-text {
   text-align: center;
 }
-
+.mg-w {
+  width: 100px;
+}
 
 
 /* line 6, src/assets/scss/vendors/bootstrap.min.css */
