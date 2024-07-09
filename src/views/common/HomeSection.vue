@@ -52,13 +52,14 @@
                                             </button></li> <br>
 
                                         <li> <button>
-                                                <svg viewBox="0 0 16 16" class="bi bi-twitter" fill="currentColor"
-                                                    height="18" width="18">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-card-text" viewBox="0 0 16 16">
                                                     <path
-                                                        d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z">
-                                                    </path>
+                                                        d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2z" />
+                                                    <path
+                                                        d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8m0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5" />
                                                 </svg>
-                                                <span>Details</span>
+                                                <span> Details</span>
                                             </button>
                                         </li>
                                     </ul>
@@ -415,7 +416,7 @@
                                 <a href="#" class="btn outline-white-btn">New Customers</a>
                             </div> -->
                         </div>
-                        <button> Meet Our Talented team
+                        <button class="button4"> Meet Our Talented team
                         </button>
                     </div>
                 </div>
@@ -423,729 +424,784 @@
         </section>
         <!--Section 5 end-->
 
-        <!--pricing with switch section start-->
-        <section class="pricing-section ptb-100">
+        <!-- Section 6 start-->
+        <section class="feature-section ptb-100">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>Managed Our Hosting Price</h2>
-                            <p class="lead">
-                                Professional hosting at an affordable price. Distinctively recaptiualize
-                                principle-centered
-                                core competencies through
-                                core competencies.
+                <div class="row align-items-center">
+
+                    <div class="col-md-6 col-lg-6">
+                        <div class="cta-new-wrap">
+                            <h2>Choose Our Software Company?</h2>
+                            <p class="lead">Choose our software company for unparalleled innovation, reliability, and
+                                excellence. Our expert team leverages the latest technologies to deliver tailored
+                                solutions that meet your unique business needs. We ensure seamless integration, superior
+                                performance, and scalability, empowering your business to thrive in a dynamic market.
                             </p>
+
+                            <p> Customer satisfaction is at the core of our values. We offer robust support, continuous
+                                updates, and proactive maintenance, keeping your systems secure and ahead of the curve.
+                                Our agile development process ensures timely delivery without compromising quality.
+                            </p>
+
+                            <p>
+                                We build lasting partnerships with our clients, driving efficiency, productivity, and
+                                innovation. Whether you're a startup or an established enterprise, our bespoke solutions
+                                are crafted to meet your specific goals.
+
+                                Transform your digital landscape with our cutting-edge solutions and dedicated team.
+                                Partner with us to experience exceptional quality, advanced technology, and a commitment
+                                to your business success. Choose us today and see the difference.</p>
+
+                            <button class="button3">
+                                Know More
+                                <svg fill="currentColor" viewBox="0 0 24 24" class="icon">
+                                    <path clip-rule="evenodd"
+                                        d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+                                        fill-rule="evenodd"></path>
+                                </svg>
+                            </button>
                         </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-6">
+                        <div class="card">
+                            <a class="card1" href="#">
+                                <p>This is heading</p>
+                                <p class="small">Card description with lots of great facts and interesting details.</p>
+                                <div class="go-corner" href="#">
+                                    <div class="go-arrow">
+                                        →
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                     
+                </div>
+
+            </div>
+          
+    </section>
+    <!--Section 6 end-->
+
+    <!--pricing with switch section start-->
+    <section class="pricing-section ptb-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-8">
+                    <div class="section-heading text-center mb-5">
+                        <h2>Managed Our Hosting Price</h2>
+                        <p class="lead">
+                            Professional hosting at an affordable price. Distinctively recaptiualize
+                            principle-centered
+                            core competencies through
+                            core competencies.
+                        </p>
                     </div>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-10 col-sm-8 col-md-7">
-                        <div class="text-center mb-5 radio-box-wrap billingCycle">
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="monthly-plan" value="monthly" class="radio" type="radio"
-                                    checked>
-                                <label for="monthly-plan"><span class="custom-check"></span> Monthly</label>
-                            </div>
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="yearly-plan" value="yearly" class="radio" type="radio">
-                                <label for="yearly-plan"><span class="custom-check"></span> Yearly</label>
-                            </div>
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="biannual-plan" value="biannual" class="radio"
-                                    type="radio">
-                                <label for="biannual-plan"><span class="custom-check"></span> Biannual</label>
-                            </div>
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="triennial-plan" value="triennial" class="radio"
-                                    type="radio">
-                                <label for="triennial-plan"><span class="custom-check"></span> Triennial</label>
-                            </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-10 col-sm-8 col-md-7">
+                    <div class="text-center mb-5 radio-box-wrap billingCycle">
+                        <div class="single-radio-box">
+                            <input name="billingPlan" id="monthly-plan" value="monthly" class="radio" type="radio"
+                                checked>
+                            <label for="monthly-plan"><span class="custom-check"></span> Monthly</label>
                         </div>
-                    </div>
-                </div>
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card text-center single-pricing-pack">
-                            <div class="pt-5">
-                                <h5 class="mb-0">Cloud Starter</h5>
-                                <p class="mb-0">Medium traffic personal sites</p>
-                            </div>
-                            <div class="card-header pb-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price">$19<span>/month</span></div>
-                                <div class="price text-center mb-0 yearly-price">$69<span>/yearly</span></div>
-                                <div class="price text-center mb-0 biannual-price">$130<span>/biannual</span></div>
-                                <div class="price text-center mb-0 triennial-price">$199<span>/triennial</span>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <ul class="list-unstyled mb-4 pricing-feature-list">
-                                    <li><span>10</span> Hosted Domains</li>
-                                    <li><span>25 GB</span> RAID 10 Storage</li>
-                                    <li><span>200 GB</span> Bandwidth</li>
-                                    <li><span>1 Free</span> Domain included</li>
-                                    <li><span>Super Fast</span> SSD Storage</li>
-                                    <li><span>Free</span> SSL Certificate</li>
-                                    <li>99.95% Uptime</li>
-                                    <li>24/7 Phone Support</li>
-                                </ul>
-                                <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
-                            </div>
+                        <div class="single-radio-box">
+                            <input name="billingPlan" id="yearly-plan" value="yearly" class="radio" type="radio">
+                            <label for="yearly-plan"><span class="custom-check"></span> Yearly</label>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card popular-price text-center single-pricing-pack">
-                            <div class="pt-5">
-                                <h5 class="mb-0">Cloud Business <span class="badge color-1 color-1-bg">Popular</span>
-                                </h5>
-                                <p class="mb-0">High traffic corporate sites</p>
-                            </div>
-                            <div class="card-header pb-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price">$49<span>/month</span></div>
-                                <div class="price text-center mb-0 yearly-price">$159<span>/yearly</span></div>
-                                <div class="price text-center mb-0 biannual-price">$299<span>/biannual</span></div>
-                                <div class="price text-center mb-0 triennial-price">$429<span>/triennial</span>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <ul class="list-unstyled mb-4 pricing-feature-list">
-                                    <li><span>30</span> Hosted Domains</li>
-                                    <li><span>75 GB</span> RAID 10 Storage</li>
-                                    <li><span>700 GB</span> Bandwidth</li>
-                                    <li><span>3 Free</span> Domain included</li>
-                                    <li><span>Super Fast</span> SSD Storage</li>
-                                    <li><span>Free</span> SSL Certificate</li>
-                                    <li>99.95% Uptime</li>
-                                    <li>24/7 Phone Support</li>
-                                </ul>
-                                <a href="#" class="btn primary-solid-btn mb-3" target="_blank">Purchase now</a>
-                            </div>
+                        <div class="single-radio-box">
+                            <input name="billingPlan" id="biannual-plan" value="biannual" class="radio" type="radio">
+                            <label for="biannual-plan"><span class="custom-check"></span> Biannual</label>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card text-center single-pricing-pack">
-                            <div class="pt-5">
-                                <h5 class="mb-0">Cloud Enterprise</h5>
-                                <p class="mb-0">Enterprise content management</p>
-                            </div>
-                            <div class="card-header pb-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price">$69<span>/month</span></div>
-                                <div class="price text-center mb-0 yearly-price">$259<span>/yearly</span></div>
-                                <div class="price text-center mb-0 biannual-price">$499<span>/biannual</span></div>
-                                <div class="price text-center mb-0 triennial-price">$739<span>/triennial</span>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <ul class="list-unstyled mb-4 pricing-feature-list">
-                                    <li><span>60</span> Hosted Domains</li>
-                                    <li><span>175 GB</span> RAID 10 Storage</li>
-                                    <li><span>1500 GB</span> Bandwidth</li>
-                                    <li><span>6 Free</span> Domain included</li>
-                                    <li><span>Super Fast</span> SSD Storage</li>
-                                    <li><span>Free</span> SSL Certificate</li>
-                                    <li>99.95% Uptime</li>
-                                    <li>24/7 Phone Support</li>
-                                </ul>
-                                <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="support-cta mt-5">
-                            <h5 class="mb-1 d-flex align-items-center justify-content-center"><span
-                                    class="ti-loop color-primary mr-3 icon-sm"></span>Choose Your <a
-                                    href="pricing-comparison.html" class="ml-2">Compare Hosting Plans</a></h5>
+                        <div class="single-radio-box">
+                            <input name="billingPlan" id="triennial-plan" value="triennial" class="radio" type="radio">
+                            <label for="triennial-plan"><span class="custom-check"></span> Triennial</label>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--pricing with switch section end-->
-
-        <!--feature section start-->
-        <section class="feature-section ptb-100 gray-light-bg">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>Best Hosting Features For You</h2>
-                            <p class="lead">These features come standard in all of our hosting plans. Dynamically
-                                extend
-                                imperatives through open-source quickly niche markets.</p>
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card text-center single-pricing-pack">
+                        <div class="pt-5">
+                            <h5 class="mb-0">Cloud Starter</h5>
+                            <p class="mb-0">Medium traffic personal sites</p>
+                        </div>
+                        <div class="card-header pb-4 border-0 pricing-header">
+                            <div class="price text-center mb-0 monthly-price">$19<span>/month</span></div>
+                            <div class="price text-center mb-0 yearly-price">$69<span>/yearly</span></div>
+                            <div class="price text-center mb-0 biannual-price">$130<span>/biannual</span></div>
+                            <div class="price text-center mb-0 triennial-price">$199<span>/triennial</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled mb-4 pricing-feature-list">
+                                <li><span>10</span> Hosted Domains</li>
+                                <li><span>25 GB</span> RAID 10 Storage</li>
+                                <li><span>200 GB</span> Bandwidth</li>
+                                <li><span>1 Free</span> Domain included</li>
+                                <li><span>Super Fast</span> SSD Storage</li>
+                                <li><span>Free</span> SSL Certificate</li>
+                                <li>99.95% Uptime</li>
+                                <li>24/7 Phone Support</li>
+                            </ul>
+                            <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="feature-content-wrap">
-                            <ul class="nav nav-tabs feature-tab feature-new-tab justify-content-center mb-3 border-bottom-0"
-                                data-tabs="tabs">
-                                <li class="nav-item">
-                                    <a class="nav-link d-flex align-items-center" href="#feature-tab-1"
-                                        data-toggle="tab">
-                                        <h6 class="mb-0">Features</h6>
-                                    </a>
-
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link d-flex align-items-center active" href="#feature-tab-2"
-                                        data-toggle="tab">
-                                        <h6 class="mb-0">Technical Features</h6>
-                                    </a>
-                                </li>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card popular-price text-center single-pricing-pack">
+                        <div class="pt-5">
+                            <h5 class="mb-0">Cloud Business <span class="badge color-1 color-1-bg">Popular</span>
+                            </h5>
+                            <p class="mb-0">High traffic corporate sites</p>
+                        </div>
+                        <div class="card-header pb-4 border-0 pricing-header">
+                            <div class="price text-center mb-0 monthly-price">$49<span>/month</span></div>
+                            <div class="price text-center mb-0 yearly-price">$159<span>/yearly</span></div>
+                            <div class="price text-center mb-0 biannual-price">$299<span>/biannual</span></div>
+                            <div class="price text-center mb-0 triennial-price">$429<span>/triennial</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled mb-4 pricing-feature-list">
+                                <li><span>30</span> Hosted Domains</li>
+                                <li><span>75 GB</span> RAID 10 Storage</li>
+                                <li><span>700 GB</span> Bandwidth</li>
+                                <li><span>3 Free</span> Domain included</li>
+                                <li><span>Super Fast</span> SSD Storage</li>
+                                <li><span>Free</span> SSL Certificate</li>
+                                <li>99.95% Uptime</li>
+                                <li>24/7 Phone Support</li>
                             </ul>
-                            <div class="tab-content feature-tab-content">
-                                <div class="tab-pane" id="feature-tab-1">
-                                    <div class="row">
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="features-box mt-md-5 mt-lg-5">
-                                                <div class="features-box-icon">
-                                                    <span class="ti-panel icon-sm color-primary"></span>
-                                                </div>
-                                                <div class="features-box-content">
-                                                    <h5>Custom Control Panel</h5>
-                                                    <p>Our intuitive control panel gives you admin access to all of
-                                                        your
-                                                        DreamHost products
-                                                        easily.</p>
-                                                </div>
+                            <a href="#" class="btn primary-solid-btn mb-3" target="_blank">Purchase now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card text-center single-pricing-pack">
+                        <div class="pt-5">
+                            <h5 class="mb-0">Cloud Enterprise</h5>
+                            <p class="mb-0">Enterprise content management</p>
+                        </div>
+                        <div class="card-header pb-4 border-0 pricing-header">
+                            <div class="price text-center mb-0 monthly-price">$69<span>/month</span></div>
+                            <div class="price text-center mb-0 yearly-price">$259<span>/yearly</span></div>
+                            <div class="price text-center mb-0 biannual-price">$499<span>/biannual</span></div>
+                            <div class="price text-center mb-0 triennial-price">$739<span>/triennial</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled mb-4 pricing-feature-list">
+                                <li><span>60</span> Hosted Domains</li>
+                                <li><span>175 GB</span> RAID 10 Storage</li>
+                                <li><span>1500 GB</span> Bandwidth</li>
+                                <li><span>6 Free</span> Domain included</li>
+                                <li><span>Super Fast</span> SSD Storage</li>
+                                <li><span>Free</span> SSL Certificate</li>
+                                <li>99.95% Uptime</li>
+                                <li>24/7 Phone Support</li>
+                            </ul>
+                            <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="support-cta mt-5">
+                        <h5 class="mb-1 d-flex align-items-center justify-content-center"><span
+                                class="ti-loop color-primary mr-3 icon-sm"></span>Choose Your <a
+                                href="pricing-comparison.html" class="ml-2">Compare Hosting Plans</a></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--pricing with switch section end-->
+
+    <!--feature section start-->
+    <section class="feature-section ptb-100 gray-light-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-8">
+                    <div class="section-heading text-center mb-5">
+                        <h2>Best Hosting Features For You</h2>
+                        <p class="lead">These features come standard in all of our hosting plans. Dynamically
+                            extend
+                            imperatives through open-source quickly niche markets.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="feature-content-wrap">
+                        <ul class="nav nav-tabs feature-tab feature-new-tab justify-content-center mb-3 border-bottom-0"
+                            data-tabs="tabs">
+                            <li class="nav-item">
+                                <a class="nav-link d-flex align-items-center" href="#feature-tab-1" data-toggle="tab">
+                                    <h6 class="mb-0">Features</h6>
+                                </a>
+
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link d-flex align-items-center active" href="#feature-tab-2"
+                                    data-toggle="tab">
+                                    <h6 class="mb-0">Technical Features</h6>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="tab-content feature-tab-content">
+                            <div class="tab-pane" id="feature-tab-1">
+                                <div class="row">
+                                    <div class="col-md-6 col-lg-4">
+                                        <div class="features-box mt-md-5 mt-lg-5">
+                                            <div class="features-box-icon">
+                                                <span class="ti-panel icon-sm color-primary"></span>
                                             </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="features-box mt-md-5 mt-lg-5">
-                                                <div class="features-box-icon">
-                                                    <span class="ti-thumb-up icon-sm color-primary"></span>
-                                                </div>
-                                                <div class="features-box-content">
-                                                    <h5>Real-Life Human Beings</h5>
-                                                    <p>Tech veterans, geeks, and nerds are all standing by to
-                                                        optimize
-                                                        your experience whether.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="features-box mt-md-5 mt-lg-5">
-                                                <div class="features-box-icon">
-                                                    <span class="ti-mouse-alt icon-sm color-primary"></span>
-                                                </div>
-                                                <div class="features-box-content">
-                                                    <h5>1-Click Installer</h5>
-                                                    <p>No need to dig into a bunch of documentation. Simply install
-                                                        web
-                                                        apps like WordPress,
-                                                        Joomla!.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="features-box mt-md-5 mt-lg-5">
-                                                <div class="features-box-icon">
-                                                    <span class="ti-timer icon-sm color-primary"></span>
-                                                </div>
-                                                <div class="features-box-content">
-                                                    <h5>100% Uptime Guarantee</h5>
-                                                    <p>With multiple datacenter locations, redundant cooling,
-                                                        emergency
-                                                        generators and
-                                                        monitoring.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="features-box mt-md-5 mt-lg-5">
-                                                <div class="features-box-icon">
-                                                    <span class="ti-harddrives icon-sm color-primary"></span>
-                                                </div>
-                                                <div class="features-box-content">
-                                                    <h5>Solid State Drives (SSD)</h5>
-                                                    <p>With SSDs, your website, caching, and database queries are
-                                                        faster
-                                                        by our calculations. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="features-box mt-md-5 mt-lg-5">
-                                                <div class="features-box-icon">
-                                                    <span class="ti-cup icon-sm color-primary"></span>
-                                                </div>
-                                                <div class="features-box-content">
-                                                    <h5>Award-Winning Support</h5>
-                                                    <p>No question is too simple, or too complex for our team of
-                                                        experts. Synergistically
-                                                        synergize.</p>
-                                                </div>
+                                            <div class="features-box-content">
+                                                <h5>Custom Control Panel</h5>
+                                                <p>Our intuitive control panel gives you admin access to all of
+                                                    your
+                                                    DreamHost products
+                                                    easily.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="tab-pane active" id="feature-tab-2">
-                                    <div class="row">
-                                        <div class="col-md-6 col-lg-4 col-12">
-                                            <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
-                                                <span class="ti-harddrives icon-md color-primary d-block mb-3"></span>
-                                                <h5>Web Hosting Features</h5>
-                                                <ul class="list-unstyled tech-feature-list">
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Flexible,
-                                                        Easy to Use Control Panel</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Unmetered</strong>
-                                                        Bandwidth</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Unmetered</strong>
-                                                        Sub Domains, FTP Accounts</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>99%</strong>
-                                                        Uptime Guarantee</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>45-Day</strong>
-                                                        Money-Back Guarantee</li>
-                                                </ul>
+                                    <div class="col-md-6 col-lg-4">
+                                        <div class="features-box mt-md-5 mt-lg-5">
+                                            <div class="features-box-icon">
+                                                <span class="ti-thumb-up icon-sm color-primary"></span>
+                                            </div>
+                                            <div class="features-box-content">
+                                                <h5>Real-Life Human Beings</h5>
+                                                <p>Tech veterans, geeks, and nerds are all standing by to
+                                                    optimize
+                                                    your experience whether.</p>
                                             </div>
                                         </div>
-                                        <div class="col-md-6 col-lg-4 col-12">
-                                            <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
-                                                <span class="ti-panel icon-md color-primary d-block mb-3"></span>
-                                                <h5>cPanel Control Panel</h5>
-                                                <ul class="list-unstyled tech-feature-list">
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Latest</strong>
-                                                        cPanel Web Hosting Control Panel</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Webalizer,
-                                                        Raw Log Manager with Error Logs</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Instant
-                                                        Shopping Carts, Blogs, Portals</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Password</strong>
-                                                        Protected Directories Error Pages</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Web
-                                                        Based File Manager, Hotlink Protection</li>
-
-                                                </ul>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4">
+                                        <div class="features-box mt-md-5 mt-lg-5">
+                                            <div class="features-box-icon">
+                                                <span class="ti-mouse-alt icon-sm color-primary"></span>
+                                            </div>
+                                            <div class="features-box-content">
+                                                <h5>1-Click Installer</h5>
+                                                <p>No need to dig into a bunch of documentation. Simply install
+                                                    web
+                                                    apps like WordPress,
+                                                    Joomla!.</p>
                                             </div>
                                         </div>
-                                        <div class="col-md-6 col-lg-4 col-12">
-                                            <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
-                                                <span class="ti-server icon-md color-primary d-block mb-3"></span>
-                                                <h5>Programming & Databases</h5>
-                                                <ul class="list-unstyled tech-feature-list">
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>MySQL</strong>
-                                                        Databases with phpMyAdmin Access</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Fast
-                                                        CGI, PHP 7, Ruby on Rails, Python</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>ImageMagick</strong>
-                                                        Curl, CPAN, GD Library</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>SSH</strong>
-                                                        Access and Cron Job Scheduling</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>SSL
-                                                        Certification</li>
-                                                </ul>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4">
+                                        <div class="features-box mt-md-5 mt-lg-5">
+                                            <div class="features-box-icon">
+                                                <span class="ti-timer icon-sm color-primary"></span>
+                                            </div>
+                                            <div class="features-box-content">
+                                                <h5>100% Uptime Guarantee</h5>
+                                                <p>With multiple datacenter locations, redundant cooling,
+                                                    emergency
+                                                    generators and
+                                                    monitoring.</p>
                                             </div>
                                         </div>
-                                        <div class="col-md-6 col-lg-4 col-12">
-                                            <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
-                                                <span class="ti-email icon-md color-primary d-block mb-3"></span>
-                                                <h5>Email Features</h5>
-                                                <ul class="list-unstyled tech-feature-list">
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Unlimited</strong>
-                                                        POP3 Email Accounts with SMTP</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>WebMail
-                                                        Access: Horde, RoundCube</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Receive
-                                                        your email to your phone via IMAP</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Prevent
-                                                        spam with SpamAssassin</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Unlimited</strong>
-                                                        Email Aliases, Autoresponders</li>
-                                                </ul>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4">
+                                        <div class="features-box mt-md-5 mt-lg-5">
+                                            <div class="features-box-icon">
+                                                <span class="ti-harddrives icon-sm color-primary"></span>
+                                            </div>
+                                            <div class="features-box-content">
+                                                <h5>Solid State Drives (SSD)</h5>
+                                                <p>With SSDs, your website, caching, and database queries are
+                                                    faster
+                                                    by our calculations. </p>
                                             </div>
                                         </div>
-                                        <div class="col-md-6 col-lg-4 col-12">
-                                            <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
-                                                <span
-                                                    class="ti-headphone-alt icon-md color-primary d-block mb-3"></span>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4">
+                                        <div class="features-box mt-md-5 mt-lg-5">
+                                            <div class="features-box-icon">
+                                                <span class="ti-cup icon-sm color-primary"></span>
+                                            </div>
+                                            <div class="features-box-content">
                                                 <h5>Award-Winning Support</h5>
-                                                <ul class="list-unstyled tech-feature-list">
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>24/7/365</strong>
-                                                        Premium Support with Live Chat</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Automatic</strong>
-                                                        Weekly Off-Site Data Backups</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>24/7/365</strong>
-                                                        Hosting Server Monitoring</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span>Online
-                                                        Support Portal</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>500+</strong>Video
-                                                        Tutorials and <strong>680+</strong> Help Articles</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4 col-12">
-                                            <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
-                                                <span
-                                                    class="ti-direction-alt icon-md color-primary d-block mb-3"></span>
-                                                <h5>Application Hosting Plan</h5>
-                                                <ul class="list-unstyled tech-feature-list">
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Free</strong>
-                                                        Website Transfer, Domain Transfer</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>52
-                                                            Free</strong> scripts can be instantly installed</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>$100</strong>
-                                                        Google Adwords Offer (Details)</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>$100</strong>
-                                                        Bing Ads Credit (Details)</li>
-                                                    <li class="py-1"><span
-                                                            class="ti-control-forward mr-2 color-primary"></span><strong>Free</strong>
-                                                        SSL Certification website securely</li>
-                                                </ul>
+                                                <p>No question is too simple, or too complex for our team of
+                                                    experts. Synergistically
+                                                    synergize.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--feature section end-->
+                            <div class="tab-pane active" id="feature-tab-2">
+                                <div class="row">
+                                    <div class="col-md-6 col-lg-4 col-12">
+                                        <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
+                                            <span class="ti-harddrives icon-md color-primary d-block mb-3"></span>
+                                            <h5>Web Hosting Features</h5>
+                                            <ul class="list-unstyled tech-feature-list">
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Flexible,
+                                                    Easy to Use Control Panel</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Unmetered</strong>
+                                                    Bandwidth</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Unmetered</strong>
+                                                    Sub Domains, FTP Accounts</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>99%</strong>
+                                                    Uptime Guarantee</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>45-Day</strong>
+                                                    Money-Back Guarantee</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 col-12">
+                                        <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
+                                            <span class="ti-panel icon-md color-primary d-block mb-3"></span>
+                                            <h5>cPanel Control Panel</h5>
+                                            <ul class="list-unstyled tech-feature-list">
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Latest</strong>
+                                                    cPanel Web Hosting Control Panel</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Webalizer,
+                                                    Raw Log Manager with Error Logs</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Instant
+                                                    Shopping Carts, Blogs, Portals</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Password</strong>
+                                                    Protected Directories Error Pages</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Web
+                                                    Based File Manager, Hotlink Protection</li>
 
-        <!--call to action new style start-->
-        <section class="call-to-action ptb-100 gradient-overly-bottom"
-            style="background: url('@/assets/img/hero-bg-4.jpg')no-repeat center center / cover fixed">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="call-to-action-content text-white text-center">
-                            <h2 class="text-white">Already have a domain that you love?</h2>
-                            <p>No problem! It's quick and painless to transfer your hosting, domain registrations,
-                                or
-                                both
-                                to HostLar maximize market positioning solutions and enterprise services.</p>
-                            <div class="action-btns mt-3">
-                                <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
-                                <a href="#" class="btn outline-white-btn">New Customers</a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 col-12">
+                                        <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
+                                            <span class="ti-server icon-md color-primary d-block mb-3"></span>
+                                            <h5>Programming & Databases</h5>
+                                            <ul class="list-unstyled tech-feature-list">
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>MySQL</strong>
+                                                    Databases with phpMyAdmin Access</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Fast
+                                                    CGI, PHP 7, Ruby on Rails, Python</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>ImageMagick</strong>
+                                                    Curl, CPAN, GD Library</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>SSH</strong>
+                                                    Access and Cron Job Scheduling</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>SSL
+                                                    Certification</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 col-12">
+                                        <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
+                                            <span class="ti-email icon-md color-primary d-block mb-3"></span>
+                                            <h5>Email Features</h5>
+                                            <ul class="list-unstyled tech-feature-list">
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Unlimited</strong>
+                                                    POP3 Email Accounts with SMTP</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>WebMail
+                                                    Access: Horde, RoundCube</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Receive
+                                                    your email to your phone via IMAP</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Prevent
+                                                    spam with SpamAssassin</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Unlimited</strong>
+                                                    Email Aliases, Autoresponders</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 col-12">
+                                        <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
+                                            <span class="ti-headphone-alt icon-md color-primary d-block mb-3"></span>
+                                            <h5>Award-Winning Support</h5>
+                                            <ul class="list-unstyled tech-feature-list">
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>24/7/365</strong>
+                                                    Premium Support with Live Chat</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Automatic</strong>
+                                                    Weekly Off-Site Data Backups</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>24/7/365</strong>
+                                                    Hosting Server Monitoring</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span>Online
+                                                    Support Portal</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>500+</strong>Video
+                                                    Tutorials and <strong>680+</strong> Help Articles</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-4 col-12">
+                                        <div class="technical-specifications-wrap mt-md-5 mt-lg-5">
+                                            <span class="ti-direction-alt icon-md color-primary d-block mb-3"></span>
+                                            <h5>Application Hosting Plan</h5>
+                                            <ul class="list-unstyled tech-feature-list">
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Free</strong>
+                                                    Website Transfer, Domain Transfer</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>52
+                                                        Free</strong> scripts can be instantly installed</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>$100</strong>
+                                                    Google Adwords Offer (Details)</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>$100</strong>
+                                                    Bing Ads Credit (Details)</li>
+                                                <li class="py-1"><span
+                                                        class="ti-control-forward mr-2 color-primary"></span><strong>Free</strong>
+                                                    SSL Certification website securely</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--call to action new style end-->
+        </div>
+    </section>
+    <!--feature section end-->
 
-        <!--start and transfer section start-->
-        <section class="start-transfer ptb-100 gray-light-bg">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>Easy to Start and Hassle free Transfer</h2>
-                            <p class="lead">Get Immediate Activation or Express Transfer service free of charge.
-                                Enthusiastically enhance testing procedures and cross.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row start-website-box">
-                    <div class="col-lg-6 col-12 pr-lg-0">
-                        <div class="left-box white-bg">
-                            <div class="d-flex align-items-center mb-4">
-                                <span class="ti-vector icon-sm text-white primary-bg p-2 rounded mr-3"></span>
-                                <h5 class="mb-0">Start a New Website <span class="badge color-1 color-1-bg">Easy to
-                                        start</span></h5>
-                            </div>
-                            <ul>
-                                <li>
-                                    <strong>One-click App Marketplace</strong>
-                                    <p>Over 450 Apps ready to be installed in seconds</p>
-                                </li>
-                                <li>
-                                    <strong>The best DIY solution</strong>
-                                    <p>20+ Frameworks and your favorite dev tools</p>
-                                </li>
-                                <li>
-                                    <strong>Step by Step Tutorials</strong>
-                                    <p>3000+ pages of tutorials to get you started</p>
-                                </li>
-                                <li>
-                                    <strong>Unlimited 24/7 Priority Support</strong>
-                                    <p>Always-free in-house technical support</p>
-                                </li>
-                            </ul>
-                            <div class="btn-holder mt-4">
-                                <a class="btn primary-solid-btn" href="#">Start now</a>
-                            </div>
-                            <p class="mt-3">
-                                <small>Sign up today before <span class="text-blue" data-role="site-activation-timer"
-                                        data-type="new">04:00 PM</span> and get
-                                    Immediate Account
-                                    Activation and Free Website Setup!
-                                </small>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-12 pl-lg-0">
-                        <div class="right-box primary-bg">
-                            <div class="d-flex align-items-center mb-4">
-                                <span class="ti-loop icon-sm color-primary white-bg p-2 rounded mr-3"></span>
-                                <h5 class="mb-0 text-white">Express Transfer</h5>
-                            </div>
-                            <ul>
-                                <li>
-                                    <strong>People-powered site transfer</strong>
-                                    <p>No messy automation - get it done by experts</p>
-                                </li>
-                                <li>
-                                    <strong>No downtime, Fast and Painless</strong>
-                                    <p>Express Transfer service included in all plans</p>
-                                </li>
-                                <li>
-                                    <strong>Free Domain Transfer</strong>
-                                    <p>Free one-year domain renewal after transfer</p>
-                                </li>
-                                <li>
-                                    <strong>Free months of hosting</strong>
-                                    <p>Up to six months unused time compensation</p>
-                                </li>
-                            </ul>
-                            <div class="btn-holder mt-4">
-                                <a class="btn solid-white-btn" href="#">Transfer Now</a>
-                            </div>
-                            <p class="mt-3">
-                                <small>Sign up now and get your website transferred by <span class="text-yellow"
-                                        data-role="site-activation-timer" data-type="transfer">04:57 PM</span>
-                                    today with free Express Transfer!
-                                </small>
-                            </p>
+    <!--call to action new style start-->
+    <section class="call-to-action ptb-100 gradient-overly-bottom"
+        style="background: url('@/assets/img/hero-bg-4.jpg')no-repeat center center / cover fixed">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-8">
+                    <div class="call-to-action-content text-white text-center">
+                        <h2 class="text-white">Already have a domain that you love?</h2>
+                        <p>No problem! It's quick and painless to transfer your hosting, domain registrations,
+                            or
+                            both
+                            to HostLar maximize market positioning solutions and enterprise services.</p>
+                        <div class="action-btns mt-3">
+                            <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
+                            <a href="#" class="btn outline-white-btn">New Customers</a>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--start and transfer section end-->
+        </div>
+    </section>
+    <!--call to action new style end-->
 
-        <!--network map section start-->
-        <section class="network-map-section ptb-100 ">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>Our Data centers Location</h2>
-                            <p class="lead">Cloudhub offers a low latency worldwide network, enabling you to deploy
-                                your
-                                service infrastructure in close proximity to your customer base.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="network-map-wrap">
-                            <ul class="custom-map-location">
-                                <li style="top: 29%; left: 15.5%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Canada"></span>
-                                </li>
-                                <li style="top: 42%; left: 20%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="United States"></span>
-                                </li>
-                                <li style="top: 70%; left: 32%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Brazil"></span>
-                                </li>
-                                <li style="top: 57%; left: 48%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Nigeria"></span>
-                                </li>
-                                <li style="top: 18%; left: 53%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Finland"></span>
-                                </li>
-                                <li style="top: 34%; left: 55%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Ukraine"></span>
-                                </li>
-                                <li style="top: 45%; left: 68%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="India"></span>
-                                </li>
-                                <li style="top: 35%; left: 80%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="China"></span>
-                                </li>
-                                <li style="top: 77%; left: 85%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Australia"></span>
-                                </li>
-                            </ul>
-                            <img src="@/assets/img/map-dark.svg" alt="location map">
-                        </div>
+    <!--start and transfer section start-->
+    <section class="start-transfer ptb-100 gray-light-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-8">
+                    <div class="section-heading text-center mb-5">
+                        <h2>Easy to Start and Hassle free Transfer</h2>
+                        <p class="lead">Get Immediate Activation or Express Transfer service free of charge.
+                            Enthusiastically enhance testing procedures and cross.</p>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--network map section end-->
+            <div class="row start-website-box">
+                <div class="col-lg-6 col-12 pr-lg-0">
+                    <div class="left-box white-bg">
+                        <div class="d-flex align-items-center mb-4">
+                            <span class="ti-vector icon-sm text-white primary-bg p-2 rounded mr-3"></span>
+                            <h5 class="mb-0">Start a New Website <span class="badge color-1 color-1-bg">Easy to
+                                    start</span></h5>
+                        </div>
+                        <ul>
+                            <li>
+                                <strong>One-click App Marketplace</strong>
+                                <p>Over 450 Apps ready to be installed in seconds</p>
+                            </li>
+                            <li>
+                                <strong>The best DIY solution</strong>
+                                <p>20+ Frameworks and your favorite dev tools</p>
+                            </li>
+                            <li>
+                                <strong>Step by Step Tutorials</strong>
+                                <p>3000+ pages of tutorials to get you started</p>
+                            </li>
+                            <li>
+                                <strong>Unlimited 24/7 Priority Support</strong>
+                                <p>Always-free in-house technical support</p>
+                            </li>
+                        </ul>
+                        <div class="btn-holder mt-4">
+                            <a class="btn primary-solid-btn" href="#">Start now</a>
+                        </div>
+                        <p class="mt-3">
+                            <small>Sign up today before <span class="text-blue" data-role="site-activation-timer"
+                                    data-type="new">04:00 PM</span> and get
+                                Immediate Account
+                                Activation and Free Website Setup!
+                            </small>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12 pl-lg-0">
+                    <div class="right-box primary-bg">
+                        <div class="d-flex align-items-center mb-4">
+                            <span class="ti-loop icon-sm color-primary white-bg p-2 rounded mr-3"></span>
+                            <h5 class="mb-0 text-white">Express Transfer</h5>
+                        </div>
+                        <ul>
+                            <li>
+                                <strong>People-powered site transfer</strong>
+                                <p>No messy automation - get it done by experts</p>
+                            </li>
+                            <li>
+                                <strong>No downtime, Fast and Painless</strong>
+                                <p>Express Transfer service included in all plans</p>
+                            </li>
+                            <li>
+                                <strong>Free Domain Transfer</strong>
+                                <p>Free one-year domain renewal after transfer</p>
+                            </li>
+                            <li>
+                                <strong>Free months of hosting</strong>
+                                <p>Up to six months unused time compensation</p>
+                            </li>
+                        </ul>
+                        <div class="btn-holder mt-4">
+                            <a class="btn solid-white-btn" href="#">Transfer Now</a>
+                        </div>
+                        <p class="mt-3">
+                            <small>Sign up now and get your website transferred by <span class="text-yellow"
+                                    data-role="site-activation-timer" data-type="transfer">04:57 PM</span>
+                                today with free Express Transfer!
+                            </small>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--start and transfer section end-->
 
-        <!--testimonial and review section start-->
-        <section class="client-review-section ptb-100 gray-light-bg">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>What Our Customers Say About Us?</h2>
-                            <p class="lead">Authoritatively reinvent client-centric fully tested process
-                                improvements.
-                                Objectively restore strategic initiatives through fully researched.</p>
-                        </div>
+    <!--network map section start-->
+    <section class="network-map-section ptb-100 ">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-8">
+                    <div class="section-heading text-center mb-5">
+                        <h2>Our Data centers Location</h2>
+                        <p class="lead">Cloudhub offers a low latency worldwide network, enabling you to deploy
+                            your
+                            service infrastructure in close proximity to your customer base.</p>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-12 col-lg-12">
-                        <div class="owl-carousel owl-theme client-testimonial custom-dot dot-bottom-center">
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Awesome Support !</h5>
-                                        <p>Objectively magnetic manufactured products and dynamic models.
-                                            Progressively
-                                            maximize 2.0 relationships imperatives through whereas process-centric.
-                                        </p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Alex Khamer</h6>
-                                        <small class="text-right">6 days ago</small>
-                                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="network-map-wrap">
+                        <ul class="custom-map-location">
+                            <li style="top: 29%; left: 15.5%;">
+                                <span data-toggle="tooltip" data-placement="top" title="Canada"></span>
+                            </li>
+                            <li style="top: 42%; left: 20%;">
+                                <span data-toggle="tooltip" data-placement="top" title="United States"></span>
+                            </li>
+                            <li style="top: 70%; left: 32%;">
+                                <span data-toggle="tooltip" data-placement="top" title="Brazil"></span>
+                            </li>
+                            <li style="top: 57%; left: 48%;">
+                                <span data-toggle="tooltip" data-placement="top" title="Nigeria"></span>
+                            </li>
+                            <li style="top: 18%; left: 53%;">
+                                <span data-toggle="tooltip" data-placement="top" title="Finland"></span>
+                            </li>
+                            <li style="top: 34%; left: 55%;">
+                                <span data-toggle="tooltip" data-placement="top" title="Ukraine"></span>
+                            </li>
+                            <li style="top: 45%; left: 68%;">
+                                <span data-toggle="tooltip" data-placement="top" title="India"></span>
+                            </li>
+                            <li style="top: 35%; left: 80%;">
+                                <span data-toggle="tooltip" data-placement="top" title="China"></span>
+                            </li>
+                            <li style="top: 77%; left: 85%;">
+                                <span data-toggle="tooltip" data-placement="top" title="Australia"></span>
+                            </li>
+                        </ul>
+                        <img src="@/assets/img/map-dark.svg" alt="location map">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--network map section end-->
+
+    <!--testimonial and review section start-->
+    <section class="client-review-section ptb-100 gray-light-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-8">
+                    <div class="section-heading text-center mb-5">
+                        <h2>What Our Customers Say About Us?</h2>
+                        <p class="lead">Authoritatively reinvent client-centric fully tested process
+                            improvements.
+                            Objectively restore strategic initiatives through fully researched.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-lg-12">
+                    <div class="owl-carousel owl-theme client-testimonial custom-dot dot-bottom-center">
+                        <div class="item">
+                            <div class="single-testimonial white-bg shadow-sm rounded p-5">
+                                <ul class="list-inline ratting-list mb-2">
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                </ul>
+                                <div class="ratting-content">
+                                    <h5>Awesome Support !</h5>
+                                    <p>Objectively magnetic manufactured products and dynamic models.
+                                        Progressively
+                                        maximize 2.0 relationships imperatives through whereas process-centric.
+                                    </p>
+                                </div>
+                                <div class="ratting-author mt-3">
+                                    <h6>Alex Khamer</h6>
+                                    <small class="text-right">6 days ago</small>
                                 </div>
                             </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Pleasant support experience</h5>
-                                        <p>Objectively envisioneer magnetic manufactured products and dynamic
-                                            models.
-                                            Progressively maximize 2.0 relationships methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Peter Anderson</h6>
-                                        <small class="text-right">3 days ago</small>
-                                    </div>
+                        </div>
+                        <div class="item">
+                            <div class="single-testimonial white-bg shadow-sm rounded p-5">
+                                <ul class="list-inline ratting-list mb-2">
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                </ul>
+                                <div class="ratting-content">
+                                    <h5>Pleasant support experience</h5>
+                                    <p>Objectively envisioneer magnetic manufactured products and dynamic
+                                        models.
+                                        Progressively maximize 2.0 relationships methodologies.</p>
+                                </div>
+                                <div class="ratting-author mt-3">
+                                    <h6>Peter Anderson</h6>
+                                    <small class="text-right">3 days ago</small>
                                 </div>
                             </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Contacted support after Midnight</h5>
-                                        <p>Objectively envisioneer magnetic manufactured products and dynamic
-                                            maximize
-                                            2.0 relationships whereas process-centric methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Jolio Darix</h6>
-                                        <small class="text-right">8 days ago</small>
-                                    </div>
+                        </div>
+                        <div class="item">
+                            <div class="single-testimonial white-bg shadow-sm rounded p-5">
+                                <ul class="list-inline ratting-list mb-2">
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                </ul>
+                                <div class="ratting-content">
+                                    <h5>Contacted support after Midnight</h5>
+                                    <p>Objectively envisioneer magnetic manufactured products and dynamic
+                                        maximize
+                                        2.0 relationships whereas process-centric methodologies.</p>
+                                </div>
+                                <div class="ratting-author mt-3">
+                                    <h6>Jolio Darix</h6>
+                                    <small class="text-right">8 days ago</small>
                                 </div>
                             </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Great experience with the technical</h5>
-                                        <p>Objectively manufactured products and dynamic models maximize 2.0
-                                            relationships whereas process-centric methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Carolyn Dani</h6>
-                                        <small class="text-right">6 days ago</small>
-                                    </div>
+                        </div>
+                        <div class="item">
+                            <div class="single-testimonial white-bg shadow-sm rounded p-5">
+                                <ul class="list-inline ratting-list mb-2">
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                </ul>
+                                <div class="ratting-content">
+                                    <h5>Great experience with the technical</h5>
+                                    <p>Objectively manufactured products and dynamic models maximize 2.0
+                                        relationships whereas process-centric methodologies.</p>
+                                </div>
+                                <div class="ratting-author mt-3">
+                                    <h6>Carolyn Dani</h6>
+                                    <small class="text-right">6 days ago</small>
                                 </div>
                             </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Reliable web hosting company</h5>
-                                        <p>Objectively magnetic manufactured products and dynamic models.
-                                            Progressively
-                                            maximize 2.0 relationships whereas.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Alex Dari</h6>
-                                        <small class="text-right">4 days ago</small>
-                                    </div>
+                        </div>
+                        <div class="item">
+                            <div class="single-testimonial white-bg shadow-sm rounded p-5">
+                                <ul class="list-inline ratting-list mb-2">
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                </ul>
+                                <div class="ratting-content">
+                                    <h5>Reliable web hosting company</h5>
+                                    <p>Objectively magnetic manufactured products and dynamic models.
+                                        Progressively
+                                        maximize 2.0 relationships whereas.</p>
+                                </div>
+                                <div class="ratting-author mt-3">
+                                    <h6>Alex Dari</h6>
+                                    <small class="text-right">4 days ago</small>
                                 </div>
                             </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>People and services that care</h5>
-                                        <p>Objectively envisioneer magnetic manufactured products and dynamic models
-                                            maximize 2.0 relationships whereas process-centric methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Sir Rainbo </h6>
-                                        <small class="text-right">2 days ago</small>
-                                    </div>
+                        </div>
+                        <div class="item">
+                            <div class="single-testimonial white-bg shadow-sm rounded p-5">
+                                <ul class="list-inline ratting-list mb-2">
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                    <li class="list-inline-item"><span class="fas fa-star"></span></li>
+                                </ul>
+                                <div class="ratting-content">
+                                    <h5>People and services that care</h5>
+                                    <p>Objectively envisioneer magnetic manufactured products and dynamic models
+                                        maximize 2.0 relationships whereas process-centric methodologies.</p>
+                                </div>
+                                <div class="ratting-author mt-3">
+                                    <h6>Sir Rainbo </h6>
+                                    <small class="text-right">2 days ago</small>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--testimonial and review section end-->
+        </div>
+    </section>
+    <!--testimonial and review section end-->
     </div>
 </template>
 
@@ -1158,304 +1214,304 @@
     background-image: url('@/assets/img/home1.jpg');
     height: 700px;
 } */
- .border-1 {
+.border-1 {
     border: 5px solid red;
- 
+
     /* border-color: #c368f7; */
- }
+}
 
 /* btn 1 of tarikul */
- .btnb {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     width: 13rem;
-     overflow: hidden;
-     height: 3rem;
-     background-size: 300% 300%;
-     backdrop-filter: blur(1rem);
-     border-radius: 5rem;
-     transition: 0.5s;
-     animation: gradient_301 5s ease infinite;
-     border: double 4px transparent;
-     background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #ffdb3b 10%, #FE53BB 45%, #8F51EA 67%, #0044ff 87%);
-     background-origin: border-box;
-     background-clip: content-box, border-box;
- }
+.btnb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 13rem;
+    overflow: hidden;
+    height: 3rem;
+    background-size: 300% 300%;
+    backdrop-filter: blur(1rem);
+    border-radius: 5rem;
+    transition: 0.5s;
+    animation: gradient_301 5s ease infinite;
+    border: double 4px transparent;
+    background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #ffdb3b 10%, #FE53BB 45%, #8F51EA 67%, #0044ff 87%);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+}
 
- #container-stars {
-     position: absolute;
-     z-index: -1;
-     width: 100%;
-     height: 100%;
-     overflow: hidden;
-     transition: 0.5s;
-     backdrop-filter: blur(1rem);
-     border-radius: 5rem;
- }
+#container-stars {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transition: 0.5s;
+    backdrop-filter: blur(1rem);
+    border-radius: 5rem;
+}
 
- strong {
-     z-index: 2;
-     font-family: 'Avalors Personal Use';
-     font-size: 12px;
-     letter-spacing: 5px;
-     color: #FFFFFF;
-     text-shadow: 0 0 4px white;
- }
+strong {
+    z-index: 2;
+    font-family: 'Avalors Personal Use';
+    font-size: 12px;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+    text-shadow: 0 0 4px white;
+}
 
- #glow {
-     position: absolute;
-     display: flex;
-     width: 12rem;
- }
+#glow {
+    position: absolute;
+    display: flex;
+    width: 12rem;
+}
 
- .circle {
-     width: 100%;
-     height: 30px;
-     filter: blur(2rem);
-     animation: pulse_3011 4s infinite;
-     z-index: -1;
- }
+.circle {
+    width: 100%;
+    height: 30px;
+    filter: blur(2rem);
+    animation: pulse_3011 4s infinite;
+    z-index: -1;
+}
 
- .circle:nth-of-type(1) {
-     background: rgba(254, 83, 186, 0.636);
- }
+.circle:nth-of-type(1) {
+    background: rgba(254, 83, 186, 0.636);
+}
 
- .circle:nth-of-type(2) {
-     background: rgba(142, 81, 234, 0.704);
- }
+.circle:nth-of-type(2) {
+    background: rgba(142, 81, 234, 0.704);
+}
 
- .btn:hover #container-stars {
-     z-index: 1;
-     background-color: #212121;
- }
+.btn:hover #container-stars {
+    z-index: 1;
+    background-color: #212121;
+}
 
- .btn:hover {
-     transform: scale(1.1)
- }
+.btn:hover {
+    transform: scale(1.1)
+}
 
- .btn:active {
-     border: double 4px #FE53BB;
-     background-origin: border-box;
-     background-clip: content-box, border-box;
-     animation: none;
- }
+.btn:active {
+    border: double 4px #FE53BB;
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    animation: none;
+}
 
- .btn:active .circle {
-     background: #FE53BB;
- }
+.btn:active .circle {
+    background: #FE53BB;
+}
 
- #stars {
-     position: relative;
-     background: transparent;
-     width: 200rem;
-     height: 200rem;
- }
+#stars {
+    position: relative;
+    background: transparent;
+    width: 200rem;
+    height: 200rem;
+}
 
- #stars::after {
-     content: "";
-     position: absolute;
-     top: -10rem;
-     left: -100rem;
-     width: 100%;
-     height: 100%;
-     animation: animStarRotate 90s linear infinite;
- }
+#stars::after {
+    content: "";
+    position: absolute;
+    top: -10rem;
+    left: -100rem;
+    width: 100%;
+    height: 100%;
+    animation: animStarRotate 90s linear infinite;
+}
 
- #stars::after {
-     background-image: radial-gradient(#ffffff 1px, transparent 1%);
-     background-size: 50px 50px;
- }
+#stars::after {
+    background-image: radial-gradient(#ffffff 1px, transparent 1%);
+    background-size: 50px 50px;
+}
 
- #stars::before {
-     content: "";
-     position: absolute;
-     top: 0;
-     left: -50%;
-     width: 170%;
-     height: 500%;
-     animation: animStar 60s linear infinite;
- }
+#stars::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -50%;
+    width: 170%;
+    height: 500%;
+    animation: animStar 60s linear infinite;
+}
 
- #stars::before {
-     background-image: radial-gradient(#ffffff 1px, transparent 1%);
-     background-size: 50px 50px;
-     opacity: 0.5;
- }
+#stars::before {
+    background-image: radial-gradient(#ffffff 1px, transparent 1%);
+    background-size: 50px 50px;
+    opacity: 0.5;
+}
 
- @keyframes animStar {
-     from {
-         transform: translateY(0);
-     }
+@keyframes animStar {
+    from {
+        transform: translateY(0);
+    }
 
-     to {
-         transform: translateY(-135rem);
-     }
- }
+    to {
+        transform: translateY(-135rem);
+    }
+}
 
- @keyframes animStarRotate {
-     from {
-         transform: rotate(360deg);
-     }
+@keyframes animStarRotate {
+    from {
+        transform: rotate(360deg);
+    }
 
-     to {
-         transform: rotate(0);
-     }
- }
+    to {
+        transform: rotate(0);
+    }
+}
 
- @keyframes gradient_301 {
-     0% {
-         background-position: 0% 50%;
-     }
+@keyframes gradient_301 {
+    0% {
+        background-position: 0% 50%;
+    }
 
-     50% {
-         background-position: 100% 50%;
-     }
+    50% {
+        background-position: 100% 50%;
+    }
 
-     100% {
-         background-position: 0% 50%;
-     }
- }
+    100% {
+        background-position: 0% 50%;
+    }
+}
 
- @keyframes pulse_3011 {
-     0% {
-         transform: scale(0.75);
-         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
-     }
+@keyframes pulse_3011 {
+    0% {
+        transform: scale(0.75);
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+    }
 
-     70% {
-         transform: scale(1);
-         box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
-     }
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+    }
 
-     100% {
-         transform: scale(0.75);
-         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-     }
- }
+    100% {
+        transform: scale(0.75);
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+}
 
- /* btn 2 from tarikul */
- button {
-     background: transparent;
-     position: relative;
-     padding: 5px 15px;
-     display: flex;
-     align-items: center;
-     font-size: 17px;
-     font-weight: 600;
-     text-decoration: none;
-     cursor: pointer;
-     border: 1px solid rgb(40, 144, 241);
-     border-radius: 25px;
-     outline: none;
-     overflow: hidden;
-     color: rgb(40, 144, 241);
-     transition: color 0.3s 0.1s ease-out;
-     text-align: center;
- }
+/* btn 2 from tarikul */
+button {
+    background: transparent;
+    position: relative;
+    padding: 5px 15px;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid rgb(40, 144, 241);
+    border-radius: 25px;
+    outline: none;
+    overflow: hidden;
+    color: rgb(40, 144, 241);
+    transition: color 0.3s 0.1s ease-out;
+    text-align: center;
+}
 
- button span {
-     margin: 2px;
- }
+button span {
+    margin: 2px;
+}
 
- button::before {
-     position: absolute;
-     top: 0;
-     left: 0;
-     right: 0;
-     bottom: 0;
-     margin: auto;
-     content: '';
-     border-radius: 50%;
-     display: block;
-     width: 20em;
-     height: 20em;
-     left: -5em;
-     text-align: center;
-     transition: box-shadow 0.5s ease-out;
-     z-index: -1;
- }
+button::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    content: '';
+    border-radius: 50%;
+    display: block;
+    width: 20em;
+    height: 20em;
+    left: -5em;
+    text-align: center;
+    transition: box-shadow 0.5s ease-out;
+    z-index: -1;
+}
 
- button:hover {
-     color: #fff;
-     border: 1px solid rgb(40, 144, 241);
- }
+button:hover {
+    color: #fff;
+    border: 1px solid rgb(40, 144, 241);
+}
 
- button:hover::before {
-     box-shadow: inset 0 0 0 10em rgb(40, 144, 241);
- }
+button:hover::before {
+    box-shadow: inset 0 0 0 10em rgb(40, 144, 241);
+}
 
- /* btn 3 from tarikul */
- .button3 {
-     position: relative;
-     transition: all 0.3s ease-in-out;
-     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
-     padding-block: 0.5rem;
-     padding-inline: 1.25rem;
-     background-color: rgb(0 107 179);
-     border-radius: 9999px;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     cursor: pointer;
-     color: #ffff;
-     gap: 10px;
-     font-weight: bold;
-     border: 3px solid #ffffff4d;
-     outline: none;
-     overflow: hidden;
-     font-size: 15px;
- }
+/* btn 3 from tarikul */
+.button3 {
+    position: relative;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    padding-block: 0.5rem;
+    padding-inline: 1.25rem;
+    background-color: rgb(0 107 179);
+    border-radius: 9999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #ffff;
+    gap: 10px;
+    font-weight: bold;
+    border: 3px solid #ffffff4d;
+    outline: none;
+    overflow: hidden;
+    font-size: 15px;
+}
 
- .icon {
-     width: 24px;
-     height: 24px;
-     transition: all 0.3s ease-in-out;
- }
+.icon {
+    width: 24px;
+    height: 24px;
+    transition: all 0.3s ease-in-out;
+}
 
- .button:hover {
-     transform: scale(1.05);
-     border-color: #fff9;
- }
+.button:hover {
+    transform: scale(1.05);
+    border-color: #fff9;
+}
 
- .button:hover .icon {
-     transform: translate(4px);
- }
+.button:hover .icon {
+    transform: translate(4px);
+}
 
- .button:hover::before {
-     animation: shine 1.5s ease-out infinite;
- }
+.button:hover::before {
+    animation: shine 1.5s ease-out infinite;
+}
 
- .button::before {
-     content: "";
-     position: absolute;
-     width: 100px;
-     height: 100%;
-     background-image: linear-gradient(120deg,
-             rgba(255, 255, 255, 0) 30%,
-             rgba(255, 255, 255, 0.8),
-             rgba(255, 255, 255, 0) 70%);
-     top: 0;
-     left: -100px;
-     opacity: 0.6;
- }
+.button::before {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 100%;
+    background-image: linear-gradient(120deg,
+            rgba(255, 255, 255, 0) 30%,
+            rgba(255, 255, 255, 0.8),
+            rgba(255, 255, 255, 0) 70%);
+    top: 0;
+    left: -100px;
+    opacity: 0.6;
+}
 
- @keyframes shine {
-     0% {
-         left: -100px;
-     }
+@keyframes shine {
+    0% {
+        left: -100px;
+    }
 
-     60% {
-         left: 100%;
-     }
+    60% {
+        left: 100%;
+    }
 
-     to {
-         left: 100%;
-     }
- }
+    to {
+        left: 100%;
+    }
+}
 
 /* btn 4 start */
-button {
+button4 {
     --green: #1BFD9C;
     font-size: 15px;
     padding: 0.7em 2.7em;
@@ -1492,7 +1548,202 @@ button:hover:before {
     transform: translateX(15em);
 }
 
+/* card section 6 */
+.card p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #666;
+}
 
+.card p.small {
+    font-size: 14px;
+}
 
+.go-corner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    background-color: #00838d;
+    border-radius: 0 4px 0 32px;
+}
 
+.go-arrow {
+    margin-top: -4px;
+    margin-right: -4px;
+    color: white;
+    font-family: courier, sans;
+}
+
+.card1 {
+    display: block;
+    position: relative;
+    max-width: 262px;
+    background-color: #f2f8f9;
+    border-radius: 4px;
+    padding: 32px 24px;
+    margin: 12px;
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.card1:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: -16px;
+    right: -16px;
+    background: #00838d;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(1);
+    transform-origin: 50% 50%;
+    transition: transform 0.25s ease-out;
+}
+
+.card1:hover:before {
+    transform: scale(21);
+}
+
+.card1:hover p {
+    transition: all 0.3s ease-out;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.card1:hover h3 {
+    transition: all 0.3s ease-out;
+    color: #fff;
+}
+
+.card2 {
+    display: block;
+    top: 0px;
+    position: relative;
+    max-width: 262px;
+    background-color: #f2f8f9;
+    border-radius: 4px;
+    padding: 32px 24px;
+    margin: 12px;
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+    border: 1px solid #f2f8f9;
+}
+
+.card2:hover {
+    transition: all 0.2s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.card2:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: -16px;
+    right: -16px;
+    background: #00838d;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(2);
+    transform-origin: 50% 50%;
+    transition: transform 0.15s ease-out;
+}
+
+.card2:hover:before {
+    transform: scale(2.15);
+}
+
+.card3 {
+    display: block;
+    top: 0px;
+    position: relative;
+    max-width: 262px;
+    background-color: #f2f8f9;
+    border-radius: 4px;
+    padding: 32px 24px;
+    margin: 12px;
+    text-decoration: none;
+    overflow: hidden;
+    border: 1px solid #f2f8f9;
+}
+
+.card3 .go-corner {
+    opacity: 0.7;
+}
+
+.card3:hover {
+    border: 1px solid #00838d;
+    box-shadow: 0px 0px 999px 999px rgba(255, 255, 255, 0.5);
+    z-index: 500;
+}
+
+.card3:hover p {
+    color: #00838d;
+}
+
+.card3:hover .go-corner {
+    transition: opactiy 0.3s linear;
+    opacity: 1;
+}
+
+.card4 {
+    display: block;
+    top: 0px;
+    position: relative;
+    max-width: 262px;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 32px 24px;
+    margin: 12px;
+    text-decoration: none;
+    overflow: hidden;
+    border: 1px solid #ccc;
+}
+
+.card4 .go-corner {
+    background-color: #00838d;
+    height: 100%;
+    width: 16px;
+    padding-right: 9px;
+    border-radius: 0;
+    transform: skew(6deg);
+    margin-right: -36px;
+    align-items: start;
+    background-image: linear-gradient(-45deg, #8f479a 1%, #dc2a74 100%);
+}
+
+.card4 .go-arrow {
+    transform: skew(-6deg);
+    margin-left: -2px;
+    margin-top: 9px;
+    opacity: 0;
+}
+
+.card4:hover {
+    border: 1px solid #cd3d73;
+}
+
+.card4 h3 {
+    margin-top: 8px;
+}
+
+.card4:hover .go-corner {
+    margin-right: -12px;
+}
+
+.card4:hover .go-arrow {
+    opacity: 1;
+}
 </style>
