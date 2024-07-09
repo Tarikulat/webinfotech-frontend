@@ -1,7 +1,7 @@
 <template>
     <div class="main">
 
-        <!--hero section start-->
+        <!--hero section 1 start-->
         <section class="hero-slider-section imga">
             <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
                 <div class="item">
@@ -53,14 +53,14 @@
 
                                         <li> <button>
                                                 <svg viewBox="0 0 16 16" class="bi bi-twitter" fill="currentColor"
-                                                    height="18" width="18" >
+                                                    height="18" width="18">
                                                     <path
                                                         d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z">
                                                     </path>
                                                 </svg>
                                                 <span>Details</span>
-                                             </button>
-                                            </li>
+                                            </button>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -132,9 +132,9 @@
                 </div> -->
             </div>
         </section>
-        <!--hero section end-->
+        <!--hero section 1 end-->
 
-        <!--feature section start-->
+        <!-- section 2 start-->
         <section class="feature-section ptb-100">
             <div class="container">
                 <div class="row align-items-center">
@@ -196,9 +196,9 @@
                 </div>
             </div>
         </section>
-        <!--feature section end-->
+        <!-- section 2 end-->
 
-        <!--blog section start-->
+        <!--card section 3 start-->
         <section class="our-blog-section ptb-100 gray-light-bg">
             <div class="container">
 
@@ -211,7 +211,7 @@
 
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm">
+                        <div class="single-blog-card card border-0 shadow-sm border-1">
                             <span class="category position-absolute badge badge-pill badge-primary">Top</span>
                             <img src="@/assets/img/hc1.svg" class="card-img-top position-relative" alt="blog">
                             <div class="card-body">
@@ -334,14 +334,23 @@
                     <div class="col-md-12">
                         <nav class="custom-pagination-nav mt-4">
                             <ul class="pagination justify-content-center">
-                                <li class="page-item"><a class="page-link" href="#"><span
+
+                                <button class="button3">
+                                    All Services
+                                    <svg fill="currentColor" viewBox="0 0 24 24" class="icon">
+                                        <path clip-rule="evenodd"
+                                            d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+                                            fill-rule="evenodd"></path>
+                                    </svg>
+                                </button>
+                                <!-- <li class="page-item"><a class="page-link" href="#"><span
                                             class="ti-angle-left"></span></a></li>
                                 <li class="page-item active"><a class="page-link" href="#">1</a></li>
                                 <li class="page-item"><a class="page-link" href="#">2</a></li>
                                 <li class="page-item"><a class="page-link" href="#">3</a></li>
                                 <li class="page-item"><a class="page-link" href="#">4</a></li>
                                 <li class="page-item"><a class="page-link" href="#"><span
-                                            class="ti-angle-right"></span></a></li>
+                                            class="ti-angle-right"></span></a></li> -->
                             </ul>
                         </nav>
                     </div>
@@ -350,7 +359,69 @@
 
             </div>
         </section>
-        <!--blog section end-->
+        <!--card section 3 end-->
+
+        <!-- Section 4 start-->
+        <section class="feature-section ptb-100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-lg-6">
+
+                        <div class="cta-new-wrap">
+                            <ui>
+                                <li> <img src="@/assets/img/hs3.png" alt="hosting" class="img-fluid" /></li>
+
+                            </ui>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6">
+                        <div class="cta-new-wrap">
+                            <h2>About Our Laravel Development Services</h2>
+                            <p class="lead">Our Laravel Development Services provide robust, scalable, and secure web
+                                applications customized to your business needs. Our expert developers leverage the power
+                                of Laravel to deliver high-quality solutions, ranging from simple websites to complex
+                                enterprise systems. We focus on performance, user experience, and seamless
+                                functionality, ensuring your project is delivered on time and exceeds expectations.
+                                Partner with us for reliable, efficient, and innovative Laravel solutions.</p>
+
+                            <button class="button3">
+                                Know More
+                                <svg fill="currentColor" viewBox="0 0 24 24" class="icon">
+                                    <path clip-rule="evenodd"
+                                        d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+                                        fill-rule="evenodd"></path>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!--Section 4 end-->
+
+        <!--Section 5 start-->
+        <section class="call-to-action ptb-100 gradient-overly-bottom"
+            style="background: url('@/assets/img/hero-bg-4.jpg')no-repeat center center / cover fixed">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="call-to-action-content text-white text-left">
+                            <h4 class="text-white">Web Infotech is a Leading Web Development Software Company</h4> <br>
+                            <p>We have strong principles and a long history of delivering effective web development
+                                solutions</p>
+                            <!-- <div class="action-btns mt-3">
+                                <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
+                                <a href="#" class="btn outline-white-btn">New Customers</a>
+                            </div> -->
+                        </div>
+                        <button> Meet Our Talented team
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Section 5 end-->
 
         <!--pricing with switch section start-->
         <section class="pricing-section ptb-100">
@@ -1087,6 +1158,11 @@
     background-image: url('@/assets/img/home1.jpg');
     height: 700px;
 } */
+ .border-1 {
+    border: 5px solid red;
+ 
+    /* border-color: #c368f7; */
+ }
 
 /* btn 1 of tarikul */
  .btnb {
@@ -1377,4 +1453,46 @@
          left: 100%;
      }
  }
+
+/* btn 4 start */
+button {
+    --green: #1BFD9C;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(to right, rgba(27, 253, 156, 0.1) 1%, transparent 40%, transparent 60%, rgba(27, 253, 156, 0.1) 100%);
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.4), 0 0 9px 3px rgba(27, 253, 156, 0.1);
+}
+
+button:hover {
+    color: #82ffc9;
+    box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.6), 0 0 9px 3px rgba(27, 253, 156, 0.2);
+}
+
+button:before {
+    content: "";
+    position: absolute;
+    left: -4em;
+    width: 4em;
+    height: 100%;
+    top: 0;
+    transition: transform .4s ease-in-out;
+    background: linear-gradient(to right, transparent 1%, rgba(27, 253, 156, 0.1) 40%, rgba(27, 253, 156, 0.1) 60%, transparent 100%);
+}
+
+button:hover:before {
+    transform: translateX(15em);
+}
+
+
+
+
 </style>
