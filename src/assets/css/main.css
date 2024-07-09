@@ -52629,8 +52629,10 @@ svg.shape-bg, svg.promo-bg {
 
 /* line 1483, src/assets/scss/custom/_style.scss */
 .gradient-overly-right:before {
-  background: -webkit-gradient(linear, left top, right top, from(#031974), to(rgba(25, 52, 167, 0.5)));
-  background: linear-gradient(90deg, #031974, rgba(25, 52, 167, 0.5));
+  /* background: -webkit-gradient(linear, left top, right top, from(#031974), to(rgba(25, 52, 167, 0.5)));
+  background: linear-gradient(90deg, #031974, rgba(25, 52, 167, 0.5)); */
+      background: linear-gradient(90deg, #035074, rgb(167 25 141 / 50%));
+
 }
 
 /* line 1486, src/assets/scss/custom/_style.scss */

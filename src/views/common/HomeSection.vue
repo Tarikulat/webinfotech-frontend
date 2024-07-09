@@ -37,34 +37,31 @@
                                                 </a></li>
                                         </ul>
                                     </div> <br>
-                                    
-                                           <ul class="">
-                                            <li><button class="btnb" type="button">
-                                                    <strong>What We Do</strong>
-                                                    <div id="container-stars">
-                                                        <div id="stars"></div>
-                                                    </div>
 
-                                                    <div id="glow">
-                                                        <div class="circle"></div>
-                                                        <div class="circle"></div>
-                                                    </div>
-                                                </button></li> <br>
+                                    <ul class="">
+                                        <li><button class="btnb" type="button2">
+                                                <strong>What We Do</strong>
+                                                <div id="container-stars">
+                                                    <div id="stars"></div>
+                                                </div>
 
-                                            <li> <button class="button">
-                                                    <span class="span"><svg xmlns="http://www.w3.org/2000/svg"
-                                                            fill="none" viewBox="0 0 23 21" height="21" width="23"
-                                                            class="svg-icon">
-                                                            <path stroke-linejoin="round" stroke-linecap="round"
-                                                                stroke-width="2" stroke="black"
-                                                                d="M1.97742 19.7776C4.45061 17.1544 7.80838 15.5423 11.5068 15.5423C15.2053 15.5423 18.5631 17.1544 21.0362 19.7776M16.2715 6.54229C16.2715 9.17377 14.1383 11.307 11.5068 11.307C8.87535 11.307 6.74212 9.17377 6.74212 6.54229C6.74212 3.91082 8.87535 1.77759 11.5068 1.77759C14.1383 1.77759 16.2715 3.91082 16.2715 6.54229Z">
-                                                            </path>
-                                                        </svg></span>
-                                                    <span class="lable">Details</span>
-                                                </button></li>
-                                        </ul>
-                                  
+                                                <div id="glow">
+                                                    <div class="circle"></div>
+                                                    <div class="circle"></div>
+                                                </div>
+                                            </button></li> <br>
 
+                                        <li> <button>
+                                                <svg viewBox="0 0 16 16" class="bi bi-twitter" fill="currentColor"
+                                                    height="18" width="18" >
+                                                    <path
+                                                        d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z">
+                                                    </path>
+                                                </svg>
+                                                <span>Details</span>
+                                             </button>
+                                            </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -161,13 +158,13 @@
                                 the globe, through frontend technologies like</p>
                             <ul class="list-unstyled tech-feature-list">
                                 <li class="py-1"><span
-                                        class="ti-control-forward mr-2 color-primary"></span><strong>React Js</strong>
-                                    is a JavaScript library for building user interfaces</li>
+                                        class="ti-control-forward mr-2 color-primary"></span><strong>React Js</strong>is
+                                    a JavaScript library for building user interfaces</li>
                                 <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span><strong>Vue
                                         Js</strong> is a progressive, incrementally-adoptable JavaScript framework </li>
                                 <li class="py-1"><span
-                                        class="ti-control-forward mr-2 color-primary"></span><strong>Laravel</strong>
-                                    Laravel has become a standard-bearer for a new way of development</li>
+                                        class="ti-control-forward mr-2 color-primary"></span><strong>Laravel</strong>Laravel
+                                    has become a standard-bearer for a new way of development</li>
 
                             </ul>
                             <p>Our clients can also have robust, high-performance, easily manageable, secure, and
@@ -185,7 +182,7 @@
                                     Started Now</a>
                             </div> -->
 
-                            <button class="button">
+                            <button class="button3">
                                 More Info
                                 <svg fill="currentColor" viewBox="0 0 24 24" class="icon">
                                     <path clip-rule="evenodd"
@@ -1090,6 +1087,8 @@
     background-image: url('@/assets/img/home1.jpg');
     height: 700px;
 } */
+
+/* btn 1 of tarikul */
  .btnb {
      display: flex;
      justify-content: center;
@@ -1259,59 +1258,59 @@
      }
  }
 
- /* section 1 of 2nd btn from tarikul */
- .button {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     padding: 9px 12px;
-     gap: 8px;
-     height: 45px;
-     width: 150px;
-     border: none;
-     background: rgb(74, 180, 50);
-     border-radius: 50px;
-     cursor: pointer;
+ /* btn 2 from tarikul */
+ button {
+     background: transparent;
      position: relative;
- }
-
- .lable {
-     line-height: 22px;
+     padding: 5px 15px;
+     display: flex;
+     align-items: center;
      font-size: 17px;
-     color: #fff;
-     margin-left: 20px;
-     font-family: sans-serif;
-     letter-spacing: 1px;
+     font-weight: 600;
+     text-decoration: none;
+     cursor: pointer;
+     border: 1px solid rgb(40, 144, 241);
+     border-radius: 25px;
+     outline: none;
+     overflow: hidden;
+     color: rgb(40, 144, 241);
+     transition: color 0.3s 0.1s ease-out;
+     text-align: center;
  }
 
- .button .span {
-     border-radius: 50%;
-     background-color: rgb(48, 129, 29);
-     padding: 10px;
+ button span {
+     margin: 2px;
+ }
+
+ button::before {
      position: absolute;
+     top: 0;
      left: 0;
+     right: 0;
+     bottom: 0;
+     margin: auto;
+     content: '';
+     border-radius: 50%;
+     display: block;
+     width: 20em;
+     height: 20em;
+     left: -5em;
+     text-align: center;
+     transition: box-shadow 0.5s ease-out;
+     z-index: -1;
  }
 
- .button:hover {
-     background: rgb(48, 129, 29);
+ button:hover {
+     color: #fff;
+     border: 1px solid rgb(40, 144, 241);
  }
 
- .button:hover .svg-icon {
-     animation: slope 0.8s linear infinite;
+ button:hover::before {
+     box-shadow: inset 0 0 0 10em rgb(40, 144, 241);
  }
 
- @keyframes slope {
-     0% {}
-
-     50% {
-         transform: rotate(15deg);
-     }
-
-     100% {}
- }
-
- /* section 2 btn from tarikul */
- .button {
+ /* btn 3 from tarikul */
+ .button3 {
      position: relative;
      transition: all 0.3s ease-in-out;
      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
