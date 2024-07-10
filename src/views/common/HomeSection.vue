@@ -1664,7 +1664,7 @@ button:hover:before {
     transform: translateX(15em);
 }
 
-/* card section 6 */
+/* card section 6 start below*/
 .card p {
     font-size: 17px;
     font-weight: 400;
