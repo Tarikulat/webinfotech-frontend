@@ -36,9 +36,134 @@
                     <div id="navBar" class="collapse navbar-collapse">
                         <ul class="navbar-nav ml-auto main-navbar-nav">
                             <!--home start-->
+                            <!-- tarikul start navbar section 1 -->
+                            <!--hosting start-->
+                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="520px"
+                                data-position="left">
+                                <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
+                                    href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Company</a>
+
+                                <!-- Demos - Mega Menu -->
+                                <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="hostingMegaMenu">
+                                    <div class="row no-gutters">
+
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-envelope"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Email Hosting</span>
+                                                            <small class="u-header__promo-text">First Starting at
+                                                                <strong>$0.99/mo
+                                                                    per mailbox</strong></small>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-database"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Shared Wordpress
+                                                                Hosting</span>
+                                                            <small class="u-header__promo-text">Conveniently Starting at
+                                                                <strong>$9.99/mo</strong></small>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-envelope"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Email Hosting</span>
+                                                            <small class="u-header__promo-text">First Starting at
+                                                                <strong>$0.99/mo
+                                                                    per mailbox</strong></small>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-database"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Shared Wordpress
+                                                                Hosting</span>
+                                                            <small class="u-header__promo-text">Conveniently Starting at
+                                                                <strong>$9.99/mo</strong></small>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-envelope"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Email Hosting</span>
+                                                            <small class="u-header__promo-text">First Starting at
+                                                                <strong>$0.99/mo
+                                                                    per mailbox</strong></small>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-database"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Shared Wordpress
+                                                                Hosting</span>
+                                                            <small class="u-header__promo-text">Conveniently Starting at
+                                                                <strong>$9.99/mo</strong></small>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- End Demos - Mega Menu -->
+                            </li>
+                            <!--hosting end-->
+                            <!-- tarikul end navbar section 1 -->
+
+
+
                             <li class="nav-item hs-has-mega-menu custom-nav-item" data-position="left">
                                 <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle"
-                                    href="javascript:void(0);" aria-haspopup="true" aria-expanded="false">Home</a>
+                                    href="javascript:void(0);" aria-haspopup="true" aria-expanded="false">Project</a>
 
                                 <!--home mega menu start-->
                                 <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="homeMegaMenu">

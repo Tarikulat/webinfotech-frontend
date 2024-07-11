@@ -51606,10 +51606,10 @@ select.form-control.has-value {
 
 /* line 572, src/assets/scss/custom/_style.scss */
 .custom-nav-link {
-  font-size: 14px;
+  font-size: 17px;
   line-height: 16px;
   font-family: 'Poppins', sans-serif;
-  font-weight: 500;
+  font-weight: 650;
   color: #575757;
   position: relative;
 }
@@ -51752,7 +51752,7 @@ select.form-control.has-value {
 
 /* line 692, src/assets/scss/custom/_style.scss */
 .navbar-expand .u-header__mega-menu-position-right-fix.hs-mega-menu.hs-position-right {
-  right: 20%;
+  right: 10%;
 }
 
 /* line 696, src/assets/scss/custom/_style.scss */
