@@ -38,7 +38,7 @@
                             <!--home start-->
                             <!-- tarikul start navbar section 1 -->
                             <!--hosting start-->
-                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="520px"
+                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="580px"
                                 data-position="left">
                                 <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
                                     href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Company</a>
@@ -52,13 +52,10 @@
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="email-hosting.html">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-envelope"></i>
+                                                        <div class="menu-item-icon"><i class="fab fa-leanpub"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Email Hosting</span>
-                                                            <small class="u-header__promo-text">First Starting at
-                                                                <strong>$0.99/mo
-                                                                    per mailbox</strong></small>
+                                                            <span class="u-header__promo-title">About Us</span>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -68,13 +65,12 @@
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="shared-wp-hosting.html">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-database"></i>
+                                                        <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Shared Wordpress
-                                                                Hosting</span>
-                                                            <small class="u-header__promo-text">Conveniently Starting at
-                                                                <strong>$9.99/mo</strong></small>
+                                                            <span class="u-header__promo-title">Careers
+                                                            </span>
+
                                                         </div>
                                                     </div>
                                                 </a>
@@ -87,13 +83,10 @@
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="email-hosting.html">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-envelope"></i>
+                                                        <div class="menu-item-icon"><i class="fas fa-gifts"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Email Hosting</span>
-                                                            <small class="u-header__promo-text">First Starting at
-                                                                <strong>$0.99/mo
-                                                                    per mailbox</strong></small>
+                                                            <span class="u-header__promo-title">Our Culture</span>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -103,13 +96,11 @@
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="shared-wp-hosting.html">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-database"></i>
+                                                        <div class="menu-item-icon"><i class="	far fa-compass"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Shared Wordpress
-                                                                Hosting</span>
-                                                            <small class="u-header__promo-text">Conveniently Starting at
-                                                                <strong>$9.99/mo</strong></small>
+                                                            <span class="u-header__promo-title">Life@ServiceKey
+                                                            </span>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -122,13 +113,10 @@
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="email-hosting.html">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-envelope"></i>
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Email Hosting</span>
-                                                            <small class="u-header__promo-text">First Starting at
-                                                                <strong>$0.99/mo
-                                                                    per mailbox</strong></small>
+                                                            <span class="u-header__promo-title">Infrastructure</span>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -138,13 +126,10 @@
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="shared-wp-hosting.html">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-database"></i>
+                                                        <div class="menu-item-icon"><i class="	far fa-snowflake"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Shared Wordpress
-                                                                Hosting</span>
-                                                            <small class="u-header__promo-text">Conveniently Starting at
-                                                                <strong>$9.99/mo</strong></small>
+                                                            <span class="u-header__promo-title">Testimonials</span>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -158,8 +143,6 @@
                             </li>
                             <!--hosting end-->
                             <!-- tarikul end navbar section 1 -->
-
-
 
                             <li class="nav-item hs-has-mega-menu custom-nav-item" data-position="left">
                                 <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle"
