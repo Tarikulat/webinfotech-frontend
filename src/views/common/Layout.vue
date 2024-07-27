@@ -7,7 +7,7 @@ import { Topbar, Header, HomeSection, Footer } from '@/views/common'
   <div>
     <!-- This is home page Layout structure start -->
 
-    <Topbar />
+    <!-- <Topbar /> -->
 
     <Header />
 

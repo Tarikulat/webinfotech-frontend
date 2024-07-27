@@ -2,18 +2,18 @@
     <div class="main">
 
         <!--hero section 1 start-->
-        <section class="hero-slider-section imga">
+        <section class="hero-slider-section imga background-container">
             <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
                 <div class="item">
                     <div class="gradient-overly-right hero-equal-height ptb-100"
                         style="background: url('@/assets/img/hero-17.jpg')no-repeat center center / cover">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-9 col-lg-8">
+                                <div class="col-md-12 col-lg-12">
                                     <div class="hero-content-wrap text-white position-relative z-index">
-                                        <h2 class="text-white">Your Trusted and Reliable</h2>
-                                        <h1 class="text-white">ECOMMERCE & WEB DEVELOPMENT</h1>
-                                        <h2 class="text-white">Partner to Empower your Business</h2>
+                                        <h3 class="text-white">Your Trusted and Reliable</h3>
+                                        <h2 class="text-white">ECOMMERCE & WEB DEVELOPMENT</h2>
+                                        <h2 class="text-white">Partner to Empower your Business</h2> <br>
 
                                         <p class="lead">We are a group of creative design and development minds
                                             providing futuristic and contemporary web development
@@ -23,115 +23,67 @@
                                             state-of-art techniques and technologies.
                                         </p>
                                     </div>
+                                </div>
+
+
+                                <div class="col-md-12 col-lg-12">
+                                    <div class="domain-list-wrap mt-4">
+                                        <ul class="list-inline  text-white pad">
+                                            <li class="list-inline-item img-position"><a href="#"><img
+                                                        src="@/assets/img/hi1.png" alt="com" class="img-fluid" />
+                                                </a></li>
+                                            <li class="list-inline-item img-position"><a href="#"><img
+                                                        src="@/assets/img/hi2.png" alt="com" class="img-fluid" />
+                                                </a></li>
+                                            <li class="list-inline-item img-position"><a href="#"><img
+                                                        src="@/assets/img/hi3.png" alt="com" class="img-fluid" />
+                                                </a></li>
+
+                                            <li class="list-inline-item img-position"><a href="#"><img
+                                                        src="@/assets/img/hi1.png" alt="com" class="img-fluid" />
+                                                </a></li>
+                                            <li class="list-inline-item img-position"><a href="#"><img
+                                                        src="@/assets/img/hi2.png" alt="com" class="img-fluid" />
+                                                </a></li>
+
+                                        </ul>
+                                    </div>
 
                                     <div class="domain-list-wrap mt-4">
-                                        <ul class="list-inline domain-search-list text-white">
-                                            <li class="list-inline-item"><a href="#"><img src="@/assets/img/hi1.png"
-                                                        alt="com" width="70" class="img-fluid" />
-                                                </a></li>
-                                            <li class="list-inline-item"><a href="#"><img src="@/assets/img/hi2.png"
-                                                        alt="com" width="70" class="img-fluid" />
-                                                </a></li>
-                                            <li class="list-inline-item"><a href="#"><img src="@/assets/img/hi3.png"
-                                                        alt="com" width="70" class="img-fluid" />
-                                                </a></li>
+                                        <ul class="list-inline  text-white pad">
+                                            <li class="list-inline-item pos"><button class="btnb" type="button2">
+                                                    <strong>What We Do</strong>
+                                                    <div id="container-stars">
+                                                        <div id="stars"></div>
+                                                    </div>
+
+                                                    <div id="glow">
+                                                        <div class="circle"></div>
+                                                        <div class="circle"></div>
+                                                    </div>
+                                                </button>
+                                            </li>
+
+                                            <li class="list-inline-item"> <button>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                        fill="currentColor" class="bi bi-card-text" viewBox="0 0 16 16">
+                                                        <path
+                                                            d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2z" />
+                                                        <path
+                                                            d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8m0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5" />
+                                                    </svg>
+                                                    <span> Details</span>
+                                                </button>
+                                            </li>
                                         </ul>
-                                    </div> <br>
-
-                                    <ul class="">
-                                        <li><button class="btnb" type="button2">
-                                                <strong>What We Do</strong>
-                                                <div id="container-stars">
-                                                    <div id="stars"></div>
-                                                </div>
-
-                                                <div id="glow">
-                                                    <div class="circle"></div>
-                                                    <div class="circle"></div>
-                                                </div>
-                                            </button></li> <br>
-
-                                        <li> <button>
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                                    fill="currentColor" class="bi bi-card-text" viewBox="0 0 16 16">
-                                                    <path
-                                                        d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2z" />
-                                                    <path
-                                                        d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8m0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5" />
-                                                </svg>
-                                                <span> Details</span>
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- <div class="item">
-                    <div class="gradient-overly-right hero-equal-height ptb-100"
-                        style="background: url('@/assets/img/hero-10.jpg')no-repeat center center / cover">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-9 col-lg-8">
-                                    <div class="hero-content-wrap text-white">
-                                        <h1 class="text-white">Search Your Unique Domain</h1>
-                                        <p class="lead">If your WordPress website is your personal business, we
-                                            want you to succeed. We made our Hostlar hosting platform.</p>
-                                        <form action="domain-search-result.php" class="domain-search-form mt-3 w-75">
-                                            <div class="input-group">
-                                                <input type="text" name="domain" id="domain" class="form-control"
-                                                    placeholder="example.com" />
-                                                <div class="input-group-append">
-                                                    <button class="btn search-btn btn-hover d-flex align-items-center"
-                                                        type="submit">
-                                                        <span class="ti-search mr-2"></span> Search
-                                                    </button>
-                                                </div>
-                                            </div>
-                                        </form>
-                                        <div class="domain-list-wrap mt-4">
-                                            <ul class="list-inline domain-search-list text-white">
-                                                <li class="list-inline-item"><a href="#"><img src="@/assets/img/hi1.png"
-                                                            alt="com" width="70" class="img-fluid" />
-                                                    </a></li>
-                                                <li class="list-inline-item"><a href="#"><img src="@/assets/img/hi2.png"
-                                                            alt="com" width="70" class="img-fluid" />
-                                                    </a></li>
-                                                <li class="list-inline-item"><a href="#"><img src="@/assets/img/hi3.png"
-                                                            alt="com" width="70" class="img-fluid" />
-                                                    </a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="gradient-overly-right hero-equal-height ptb-100"
-                        style="background: url('@/assets/img/hero-4.jpg')no-repeat center center / cover">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-9 col-lg-8">
-                                    <div class="header-content text-white">
-                                        <div class="line"></div>
-                                        <h1 class="text-white">VPS Hosting</h1>
-                                        <p class="lead">Completely harness extensive testing procedures via
-                                            ubiquitous
-                                            processes. Globally envisioneer cross </p>
-                                        <div class="action-btns mt-3">
-                                            <a href="#" class="btn solid-white-btn mr-3">Check Prices</a>
-                                            <a href="#" class="btn outline-white-btn">Learn More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
+
         </section>
         <!--hero section 1 end-->
 
@@ -489,9 +441,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-9 col-lg-8">
-                        
-                            <h2>FAQs</h2>
-                      
+
+                        <h2>FAQs</h2>
+
                     </div>
                 </div>
                 <div class="row">
@@ -1326,8 +1278,28 @@
 </script>
 
 <style>
+.pos {
+    padding-right: 25px;
+}
+.pad {
+    padding-bottom: 25px;
+}
+.img-position {
+padding-right: 25px;
+}
+
+.background-container {
+    background-image: url('@/assets/img/bacimg.webp');
+    background-size: cover;
+    /* Adjust as needed */
+    background-position: center;
+    /* Adjust as needed */
+    width: 100%;
+    height: 100vh;
+    /* Full viewport height */
+}
 /* .imga {
-    background-image: url('@/assets/img/home1.jpg');
+    background-image: url('@/assets/img/bacimg.webp');
     height: 700px;
 } */
 .border-1 {
