@@ -25,7 +25,6 @@
                                     </div>
                                 </div>
 
-
                                 <div class="col-md-12 col-lg-12">
                                     <div class="domain-list-wrap mt-4">
                                         <ul class="list-inline  text-white pad">
@@ -98,42 +97,32 @@
                     </div>
                     <div class="col-md-7 col-lg-7">
                         <div class="cta-new-wrap">
-                            <h2>Best Web Development, eCommerce Development & Software Company</h2>
+                            <h2>Best Web Development Software Company in Bangladesh</h2>
                             <p class="lead">Being one of the leading web development companies in Bangladesh, We provide
                                 excellent eCommerce development,
                                 UI/UX design, web development, and digital marketing services to start-ups, small and
                                 medium-sized enterprises,
                                 and even major corporations around the world. Our experts use innovative ideas and
                                 technologies to help businesses
-                                enjoy an online presence and enable them to reach newer heights</p>
+                                enjoy an online presence and enable them to reach newer heights
 
-                            <p>We work on challenging eCommerce and web development projects for several clients around
-                                the globe, through frontend technologies like</p>
+                                <!-- We work on challenging eCommerce and web development projects for several clients
+                                around
+                                the globe, through frontend technologies like -->
+                            </p>
+
                             <ul class="list-unstyled tech-feature-list">
-                                <li class="py-1"><span
-                                        class="ti-control-forward mr-2 color-primary"></span><strong>React Js</strong>is
+                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"> React Js</span>is
                                     a JavaScript library for building user interfaces</li>
-                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span><strong>Vue
-                                        Js</strong> is a progressive, incrementally-adoptable JavaScript framework </li>
-                                <li class="py-1"><span
-                                        class="ti-control-forward mr-2 color-primary"></span><strong>Laravel</strong>Laravel
+                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"> Vue
+                                        Js</span>is a progressive, incrementally-adoptable JavaScript framework </li>
+                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"> Laravel</span>
                                     has become a standard-bearer for a new way of development</li>
 
                             </ul>
                             <p>Our clients can also have robust, high-performance, easily manageable, secure, and
                                 scalable enterprise-level
                                 web development solutions at affordable prices without compromising quality.</p>
-                            <!-- <ul class="list-unstyled tech-feature-list">
-                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span>Flexible, Easy to Use Control Panel</li>
-                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span><strong>Unmetered</strong> Bandwidth</li>
-                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span><strong>Unmetered</strong> Sub Domains, FTP Accounts</li>
-                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span><strong>99%</strong> Uptime Guarantee</li>
-                                <li class="py-1"><span class="ti-control-forward mr-2 color-primary"></span><strong>45-Day</strong> Money-Back Guarantee</li>
-                            </ul> -->
-                            <!-- <div class="action-btns mt-4">
-                                <a href="#download" class="btn primary-solid-btn animated-btn mr-lg-3">Get
-                                    Started Now</a>
-                            </div> -->
 
                             <button class="button3">
                                 More Info
@@ -145,7 +134,6 @@
                             </button>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
@@ -156,7 +144,7 @@
             <div class="container">
 
                 <div class="section-heading mb-5 al-text">
-                    <h3>Offering a Comprehensive Range of IT Services</h3>
+                    <h2>Offering a Comprehensive Range of IT Services</h2>
                     <p>
                         Our complete IT services help your business stand out from the crowd.
                     </p>
@@ -164,17 +152,10 @@
 
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm border-1">
+                        <div class="single-blog-card card border-0 shadow-sm border-1 bg-1">
                             <span class="category position-absolute badge badge-pill badge-primary">Top</span>
                             <img src="@/assets/img/hc1.svg" class="card-img-top position-relative" alt="blog">
                             <div class="card-body">
-                                <div class="post-meta mb-2">
-                                    <ul class="list-inline meta-list">
-                                        <li class="list-inline-item">Jan 21, 2019</li>
-                                        <li class="list-inline-item"><span>45</span> Comments</li>
-                                        <li class="list-inline-item"><span>10</span> Share</li>
-                                    </ul>
-                                </div>
                                 <h3 class="h5 card-title"><a href="#">Web Development</a></h3>
                                 <p class="card-text">From lightweight MVPs to complex web-based products, our experts
                                     can help make your vision a reality, while relieving you of all technical concerns.
@@ -184,17 +165,10 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm">
+                        <div class="single-blog-card card border-0 shadow-sm bg-2">
                             <span class="category position-absolute badge badge-pill badge-danger">Advance</span>
                             <img src="@/assets/img/hc2.svg" class="card-img-top position-relative" alt="blog">
                             <div class="card-body">
-                                <div class="post-meta mb-2">
-                                    <ul class="list-inline meta-list">
-                                        <li class="list-inline-item">May 26, 2019</li>
-                                        <li class="list-inline-item"><span>30</span> Comments</li>
-                                        <li class="list-inline-item"><span>5</span> Share</li>
-                                    </ul>
-                                </div>
                                 <h3 class="h5 card-title"><a href="#">eCommerce Development</a></h3>
                                 <p class="card-text">Our experts can create a modern, intuitive and eco-friendly store
                                     to exhibit your products and services to people worldwide.</p>
@@ -203,17 +177,10 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm">
+                        <div class="single-blog-card card border-0 shadow-sm bg-3">
                             <span class="category position-absolute badge badge-pill badge-info">Digital</span>
                             <img src="@/assets/img/hc3.svg" class="card-img-top" alt="blog">
                             <div class="card-body">
-                                <div class="post-meta mb-2">
-                                    <ul class="list-inline meta-list">
-                                        <li class="list-inline-item">Apr 25, 2019</li>
-                                        <li class="list-inline-item"><span>41</span> Comments</li>
-                                        <li class="list-inline-item"><span>30</span> Share</li>
-                                    </ul>
-                                </div>
                                 <h3 class="h5 card-title"><a href="#">Digital Marketing Services</a></h3>
                                 <p class="card-text">We could really assist you in enhancing brand authority and
                                     exposure. You are really only one tap away from reaching your intended audience..
@@ -223,17 +190,10 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm">
+                        <div class="single-blog-card card border-0 shadow-sm bg-4">
                             <span class="category position-absolute badge badge-pill badge-primary">UI/UX</span>
                             <img src="@/assets/img/hc4.svg" class="card-img-top position-relative" alt="blog">
                             <div class="card-body">
-                                <div class="post-meta mb-2">
-                                    <ul class="list-inline meta-list">
-                                        <li class="list-inline-item">Jan 21, 2019</li>
-                                        <li class="list-inline-item"><span>45</span> Comments</li>
-                                        <li class="list-inline-item"><span>10</span> Share</li>
-                                    </ul>
-                                </div>
                                 <h3 class="h5 card-title"><a href="#">UI/UX Designing </a></h3>
                                 <p class="card-text">Our experts create extraordinary UI/UX design ideas consistent with
                                     the latest trends and technologies.</p>
@@ -242,17 +202,10 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm">
+                        <div class="single-blog-card card border-0 shadow-sm bg-5">
                             <span class="category position-absolute badge badge-pill badge-danger">Technology</span>
                             <img src="@/assets/img/hc5.svg" class="card-img-top position-relative" alt="blog">
                             <div class="card-body">
-                                <div class="post-meta mb-2">
-                                    <ul class="list-inline meta-list">
-                                        <li class="list-inline-item">May 26, 2019</li>
-                                        <li class="list-inline-item"><span>30</span> Comments</li>
-                                        <li class="list-inline-item"><span>5</span> Share</li>
-                                    </ul>
-                                </div>
                                 <h3 class="h5 card-title"><a href="#">Open Source Development</a></h3>
                                 <p class="card-text">We can turn even the most complicated of your business ideas into
                                     reality with advanced open-source development technology</p>
@@ -261,17 +214,10 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm">
+                        <div class="single-blog-card card border-0 shadow-sm bg-6">
                             <span class="category position-absolute badge badge-pill badge-info">Science</span>
                             <img src="@/assets/img/hc6.svg" class="card-img-top" alt="blog">
                             <div class="card-body">
-                                <div class="post-meta mb-2">
-                                    <ul class="list-inline meta-list">
-                                        <li class="list-inline-item">Apr 25, 2019</li>
-                                        <li class="list-inline-item"><span>41</span> Comments</li>
-                                        <li class="list-inline-item"><span>30</span> Share</li>
-                                    </ul>
-                                </div>
                                 <h3 class="h5 card-title"><a href="#">Hire Developers</a></h3>
                                 <p class="card-text">We have a team of experienced developers. Hire dedicated developers
                                     on an hourly or monthly basis
@@ -296,14 +242,6 @@
                                             fill-rule="evenodd"></path>
                                     </svg>
                                 </button>
-                                <!-- <li class="page-item"><a class="page-link" href="#"><span
-                                            class="ti-angle-left"></span></a></li>
-                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                <li class="page-item"><a class="page-link" href="#">4</a></li>
-                                <li class="page-item"><a class="page-link" href="#"><span
-                                            class="ti-angle-right"></span></a></li> -->
                             </ul>
                         </nav>
                     </div>
@@ -315,7 +253,7 @@
         <!--card section 3 end-->
 
         <!-- Section 4 start-->
-        <section class="feature-section ptb-100">
+        <section class="feature-section pad-n">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6 col-lg-6">
@@ -354,19 +292,15 @@
         <!--Section 4 end-->
 
         <!--Section 5 start-->
-        <section class="call-to-action ptb-100 gradient-overly-bottom"
-            style="background: url('@/assets/img/hero-bg-4.jpg')no-repeat center center / cover fixed">
+        <section class="call-to-action gradient-overly-bottom pdn">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="call-to-action-content text-white text-left">
+                <div class="row justify-content-center pad-n b-img">
+                    <div class="col-md-9 col-lg-9">
+                        <div class="call-to-action-content text-green text-left">
                             <h4 class="text-white">Web Infotech is a Leading Web Development Software Company</h4> <br>
-                            <p>We have strong principles and a long history of delivering effective web development
+                            <p class="text-white">We have strong principles and a long history of delivering effective
+                                web development
                                 solutions</p>
-                            <!-- <div class="action-btns mt-3">
-                                <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
-                                <a href="#" class="btn outline-white-btn">New Customers</a>
-                            </div> -->
                         </div>
                         <button class="button4"> Meet Our Talented team
                         </button>
@@ -377,7 +311,7 @@
         <!--Section 5 end-->
 
         <!-- Section 6 start-->
-        <section class="feature-section ptb-100">
+        <section class="feature-section ptb-100 bg-co">
             <div class="container">
                 <div class="row align-items-center">
 
@@ -416,16 +350,145 @@
                     </div>
 
                     <div class="col-md-6 col-lg-6">
-                        <div class="card">
-                            <a class="card1" href="#">
-                                <p>This is heading</p>
-                                <p class="small">Card description with lots of great facts and interesting details.</p>
-                                <div class="go-corner" href="#">
-                                    <div class="go-arrow">
-                                        →
-                                    </div>
+                        <div class="ag-format-container">
+                            <div class="ag-courses_box">
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            PHP Laravel Development
+                                        </div>
+
+                                        <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                04.11.2018
+                                            </span>
+                                        </div>
+                                    </a>
                                 </div>
-                            </a>
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            Vue js Development
+                                        </div>
+
+                                        <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                07.05.2019
+                                            </span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            WordPress Development
+                                        </div>
+
+                                        <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                02.06.2020
+                                            </span>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            1.5M+ Man Hours
+                                        </div>
+
+                                        <!-- <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                04.11.2022
+                                            </span>
+                                        </div> -->
+                                    </a>
+                                </div>
+
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            20+ Top IT Experts
+                                        </div>
+
+                                        <!-- <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                04.11.2022
+                                            </span>
+                                        </div> -->
+                                    </a>
+                                </div>
+
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            150+ Clients Worldwide
+                                        </div>
+
+                                        <!-- <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                04.11.2022
+                                            </span>
+                                        </div> -->
+                                    </a>
+                                </div>
+
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            15K+ Happy Customers
+                                        </div>
+
+                                        <!-- <div class="ag-courses-item_date-box">
+                                            Start:
+                                            <span class="ag-courses-item_date">
+                                                30.11.2022
+                                            </span>
+                                        </div> -->
+                                    </a>
+                                </div>
+
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg"></div>
+
+                                        <div class="ag-courses-item_title">
+                                            250+ Completed Projects
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class="ag-courses_item">
+                                    <a href="#" class="ag-courses-item_link">
+                                        <div class="ag-courses-item_bg">
+                                        </div>
+                                        <div class="ag-courses-item_title">
+                                            98% Success Score in Marketplace
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
@@ -451,23 +514,21 @@
                         <div id="accordion-one" class="accordion accordion-faq">
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseOne">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
                                             d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
                                     </svg>
 
-                                    <h6 class="mb-0 d-inline-block">What is Web Hosting?</h6>
+                                    <h6 class="mb-0 d-inline-block">How many years of experience does the WPWeb Infotech
+                                        team have?</h6>
                                 </a>
                                 <div id="collapseOne" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                            sapiente ea proident.
-                                            Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table, raw denim aesthetic
-                                            synth nesciunt you probably haven't heard of them accusamus labore
-                                            sustainable
-                                            VHS.
+                                        <p>Every member of the WPWeb Infotech team has an experience of more than 5
+                                            years in their respective fields. Our execution team consists of
+                                            expert-level web developers and digital marketers, and there are no trainee
+                                            or apprentice members.
                                         </p>
                                     </div>
                                 </div>
@@ -475,67 +536,159 @@
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseTwo">
 
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
                                             d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
                                     </svg>
-                                    <h6 class="mb-0 d-inline-block">What Are the
-                                        Different Types of Web Hosting Products DreamHost Offers?</h6>
+                                    <h6 class="mb-0 d-inline-block">Can you ensure quality in outsourced web development
+                                        projects?</h6>
                                 </a>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table,
-                                            raw denim aesthetic
-                                            synth nesciunt you probably haven't heard of them accusamus labore
-                                            sustainable
-                                            VHS.
+                                        <p>WPWeb Infotech is an expert web development outsourcing company. Our experts
+                                            thoroughly analyze your project requirements and assign a suitable project
+                                            manager highly skilled and experienced in their respective fields, ensuring
+                                            quality in every aspect of a particular project. We even offer you an option
+                                            to hire your desired developer through a dedicated hiring model and take a
+                                            one-on-one interview with them to ensure they are the exact person your
+                                            project needs.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseThree">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
                                             d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
                                     </svg>
-                                    <h6 class="mb-0 d-inline-block">How Do I Buy a Domain
-                                        Name?
+                                    <h6 class="mb-0 d-inline-block">As a leading web development outsourcing company,
+                                        what are common engagement models you offer?
                                     </h6>
                                 </a>
                                 <div id="collapseThree" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                            sapiente ea proident.
-                                            Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table, raw denim aesthetic
-                                            synth nesciunt you probably haven't heard of them accusamus labore
-                                            sustainable
-                                            VHS.
+                                        <p>We offer the following engagement models for our clients.
+
+                                            Fixed Price: – If you have a predefined scope of work and the project
+                                            requirements are crystal clear then you can move ahead with the fixed cost
+                                            model.
+                                            Hourly Model: – If your tasks are not exactly defined and need research,
+                                            then hourly model works would suit you the best. This model is also the most
+                                            convenient model where you can first taste the waters before moving on to
+                                            larger projects.
+                                            Dedicated Hiring: – This is the most flexible business model where the
+                                            developer is dedicatedly aligned to work with you exclusively on your
+                                            project. In case your project is large there is also a possibility to add
+                                            another developer and meet deadlines. It’s as simple as a developer working
+                                            for you on our payroll.
+
+
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
                                             d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
                                     </svg>
-                                    <h6 class="mb-0 d-inline-block">Can You Help Me
-                                        Understand More About WordPress?
+                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
                                     </h6>
                                 </a>
                                 <div id="collapseFour" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                            sapiente ea proident.
-                                            Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table.
+                                        <p>
+                                            It depends on the client. If the client wants to sign an NDA before the
+                                            commencement of the project to ensure security, we are happy to oblige. But
+                                            we don’t force any client for an NDA.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
+                                        class="bi bi-chat-left" viewBox="0 0 16 16">
+                                        <path
+                                            d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                    </svg>
+                                    <h6 class="mb-0 d-inline-block">What method of communication should we use to
+                                        communicate with your project development team?
+                                    </h6>
+                                </a>
+                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>
+
+                                            Usually, we use Microsoft Team, Whatsapp, Telegram, Skype, Hangout and
+                                            Signal for easy communication with the clients. However, we are open to
+                                            other project management and communication tools like Asana, Trello, Slack,
+                                            Clickup, or Jira, as long as you are okay with it.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
+                                        class="bi bi-chat-left" viewBox="0 0 16 16">
+                                        <path
+                                            d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                    </svg>
+                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
+                                    </h6>
+                                </a>
+                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>
+                                            It depends on the client. If the client wants to sign an NDA before the
+                                            commencement of the project to ensure security, we are happy to oblige. But
+                                            we don’t force any client for an NDA.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
+                                        class="bi bi-chat-left" viewBox="0 0 16 16">
+                                        <path
+                                            d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                    </svg>
+                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
+                                    </h6>
+                                </a>
+                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>
+                                            It depends on the client. If the client wants to sign an NDA before the
+                                            commencement of the project to ensure security, we are happy to oblige. But
+                                            we don’t force any client for an NDA.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
+                                        class="bi bi-chat-left" viewBox="0 0 16 16">
+                                        <path
+                                            d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                    </svg>
+                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
+                                    </h6>
+                                </a>
+                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>
+                                            It depends on the client. If the client wants to sign an NDA before the
+                                            commencement of the project to ensure security, we are happy to oblige. But
+                                            we don’t force any client for an NDA.
                                         </p>
                                     </div>
                                 </div>
@@ -546,145 +699,6 @@
             </div>
         </div>
         <!--faq section end-->
-
-        <!--pricing with switch section start-->
-        <section class="pricing-section ptb-100">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>Managed Our Hosting Price</h2>
-                            <p class="lead">
-                                Professional hosting at an affordable price. Distinctively recaptiualize
-                                principle-centered
-                                core competencies through
-                                core competencies.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-10 col-sm-8 col-md-7">
-                        <div class="text-center mb-5 radio-box-wrap billingCycle">
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="monthly-plan" value="monthly" class="radio" type="radio"
-                                    checked>
-                                <label for="monthly-plan"><span class="custom-check"></span> Monthly</label>
-                            </div>
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="yearly-plan" value="yearly" class="radio" type="radio">
-                                <label for="yearly-plan"><span class="custom-check"></span> Yearly</label>
-                            </div>
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="biannual-plan" value="biannual" class="radio"
-                                    type="radio">
-                                <label for="biannual-plan"><span class="custom-check"></span> Biannual</label>
-                            </div>
-                            <div class="single-radio-box">
-                                <input name="billingPlan" id="triennial-plan" value="triennial" class="radio"
-                                    type="radio">
-                                <label for="triennial-plan"><span class="custom-check"></span> Triennial</label>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card text-center single-pricing-pack">
-                            <div class="pt-5">
-                                <h5 class="mb-0">Cloud Starter</h5>
-                                <p class="mb-0">Medium traffic personal sites</p>
-                            </div>
-                            <div class="card-header pb-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price">$19<span>/month</span></div>
-                                <div class="price text-center mb-0 yearly-price">$69<span>/yearly</span></div>
-                                <div class="price text-center mb-0 biannual-price">$130<span>/biannual</span></div>
-                                <div class="price text-center mb-0 triennial-price">$199<span>/triennial</span>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <ul class="list-unstyled mb-4 pricing-feature-list">
-                                    <li><span>10</span> Hosted Domains</li>
-                                    <li><span>25 GB</span> RAID 10 Storage</li>
-                                    <li><span>200 GB</span> Bandwidth</li>
-                                    <li><span>1 Free</span> Domain included</li>
-                                    <li><span>Super Fast</span> SSD Storage</li>
-                                    <li><span>Free</span> SSL Certificate</li>
-                                    <li>99.95% Uptime</li>
-                                    <li>24/7 Phone Support</li>
-                                </ul>
-                                <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card popular-price text-center single-pricing-pack">
-                            <div class="pt-5">
-                                <h5 class="mb-0">Cloud Business <span class="badge color-1 color-1-bg">Popular</span>
-                                </h5>
-                                <p class="mb-0">High traffic corporate sites</p>
-                            </div>
-                            <div class="card-header pb-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price">$49<span>/month</span></div>
-                                <div class="price text-center mb-0 yearly-price">$159<span>/yearly</span></div>
-                                <div class="price text-center mb-0 biannual-price">$299<span>/biannual</span></div>
-                                <div class="price text-center mb-0 triennial-price">$429<span>/triennial</span>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <ul class="list-unstyled mb-4 pricing-feature-list">
-                                    <li><span>30</span> Hosted Domains</li>
-                                    <li><span>75 GB</span> RAID 10 Storage</li>
-                                    <li><span>700 GB</span> Bandwidth</li>
-                                    <li><span>3 Free</span> Domain included</li>
-                                    <li><span>Super Fast</span> SSD Storage</li>
-                                    <li><span>Free</span> SSL Certificate</li>
-                                    <li>99.95% Uptime</li>
-                                    <li>24/7 Phone Support</li>
-                                </ul>
-                                <a href="#" class="btn primary-solid-btn mb-3" target="_blank">Purchase now</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card text-center single-pricing-pack">
-                            <div class="pt-5">
-                                <h5 class="mb-0">Cloud Enterprise</h5>
-                                <p class="mb-0">Enterprise content management</p>
-                            </div>
-                            <div class="card-header pb-4 border-0 pricing-header">
-                                <div class="price text-center mb-0 monthly-price">$69<span>/month</span></div>
-                                <div class="price text-center mb-0 yearly-price">$259<span>/yearly</span></div>
-                                <div class="price text-center mb-0 biannual-price">$499<span>/biannual</span></div>
-                                <div class="price text-center mb-0 triennial-price">$739<span>/triennial</span>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <ul class="list-unstyled mb-4 pricing-feature-list">
-                                    <li><span>60</span> Hosted Domains</li>
-                                    <li><span>175 GB</span> RAID 10 Storage</li>
-                                    <li><span>1500 GB</span> Bandwidth</li>
-                                    <li><span>6 Free</span> Domain included</li>
-                                    <li><span>Super Fast</span> SSD Storage</li>
-                                    <li><span>Free</span> SSL Certificate</li>
-                                    <li>99.95% Uptime</li>
-                                    <li>24/7 Phone Support</li>
-                                </ul>
-                                <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="support-cta mt-5">
-                            <h5 class="mb-1 d-flex align-items-center justify-content-center"><span
-                                    class="ti-loop color-primary mr-3 icon-sm"></span>Choose Your <a
-                                    href="pricing-comparison.html" class="ml-2">Compare Hosting Plans</a></h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--pricing with switch section end-->
 
         <!--feature section start-->
         <section class="feature-section ptb-100 gray-light-bg">
@@ -957,29 +971,6 @@
         </section>
         <!--feature section end-->
 
-        <!--call to action new style start-->
-        <section class="call-to-action ptb-100 gradient-overly-bottom"
-            style="background: url('@/assets/img/hero-bg-4.jpg')no-repeat center center / cover fixed">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="call-to-action-content text-white text-center">
-                            <h2 class="text-white">Already have a domain that you love?</h2>
-                            <p>No problem! It's quick and painless to transfer your hosting, domain registrations,
-                                or
-                                both
-                                to HostLar maximize market positioning solutions and enterprise services.</p>
-                            <div class="action-btns mt-3">
-                                <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
-                                <a href="#" class="btn outline-white-btn">New Customers</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--call to action new style end-->
-
         <!--start and transfer section start-->
         <section class="start-transfer ptb-100 gray-light-bg">
             <div class="container">
@@ -1069,59 +1060,6 @@
             </div>
         </section>
         <!--start and transfer section end-->
-
-        <!--network map section start-->
-        <section class="network-map-section ptb-100 ">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>Our Data centers Location</h2>
-                            <p class="lead">Cloudhub offers a low latency worldwide network, enabling you to deploy
-                                your
-                                service infrastructure in close proximity to your customer base.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="network-map-wrap">
-                            <ul class="custom-map-location">
-                                <li style="top: 29%; left: 15.5%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Canada"></span>
-                                </li>
-                                <li style="top: 42%; left: 20%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="United States"></span>
-                                </li>
-                                <li style="top: 70%; left: 32%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Brazil"></span>
-                                </li>
-                                <li style="top: 57%; left: 48%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Nigeria"></span>
-                                </li>
-                                <li style="top: 18%; left: 53%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Finland"></span>
-                                </li>
-                                <li style="top: 34%; left: 55%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Ukraine"></span>
-                                </li>
-                                <li style="top: 45%; left: 68%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="India"></span>
-                                </li>
-                                <li style="top: 35%; left: 80%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="China"></span>
-                                </li>
-                                <li style="top: 77%; left: 85%;">
-                                    <span data-toggle="tooltip" data-placement="top" title="Australia"></span>
-                                </li>
-                            </ul>
-                            <img src="@/assets/img/map-dark.svg" alt="location map">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--network map section end-->
 
         <!--testimonial and review section start-->
         <section class="client-review-section ptb-100 gray-light-bg">
@@ -1278,6 +1216,197 @@
 </script>
 
 <style>
+.pdn {
+    padding-bottom: 100px;
+}
+.bg-co {
+    background-color: #f6f7fa;
+}
+.ag-format-container {
+    width: 580px;
+    margin: 0 auto;
+}
+/* body {
+    background-color: #000;
+} */
+
+.ag-courses_box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    padding: 50px 0;
+}
+
+.ag-courses_item {
+    -ms-flex-preferred-size: calc(33.33333% - 30px);
+    flex-basis: calc(33.33333% - 30px);
+
+    margin: 0 15px 30px;
+
+    overflow: hidden;
+
+    border-radius: 28px;
+}
+
+.ag-courses-item_link {
+    display: block;
+    padding: 30px 20px;
+    background-color: #121212;
+
+    overflow: hidden;
+
+    position: relative;
+}
+
+.ag-courses-item_link:hover,
+.ag-courses-item_link:hover .ag-courses-item_date {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.ag-courses-item_link:hover .ag-courses-item_bg {
+    -webkit-transform: scale(10);
+    -ms-transform: scale(10);
+    transform: scale(10);
+}
+
+.ag-courses-item_title {
+    min-height: 87px;
+    margin: 0 0 25px;
+
+    overflow: hidden;
+
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFF;
+
+    z-index: 2;
+    position: relative;
+}
+
+.ag-courses-item_date-box {
+    font-size: 18px;
+    color: #FFF;
+
+    z-index: 2;
+    position: relative;
+}
+
+.ag-courses-item_date {
+    font-weight: bold;
+    color: #f9b234;
+
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease
+}
+
+.ag-courses-item_bg {
+    height: 128px;
+    width: 128px;
+    background-color: #f9b234;
+
+    z-index: 1;
+    position: absolute;
+    top: -75px;
+    right: -75px;
+
+    border-radius: 50%;
+
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.ag-courses_item:nth-child(2n) .ag-courses-item_bg {
+    background-color: #3ecd5e;
+}
+
+.ag-courses_item:nth-child(3n) .ag-courses-item_bg {
+    background-color: #e44002;
+}
+
+.ag-courses_item:nth-child(4n) .ag-courses-item_bg {
+    background-color: #952aff;
+}
+
+.ag-courses_item:nth-child(5n) .ag-courses-item_bg {
+    background-color: #cd3e94;
+}
+
+.ag-courses_item:nth-child(6n) .ag-courses-item_bg {
+    background-color: #4c49ea;
+}
+
+
+
+@media only screen and (max-width: 979px) {
+    .ag-courses_item {
+        -ms-flex-preferred-size: calc(50% - 30px);
+        flex-basis: calc(50% - 30px);
+    }
+
+    .ag-courses-item_title {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .ag-format-container {
+        width: 96%;
+    }
+
+}
+
+@media only screen and (max-width: 639px) {
+    .ag-courses_item {
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+    }
+
+    .ag-courses-item_title {
+        min-height: 72px;
+        line-height: 1;
+
+        font-size: 24px;
+    }
+
+    .ag-courses-item_link {
+        padding: 22px 40px;
+    }
+
+    .ag-courses-item_date-box {
+        font-size: 16px;
+    }
+}
+.pad-n {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.bg-1 {
+    background-color: #f8effe;
+}
+.bg-2 {
+    background-color: #fdf1f0;
+}
+.bg-3 {
+    background-color: #fef9ef;
+}
+.bg-4 {
+    background-color: #e6e9f5;
+}
+.bg-5 {
+        background-color: #f0fced;
+}
+.bg-6 {
+        background-color: #fcedf1;
+}
 .pos {
     padding-right: 25px;
 }
@@ -1296,6 +1425,16 @@ padding-right: 25px;
     /* Adjust as needed */
     width: 100%;
     height: 100vh;
+    /* Full viewport height */
+}
+.b-img {
+    background-image: url('@/assets/img/bacimg.webp');
+    background-size: cover;
+    /* Adjust as needed */
+    /* background-position: center; */
+    /* Adjust as needed */
+    /* width: 70%;
+    height: 20vh; */
     /* Full viewport height */
 }
 /* .imga {
