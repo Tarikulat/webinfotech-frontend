@@ -10,12 +10,10 @@ import { Topbar, Header, HomeSection, Footer } from '@/views/common'
     <!-- <Topbar /> -->
 
     <Header />
-
-    <HomeSection />
+    
 
     <RouterView />
 
-    <!-- <Chartbot /> -->
 
     <Footer />
 

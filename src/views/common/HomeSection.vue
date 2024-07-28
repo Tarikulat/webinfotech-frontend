@@ -584,8 +584,6 @@
                                             project. In case your project is large there is also a possibility to add
                                             another developer and meet deadlines. It’s as simple as a developer working
                                             for you on our payroll.
-
-
                                         </p>
                                     </div>
                                 </div>

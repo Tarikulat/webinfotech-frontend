@@ -1,0 +1,1 @@
+export { default as About } from '@/views/pages/About/About.vue';

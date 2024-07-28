@@ -5,17 +5,11 @@ import {
  } from '@/views/common'
 
  import { 
-  // BodySectionA,
-  // BodySectionB,
-  // BodySectionC,
-  // BodySectionD,
-  // BodySectionE,
-  // ResellerHost,
+   About
   // VpsServer,
   // RocketServer,
   // DedicatedServer,
   // Contact,
-  // About,
   // Login,
   // Signup
  } from '@/views/pages'
@@ -27,6 +21,11 @@ const router = createRouter({
       path: '/',
       name: 'home',
       component: HomeSection,
+    },
+     {
+      path: '/about',  
+      name: 'about',   
+      component: About, 
     },
     // {
     //   path: '/nav-search',
@@ -86,11 +85,7 @@ const router = createRouter({
     //   name: 'contact',   
     //   component: Contact, 
     // },
-    // {
-    //   path: '/about',  
-    //   name: 'about',   
-    //   component: About, 
-    // },
+    //
     // {
     //   path: '/login',  
     //   name: 'login',   

@@ -50,17 +50,21 @@
                                         <div class="col-md-4">
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                <a class="title-with-icon-link" href="">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fab fa-leanpub"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">About Us</span>
+                                                            <!-- <span class="u-header__promo-title">About Us</span> -->
+                                                            <router-link id="aboutMegaMenu"
+                                                                class="nav-link custom-nav-link "
+                                                                :to="{ name: 'about' }">About</router-link>
                                                         </div>
                                                     </div>
                                                 </a>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
+
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
                                                 <a class="title-with-icon-link" href="shared-wp-hosting.html">
@@ -752,7 +756,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <!--menu title with subtitle and icon item end-->
+                                    <!--menu title with subtitle and icon item end-->  
 
                                     <!--menu title with subtitle and icon item start-->
                                     <div class="title-with-icon-item">
@@ -814,11 +818,16 @@
                             <!--about end-->
 
                             <!--button start-->
-                            <li class="nav-item header-nav-last-item d-flex align-items-center">
+                            <!-- <li class="nav-item header-nav-last-item d-flex align-items-center">
                                 <a class="btn primary-solid-btn animated-btn" href="#" target="_blank">
                                     Get Started
                                 </a>
-                            </li>
+                            </li> -->
+                            <!-- <li class="nav-item header-nav-last-item d-flex align-items-center"> <button7>
+                                    <span>Contact Us</span>
+                                </button7>
+                                
+                                </li> -->
                             <!--button end-->
                         </ul>
                     </div>
@@ -836,5 +845,6 @@
 </script>
 
 <style lang="scss" scoped>
+
 
 </style>
