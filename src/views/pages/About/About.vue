@@ -24,7 +24,7 @@
                     <div class="col-md-6 col-lg-6">
                         <div class="cta-new-wrap">
                             <h2>Who We Are?</h2>
-                            <p class="lead">WPWeb Infotech is a leading Web Development Company in India and USA. It
+                            <p class="lead">Web Infotech is a leading Web Development Company in India and USA. It
                                 excels in offering elegant & profitable web solutions for a global clientele. We offer a
                                 one-stop solution that includes comprehensive backend technologies like PHP, WordPress,
                                 Shopify, Magento, Codeigniter, Laravel, Drupal, and Node.Js and frontend technologies
@@ -43,20 +43,17 @@
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <div class="cta-new-wrap">
-                            <h2>What We Do?</h2>
+                            <h2>What We Do</h2>
                             <p class="lead">Web Infotech is a leading Web Development Company in India and USA. It
                                 excels in offering elegant & profitable web solutions for a global clientele. We offer a
-                                one-stop solution that includes comprehensive backend technologies like PHP,
-                                <br>
-                                WordPress,
-                                Shopify, Magento, Codeigniter, Laravel, Drupal, and frontend technologies
+                                one-stop solution that includes comprehensive backend technologies like PHP, WordPress,
+                                Shopify, Magento, Codeigniter, Laravel, Drupal, and Node.Js and frontend technologies
                                 like React, Angular, JavaScript, HTML5, and CSS3 assisting businesses to build their
                                 brand. We help curate high-performing digital experiences that add value to your
                                 business with our web development services. Our team comprises tech wizards with
-                                <br>
                                 extensive experience in creating handcrafted solutions employing Web Development,
                                 eCommerce development, UI/UX Design, Shopify Web Application development, and PHP
-                                frameworks like Laravel, CI,
+                                frameworks like Laravel, CI, and CakePHP.
                             </p>
 
                             <p>Our clients can also have robust, high-performance, easily manageable, secure, and
@@ -196,6 +193,32 @@
             </div>
         </section>
         <!-- section 4 end-->
+
+        <!--call to action section start-->
+        <section class="call-to-action ptb-100 gradient-overlay"
+            style="background: url('assets/img/hero-bg-4.jpg')no-repeat center center / cover">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-12 col-lg-8">
+                        <div class="call-to-action-content text-white">
+                            <h2 class="text-white">Need Some Help?</h2>
+                            <p>Whether you’re stuck or just want some tips on where to start, hit up our experts
+                                anytime.
+                                <br> Sales Chat: <strong> MON-FRI 8AM-4PM PT</strong> | Customer Support Chat: Every Day
+                                <strong> 5:30AM–9:30PM PT</strong>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="action-btns mt-md-4 text-md-right text-lg-right text-sm-left">
+                            <a href="#" class="btn solid-white-btn mr-3">Chat With Us</a>
+                            <a href="#" class="btn outline-white-btn">Send us an Email</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--call to action section end-->
 
 
         <!--feature promo-section section start-->
@@ -844,6 +867,9 @@ export default {
 </script>
 
 <style>
+.fnt {
+    font-weight: 20px;
+}
 .pd {
    padding-top: 40px;
 }
