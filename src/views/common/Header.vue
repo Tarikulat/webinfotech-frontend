@@ -50,24 +50,25 @@
                                         <div class="col-md-4">
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'about' }">
                                                     <div class="media">
-                                                        <div class="menu-item-icon"><i class="fab fa-leanpub"></i>
+                                                        <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <!-- <span class="u-header__promo-title">About Us</span> -->
-                                                            <router-link id="aboutMegaMenu"
-                                                                class="nav-link custom-nav-link "
-                                                                :to="{ name: 'about' }">About</router-link>
+                                                            <span class="u-header__promo-title">About Us
+                                                            </span>
+
                                                         </div>
                                                     </div>
-                                                </a>
+                                                </router-link>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
 
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'about' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
                                                         </div>
@@ -77,7 +78,7 @@
 
                                                         </div>
                                                     </div>
-                                                </a>
+                                                </router-link>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
                                         </div>
@@ -194,19 +195,24 @@
                                                         <li><a class="nav-link sub-menu-nav-link" href="index.html">Home
                                                                 Default</a></li>
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-image.html">Home Image</a></li>
+                                                                href="index-image.html">Home Image</a>
+                                                        </li>
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-domain-search.html">Home Domain Search <span
+                                                                href="index-domain-search.html">Home
+                                                                Domain Search <span
                                                                     class="badge badge-danger ml-2">Hot</span></a></li>
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-domain-search-2.html">Home Domain Search
+                                                                href="index-domain-search-2.html">Home
+                                                                Domain Search
                                                                 Two</a>
                                                         </li>
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-bg-image.html">Home Background Image</a>
+                                                                href="index-bg-image.html">Home Background
+                                                                Image</a>
                                                         </li>
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-bg-video.html">Home Background Video</a>
+                                                                href="index-bg-video.html">Home Background
+                                                                Video</a>
                                                         </li>
 
                                                     </ul>
@@ -215,12 +221,14 @@
                                                 <div class="col-md-6">
                                                     <ul class="sub-menu-nav-group mb-3">
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-offer.html">Home Offer</a></li>
+                                                                href="index-offer.html">Home Offer</a>
+                                                        </li>
                                                         <li><a class="nav-link sub-menu-nav-link"
                                                                 href="index-slider.html">Home Slider</a>
                                                         </li>
                                                         <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-content-slider.html">Home Content Slider</a>
+                                                                href="index-content-slider.html">Home
+                                                                Content Slider</a>
                                                         </li>
                                                         <li><a class="nav-link sub-menu-nav-link"
                                                                 href="index-reseller-hosting.html">Reseller Demo <span
@@ -290,7 +298,8 @@
                                             <li><a class="nav-link sub-menu-nav-link"
                                                     href="pricing-package.html">Pricing Packages</a></li>
                                             <li><a class="nav-link sub-menu-nav-link"
-                                                    href="pricing-comparision.html">Pricing Comparison</a></li>
+                                                    href="pricing-comparision.html">Pricing Comparison</a>
+                                            </li>
                                             <li><a class="nav-link sub-menu-nav-link" href="vps-pricing.html">VPS
                                                     Pricing</a></li>
                                             <li><a class="nav-link sub-menu-nav-link" href="pricing-new.html">New
@@ -332,7 +341,8 @@
                                             <li><a class="nav-link sub-menu-nav-link" href="signup-simple.html">Signup
                                                     Simple</a></li>
                                             <li><a class="nav-link sub-menu-nav-link"
-                                                    href="recover-account-simple.html">Recover Account Simple</a>
+                                                    href="recover-account-simple.html">Recover Account
+                                                    Simple</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -550,7 +560,8 @@
                                                     <li><a class="nav-link sub-menu-nav-link"
                                                             href="carousel.html">Carousel</a></li>
                                                     <li><a class="nav-link sub-menu-nav-link"
-                                                            href="call-to-action.html">Call to Action</a></li>
+                                                            href="call-to-action.html">Call to Action</a>
+                                                    </li>
                                                     <li><a class="nav-link sub-menu-nav-link"
                                                             href="testimonials.html">Testimonials</a></li>
                                                     <li><a class="nav-link sub-menu-nav-link"
@@ -756,7 +767,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <!--menu title with subtitle and icon item end-->  
+                                    <!--menu title with subtitle and icon item end-->
 
                                     <!--menu title with subtitle and icon item start-->
                                     <div class="title-with-icon-item">
@@ -798,7 +809,8 @@
                                                     <p class="small d-inline-flex">Credibly synergize unique... <a
                                                             href="https://www.youtube.com/watch?v=9No-FiEInLA"
                                                             class="popup-youtube video-play-icon"><span
-                                                                class="ti-control-play"></span> </a></p>
+                                                                class="ti-control-play"></span> </a>
+                                                    </p>
 
                                                 </div>
                                             </div>

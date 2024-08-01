@@ -17,6 +17,289 @@
         </section>
         <!-- section 1 end-->
 
+        <!-- section 2 start-->
+        <section class="feature-section ptb-100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="cta-new-wrap">
+                            <h2>Who We Are?</h2>
+                            <p class="lead">WPWeb Infotech is a leading Web Development Company in India and USA. It
+                                excels in offering elegant & profitable web solutions for a global clientele. We offer a
+                                one-stop solution that includes comprehensive backend technologies like PHP, WordPress,
+                                Shopify, Magento, Codeigniter, Laravel, Drupal, and Node.Js and frontend technologies
+                                like React, Angular, JavaScript, HTML5, and CSS3 assisting businesses to build their
+                                brand. We help curate high-performing digital experiences that add value to your
+                                business with our web development services. Our team comprises tech wizards with
+                                extensive experience in creating handcrafted solutions employing Web Development,
+                                eCommerce development, UI/UX Design, Shopify Web Application development, and PHP
+                                frameworks like Laravel, CI, and CakePHP.
+                            </p>
+
+                            <p>Our clients can also have robust, high-performance, easily manageable, secure, and
+                                scalable enterprise-level
+                                web development solutions at affordable prices without compromising quality.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6">
+                        <div class="cta-new-wrap">
+                            <h2>What We Do?</h2>
+                            <p class="lead">Web Infotech is a leading Web Development Company in India and USA. It
+                                excels in offering elegant & profitable web solutions for a global clientele. We offer a
+                                one-stop solution that includes comprehensive backend technologies like PHP,
+                                <br>
+                                WordPress,
+                                Shopify, Magento, Codeigniter, Laravel, Drupal, and frontend technologies
+                                like React, Angular, JavaScript, HTML5, and CSS3 assisting businesses to build their
+                                brand. We help curate high-performing digital experiences that add value to your
+                                business with our web development services. Our team comprises tech wizards with
+                                <br>
+                                extensive experience in creating handcrafted solutions employing Web Development,
+                                eCommerce development, UI/UX Design, Shopify Web Application development, and PHP
+                                frameworks like Laravel, CI,
+                            </p>
+
+                            <p>Our clients can also have robust, high-performance, easily manageable, secure, and
+                                scalable enterprise-level
+                                web development solutions at affordable prices without compromising quality.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section 2 end-->
+
+        <!-- section 4 start-->
+        <section class="our-services ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-5 mb-sm-5 mb-md-3 mb-lg-3">
+                            <h2>Our Core Principles Make Us Unique</h2>
+                            <h5 class="lead">Deliver Reliable & Quality Web Development Services</h5>
+                        </div>
+                    </div>
+                </div> <br>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting"
+                                class="img-fluid mb-4 values-image" width="45" />
+                            <div class="service-plane-content">
+                                <h3 class="h5">WordPress Hosting</h3>
+                                <p>It’s in our DNA. We are here because of our valuable clients, and their success is
+                                    the main reason we place client pleasure first. We are not afraid to work together
+                                    to better our ideas and services. We are motivated by client praise. It’s like a
+                                    crowd cheering for a goal, we want to hear it more.</p>
+                            </div>
+                            <div class="action-wrap mt-3">
+                                <a href="#" class="btn-link">View Details <span
+                                        class="fas fa-long-arrow-alt-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting"
+                                class="img-fluid mb-4 values-image" width="45" />
+                            <div class="service-plane-content">
+                                <h3 class="h5">WordPress Hosting</h3>
+                                <p>It’s in our DNA. We are here because of our valuable clients, and their success is
+                                    the main reason we place client pleasure first. We are not afraid to work together
+                                    to better our ideas and services. We are motivated by client praise. It’s like a
+                                    crowd cheering for a goal, we want to hear it more.</p>
+                            </div>
+                            <div class="action-wrap mt-3">
+                                <a href="#" class="btn-link">View Details <span
+                                        class="fas fa-long-arrow-alt-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting"
+                                class="img-fluid mb-4 values-image" width="45" />
+                            <div class="service-plane-content">
+                                <h3 class="h5">WordPress Hosting</h3>
+                                <p>It’s in our DNA. We are here because of our valuable clients, and their success is
+                                    the main reason we place client pleasure first. We are not afraid to work together
+                                    to better our ideas and services. We are motivated by client praise. It’s like a
+                                    crowd cheering for a goal, we want to hear it more.</p>
+                            </div>
+                            <div class="action-wrap mt-3">
+
+                                <a href="#" class="btn-link">View Details <span
+                                        class="fas fa-long-arrow-alt-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="pd"> -->
+                    <div class="col-md-6 col-lg-4 pd">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting"
+                                class="img-fluid mb-4 values-image" width="45" />
+                            <div class="service-plane-content">
+                                <h3 class="h5">WordPress Hosting</h3>
+                                <p>It’s in our DNA. We are here because of our valuable clients, and their success
+                                    is
+                                    the main reason we place client pleasure first. We are not afraid to work
+                                    together
+                                    to better our ideas and services. We are motivated by client praise. It’s like a
+                                    crowd cheering for a goal, we want to hear it more.</p>
+                            </div>
+                            <div class="action-wrap mt-3">
+                                <a href="#" class="btn-link">View Details <span
+                                        class="fas fa-long-arrow-alt-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 pd">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting"
+                                class="img-fluid mb-4 values-image" width="45" />
+                            <div class="service-plane-content">
+                                <h3 class="h5">WordPress Hosting</h3>
+                                <p>It’s in our DNA. We are here because of our valuable clients, and their success
+                                    is
+                                    the main reason we place client pleasure first. We are not afraid to work
+                                    together
+                                    to better our ideas and services. We are motivated by client praise. It’s like a
+                                    crowd cheering for a goal, we want to hear it more.</p>
+                            </div>
+                            <div class="action-wrap mt-3">
+                                <a href="#" class="btn-link">View Details <span
+                                        class="fas fa-long-arrow-alt-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 pd">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting"
+                                class="img-fluid mb-4 values-image" width="45" />
+                            <div class="service-plane-content">
+                                <h3 class="h5">WordPress Hosting</h3>
+                                <p>It’s in our DNA. We are here because of our valuable clients, and their success
+                                    is
+                                    the main reason we place client pleasure first. We are not afraid to work
+                                    together
+                                    to better our ideas and services. We are motivated by client praise. It’s like a
+                                    crowd cheering for a goal, we want to hear it more.</p>
+                            </div>
+                            <div class="action-wrap mt-3">
+                                <a href="#" class="btn-link">View Details <span
+                                        class="fas fa-long-arrow-alt-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- </div> -->
+                </div>
+            </div>
+        </section>
+        <!-- section 4 end-->
+
+
+        <!--feature promo-section section start-->
+        <section class="feature-promo-seciton ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-5">
+                            <h2>Our Support and Commitment</h2>
+                            <p class="lead">Globally seize extensive channels through go forward strategic theme areas.
+                                Dramatically aggregate quality.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/customer-support.svg" alt="shared hosting" class="img-fluid mb-3"
+                                width="60">
+                            <div class="service-plane-content">
+                                <h3 class="h5">24/7/365 Support</h3>
+                                <p>Day or night, rain or shine, anytime our team is here for you!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/credit-card.svg" alt="shared hosting" class="img-fluid mb-3"
+                                width="60">
+                            <div class="service-plane-content">
+                                <h3 class="h5">Secure Payment</h3>
+                                <p>Intrinsicly evolve holistic processes without virtual process</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
+                            <img src="@/assets/img/money-back.svg" alt="shared hosting" class="img-fluid mb-3"
+                                width="60">
+                            <div class="service-plane-content">
+                                <h3 class="h5">Money Back Guarantee</h3>
+                                <p>We make sure you are served by person with the competency</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--feature promo-section section end-->
+
+        <!-- section 3 start-->
+        <section class="why-choose-us ptb-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading mb-5">
+                            <h2>Why Choose Us?</h2>
+                            <p class="lead">Completely expedite holistic e-markets without synergistic "outside the box"
+                                thinking. Synergistically enable.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-lg-4">
+                        <a href="#">
+                            <div
+                                class="single-promo-2 custom-shadow single-promo-hover rounded-custom text-center white-bg p-5 h-100">
+                                <div class="circle-icon">
+                                    <span class="fas fa-bezier-curve text-white"></span>
+                                </div>
+                                <h5>Super Easy to Use</h5>
+                                <p>Increase sales by showing true dynamics of your website.</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 col-lg-4">
+                        <a href="#">
+                            <div
+                                class="single-promo-2 custom-shadow single-promo-hover rounded-custom text-center white-bg p-5 h-100">
+                                <div class="circle-icon">
+                                    <span class="fas fa-tachometer-alt text-white"></span>
+                                </div>
+                                <h5>Fast & Reliable</h5>
+                                <p>Build your online store’s trust using Social Proof &amp; Urgency.</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 col-lg-4">
+                        <a href="#">
+                            <div
+                                class="single-promo-2 custom-shadow single-promo-hover rounded-custom text-center white-bg p-5 h-100">
+                                <div class="circle-icon">
+                                    <span class="fas fa-headset text-white"></span>
+                                </div>
+                                <h5>24/7 Expert Support</h5>
+                                <p>Realize importance of social proof in customer’s purchase decision.</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- section 3 end-->
+
         <!--feature section tab style start-->
         <section class="feature-tab-section ptb-100">
             <div class="container">
@@ -60,9 +343,6 @@
             </div>
         </section>
         <!--feature section tab style end-->
-
-    
-      
 
         <!--feature section start-->
         <section class="feature-section ptb-100 gray-light-bg">
@@ -156,9 +436,85 @@
                 </div>
             </div>
         </section>
-
-
         <!--feature section end-->
+
+        <!--support category section start-->
+        <section class="support-category ptb-100">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading mb-5 text-center">
+                            <h2>How we Define our Support Services</h2>
+                            <p class="lead">Distinctively productize team driven niches with 24/7 outsourcing.
+                                Conveniently enable functional ROI with compelling imperatives.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-around">
+                    <div class="col-md-7 col-lg-7">
+                        <div class="help-center-left">
+                            <h4 class="mb-4">Most popular categories</h4>
+                            <ul class="list-unstyled popular-categories-list">
+                                <li class="d-flex align-items-center border rounded py-4 px-4">
+                                    <div class="icon-wrap mr-4">
+                                        <span class="ti-time icon-sm color-5 color-5-bg p-3 rounded"></span>
+                                    </div>
+                                    <div class="help-center-info">
+                                        <h5 class="mb-0">Our servers status</h5>
+                                        <p class="mb-0">Rapidiously reconceptualize technically sound sources with
+                                            professional. </p>
+                                        <a class="help-center-box-link" href="#"><i
+                                                class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                                    </div>
+                                </li>
+                                <li class="d-flex align-items-center border rounded py-4 px-4">
+                                    <div class="icon-wrap mr-4">
+                                        <span class="ti-world icon-sm color-3 color-3-bg p-3 rounded"></span>
+                                    </div>
+                                    <div class="help-center-info">
+                                        <h5 class="mb-0">Our domains services</h5>
+                                        <p class="mb-0">Efficiently target tactical growth strategies and 24/365
+                                            e-commerce. </p>
+                                        <a class="help-center-box-link" href="#"><i
+                                                class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                                    </div>
+                                </li>
+                                <li class="d-flex align-items-center border rounded py-4 px-4">
+                                    <div class="icon-wrap mr-4">
+                                        <span class="ti-credit-card icon-sm color-4 color-4-bg p-3 rounded"></span>
+                                    </div>
+                                    <div class="help-center-info">
+                                        <h5 class="mb-0">Payment issue</h5>
+                                        <p class="mb-0">Intrinsicly iterate functional customer service and cooperative
+                                            systems. </p>
+                                        <a class="help-center-box-link" href="#"><i
+                                                class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-lg-4">
+                        <div class="contact-us-content">
+                            <h4>Need some immediate help?</h4>
+                            <p class="lead">Seamlessly deliver pandemic e-services and next-generation initiatives.</p>
+                            <a href="#" class="btn outline-btn align-items-center">Chat With Us <span
+                                    class="ti-arrow-right pl-2"></span></a>
+
+                            <hr class="my-5">
+
+                            <h5>Get In Touch</h5>
+                            <p>Our support team here for you 24/7</p>
+                            <span>Phone: +1234567890123</span> <br>
+                            <span>Email: <a href="mailto:email@yourdomain.com"
+                                    class="link-color">email@yourdomain.com</a></span>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--support category section end-->
 
         <!--meet our team carousel style start-->
         <section class="our-team-section ptb-100">
@@ -488,6 +844,22 @@ export default {
 </script>
 
 <style>
+.pd {
+   padding-top: 40px;
+}
+.values-image {
+    margin: -70px auto 30px;
+    /* background-color: #867a8d; */
+    height: 101px;
+    width: 101px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 3px 9px 2px rgba(0, 0, 0, .1);
+    position: relative;
+    z-index: 7;
+}
 .banner-img {
     background-image: url('@/assets/img/bacimg.webp');
     background-size: cover;
