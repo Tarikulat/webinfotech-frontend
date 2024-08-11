@@ -52004,7 +52004,7 @@ select.form-control.has-value {
 
 /* line 906, src/assets/scss/custom/_style.scss */
 .title-with-icon-item ~ .title-with-icon-item {
-  border-top: 1px solid #ebebeb;
+  /* border-top: 1px solid #ebebeb; */
 }
 
 /* line 910, src/assets/scss/custom/_style.scss */

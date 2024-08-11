@@ -5,12 +5,13 @@ import {
  } from '@/views/common'
 
  import { 
-   About
-  // VpsServer,
-  // RocketServer,
-  // DedicatedServer,
-  // Contact,
-  // Login,
+   About,
+   WebDevelopment,
+   EcommerceDevelopment,
+   WebDesign,
+   BusinessService,
+   SoftwareDevelopment,
+   WordPressDevelopment
   // Signup
  } from '@/views/pages'
 
@@ -27,21 +28,37 @@ const router = createRouter({
       name: 'about',   
       component: About, 
     },
-    // {
-    //   path: '/nav-search',
-    //   name: 'nav-search',
-    //   component: NavSearch,
-    // },
-    // {
-    //   path: '/domain-register',  //..url key or path
-    //   name: 'domain-register',    //..name id name
-    //   component: domainRegister, 
-    // },
-    // {
-    //   path: '/domain-transfer',  //..url key or path
-    //   name: 'domain-transfer',    //..name id name
-    //   component: domainTransfer, 
-    // },
+    {
+      path: '/web-development',
+      name: 'web-development',
+      component: WebDevelopment,
+    },
+    {
+      path: '/ecommerce-development', 
+      name: 'ecommerce-development',    
+      component: EcommerceDevelopment, 
+    },
+    {
+      path: '/web-design', 
+      name: 'web-design',    
+      component: WebDesign, 
+    },
+    {
+      path: '/business-service', 
+      name: 'business-service',    
+      component: BusinessService, 
+    },
+    {
+      path: '/software-development', 
+      name: 'software-development',    
+      component: SoftwareDevelopment, 
+    },
+    {
+      path: '/wordpress-development', 
+      name: 'wordpress-development',    
+      component: WordPressDevelopment, 
+    },
+  
     // //...hosting......
     // {
     //   path: '/shared-host',  

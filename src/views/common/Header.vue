@@ -19,8 +19,9 @@
                 <nav class="js-mega-menu navbar navbar-expand-md header-nav">
 
                     <!--logo start-->
-                    <a class="navbar-brand" href="index.html"><img src="@/assets/img/servicelogo.webp" width="120"
-                            alt="logo" class="img-fluid" /></a>
+                    <router-link class="navbar-brand media-body" href="" :to="{ name: 'home' }"><img
+                            src="@/assets/img/servicelogo.webp" width="120" alt="logo"
+                            class="img-fluid" /></router-link>
                     <!--logo end-->
 
                     <!--responsive toggle button start-->
@@ -40,7 +41,7 @@
                             <!-- tarikul start navbar section 1 -->
 
                             <!--about start-->
-                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="580px"
+                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="620px"
                                 data-position="left">
                                 <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
                                     href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Company</a>
@@ -158,18 +159,18 @@
 
                                 <!-- Demos - Mega Menu -->
                                 <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="hostingMegaMenu">
-                                    <div class="row no-gutters">
 
+                                    <div class="row no-gutters">
                                         <div class="col-md-4">
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
                                                 <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'about' }">
+                                                    :to="{ name: 'web-development' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Laravel Development
+                                                            <span class="u-header__promo-title">Web Development
                                                             </span>
 
                                                         </div>
@@ -181,14 +182,13 @@
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
                                                 <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'about' }">
+                                                    :to="{name: 'ecommerce-development'}">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">WordPress Development
+                                                            <span class="u-header__promo-title">Ecommerce Website
                                                             </span>
-
                                                         </div>
                                                     </div>
                                                 </router-link>
@@ -199,29 +199,31 @@
                                         <div class="col-md-4">
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'web-design' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-gifts"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Landing Page</span>
+                                                            <span class="u-header__promo-title">Web Design</span>
                                                         </div>
                                                     </div>
-                                                </a>
+                                                </router-link>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'business-service' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="	far fa-compass"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">E-commerce
+                                                            <span class="u-header__promo-title">Business Services
                                                             </span>
                                                         </div>
                                                     </div>
-                                                </a>
+                                                </router-link>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
                                         </div>
@@ -229,31 +231,146 @@
                                         <div class="col-md-4">
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Infrastructure</span>
+                                                            <span class="u-header__promo-title">Software
+                                                                Devlopgg</span>
                                                         </div>
                                                     </div>
-                                                </a>
+                                                </router-link>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'wordpress-development' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="	far fa-snowflake"></i>
                                                         </div>
                                                         <div class="media-body">
-                                                            <span class="u-header__promo-title">Testimonials</span>
+                                                            <span class="u-header__promo-title">WordPress
+                                                                Website</span>
                                                         </div>
                                                     </div>
-                                                </a>
+                                                </router-link>
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
                                         </div>
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Landing Page
+                                                                Design</span>
+                                                        </div>
+                                                    </div>
+                                                </router-link>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+
+                                        </div>
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Laravel Website
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </router-link>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+
+                                        </div>
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">App Development
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </router-link>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+                                      
+                                            <div class="col-md-4">
+                                                <!--menu title with subtitle and icon item start-->
+                                                <div class="title-with-icon-item">
+                                                    <router-link class="title-with-icon-link" href=""
+                                                        :to="{ name: 'software-development' }">
+                                                        <div class="media">
+                                                            <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                            </div>
+                                                            <div class="media-body">
+                                                                <span class="u-header__promo-title bg">Email Id
+                                                                </span>
+                                                                <span class=""> tarikulat124@gmail.com
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </router-link>
+                                                </div>
+                                                <!--menu title with subtitle and icon item end-->
+                                            </div>
+                                            <div class="col-md-4">
+                                                <!--menu title with subtitle and icon item start-->
+                                                <div class="title-with-icon-item">
+                                                    <router-link class="title-with-icon-link" href=""
+                                                        :to="{ name: 'software-development' }">
+                                                        <div class="media">
+                                                            <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                            </div>
+                                                            <div class="media-body">
+                                                                <span class="u-header__promo-title bg">Phone Number
+                                                                </span>
+                                                                <span class=""><i class="fas fa-phone"></i> 01793800828
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </router-link>
+                                                </div>
+                                                <!--menu title with subtitle and icon item end-->
+                                            </div>
+                                            <div class="col-md-4">
+                                                <!--menu title with subtitle and icon item start-->
+                                                <div class="title-with-icon-item">
+                                                    <router-link class="title-with-icon-link" href=""
+                                                        :to="{ name: 'software-development' }">
+                                                        <div class="media">
+                                                            <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                            </div>
+                                                            <div class="media-body">
+                                                                <span class="u-header__promo-title bg">Skype Id
+                                                                </span>
+                                                                <span class=""> tarikulat124@gmail.com
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </router-link>
+                                                </div>
+                                                <!--menu title with subtitle and icon item end-->
+                                            </div>
 
                                     </div>
                                 </div>
@@ -770,7 +887,10 @@
 
 </script>
 
-<style lang="scss" scoped>
+<style>
+.bg {
+    background-color: rgb(221, 210, 210);
+}
 
 
 </style>
