@@ -11,7 +11,10 @@ import {
    WebDesign,
    BusinessService,
    SoftwareDevelopment,
-   WordPressDevelopment
+   WordPressDevelopment,
+   LandingPage,
+   LaravelWebsite,
+   AppDevelopment
   // Signup
  } from '@/views/pages'
 
@@ -57,6 +60,21 @@ const router = createRouter({
       path: '/wordpress-development', 
       name: 'wordpress-development',    
       component: WordPressDevelopment, 
+    },
+    {
+      path: '/landing-page', 
+      name: 'landing-page',    
+      component: LandingPage, 
+    },
+    {
+      path: '/laravel-website', 
+      name: 'laravel-website',    
+      component: LaravelWebsite, 
+    },
+    {
+      path: '/app-development', 
+      name: 'app-development',    
+      component: AppDevelopment, 
     },
   
     // //...hosting......

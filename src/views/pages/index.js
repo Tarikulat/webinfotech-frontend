@@ -3,5 +3,8 @@ export { default as WebDevelopment } from         '@/views/pages/WebDevelopment/
 export { default as EcommerceDevelopment } from   '@/views/pages/Ecommerce/EcommerceDevelopment.vue';
 export { default as WebDesign } from              '@/views/pages/WebDesign/WebDesign.vue';
 export { default as BusinessService } from        '@/views/pages/BusinessService/BusinessService.vue';
-export { default as SoftwareDevelopment } from       '@/views/pages/SoftwareDevelopment/SoftwareDevelopment.vue';
+export { default as SoftwareDevelopment } from    '@/views/pages/SoftwareDevelopment/SoftwareDevelopment.vue';
 export { default as WordPressDevelopment } from   '@/views/pages/WordPressDevelopment/WordPressDevelopment.vue';
+export { default as LandingPage } from            '@/views/pages/LandingPage/LandingPage.vue';
+export { default as LaravelWebsite } from         '@/views/pages/LaravelWebsite/LaravelWebsite.vue';
+export { default as AppDevelopment } from         '@/views/pages/AppDevelopment/AppDevelopment.vue';

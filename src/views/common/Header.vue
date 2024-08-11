@@ -1,14 +1,14 @@
 <template>
     <!--loader start-->
-    <div id="preloader">
-        <div class="loader1">
+    <!-- <div id="preloader">
+        <div class="loader1"> -->
+            <!-- <span>Tarikul Islam</span> -->
+            <!-- <span></span>
             <span></span>
             <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </div>
+            <span></span> -->
+        <!-- </div>
+    </div> -->
     <!--loader end-->
     <!--header section start-->
     <header id="header" class="header-main">
@@ -36,122 +36,10 @@
                     <!--main menu start-->
                     <div id="navBar" class="collapse navbar-collapse">
                         <ul class="navbar-nav ml-auto main-navbar-nav">
-                            <!--home start-->
 
                             <!-- tarikul start navbar section 1 -->
 
-                            <!--about start-->
-                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="620px"
-                                data-position="left">
-                                <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
-                                    href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Company</a>
-
-                                <!-- Demos - Mega Menu -->
-                                <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="hostingMegaMenu">
-                                    <div class="row no-gutters">
-
-                                        <div class="col-md-4">
-                                            <!--menu title with subtitle and icon item start-->
-                                            <div class="title-with-icon-item">
-                                                <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'about' }">
-                                                    <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
-                                                        </div>
-                                                        <div class="media-body">
-                                                            <span class="u-header__promo-title">About Us
-                                                            </span>
-
-                                                        </div>
-                                                    </div>
-                                                </router-link>
-                                            </div>
-                                            <!--menu title with subtitle and icon item end-->
-
-                                            <!--menu title with subtitle and icon item start-->
-                                            <div class="title-with-icon-item">
-                                                <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'about' }">
-                                                    <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
-                                                        </div>
-                                                        <div class="media-body">
-                                                            <span class="u-header__promo-title">Careers
-                                                            </span>
-
-                                                        </div>
-                                                    </div>
-                                                </router-link>
-                                            </div>
-                                            <!--menu title with subtitle and icon item end-->
-                                        </div>
-
-                                        <div class="col-md-4">
-                                            <!--menu title with subtitle and icon item start-->
-                                            <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="email-hosting.html">
-                                                    <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-gifts"></i>
-                                                        </div>
-                                                        <div class="media-body">
-                                                            <span class="u-header__promo-title">Our Culture</span>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <!--menu title with subtitle and icon item end-->
-                                            <!--menu title with subtitle and icon item start-->
-                                            <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
-                                                    <div class="media">
-                                                        <div class="menu-item-icon"><i class="	far fa-compass"></i>
-                                                        </div>
-                                                        <div class="media-body">
-                                                            <span class="u-header__promo-title">Life@ServiceKey
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <!--menu title with subtitle and icon item end-->
-                                        </div>
-
-                                        <div class="col-md-4">
-                                            <!--menu title with subtitle and icon item start-->
-                                            <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="email-hosting.html">
-                                                    <div class="media">
-                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
-                                                        </div>
-                                                        <div class="media-body">
-                                                            <span class="u-header__promo-title">Infrastructure</span>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <!--menu title with subtitle and icon item end-->
-                                            <!--menu title with subtitle and icon item start-->
-                                            <div class="title-with-icon-item">
-                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
-                                                    <div class="media">
-                                                        <div class="menu-item-icon"><i class="	far fa-snowflake"></i>
-                                                        </div>
-                                                        <div class="media-body">
-                                                            <span class="u-header__promo-title">Testimonials</span>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <!--menu title with subtitle and icon item end-->
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- End Demos - Mega Menu -->
-                            </li>
-                            <!--about end-->
-
-                            <!--hosting start-->
+                            <!--Service start-->
                             <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="780px"
                                 data-position="center">
                                 <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
@@ -264,7 +152,7 @@
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
                                                 <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'software-development' }">
+                                                    :to="{ name: 'landing-page' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
@@ -282,7 +170,7 @@
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
                                                 <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'software-development' }">
+                                                    :to="{ name: 'laravel-website' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
@@ -300,7 +188,7 @@
                                             <!--menu title with subtitle and icon item start-->
                                             <div class="title-with-icon-item">
                                                 <router-link class="title-with-icon-link" href=""
-                                                    :to="{ name: 'software-development' }">
+                                                    :to="{ name: 'app-development' }">
                                                     <div class="media">
                                                         <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
@@ -313,177 +201,183 @@
                                             </div>
                                             <!--menu title with subtitle and icon item end-->
                                         </div>
-                                      
-                                            <div class="col-md-4">
-                                                <!--menu title with subtitle and icon item start-->
-                                                <div class="title-with-icon-item">
-                                                    <router-link class="title-with-icon-link" href=""
-                                                        :to="{ name: 'software-development' }">
-                                                        <div class="media">
-                                                            <div class="menu-item-icon"><i class="fas fa-building"></i>
-                                                            </div>
-                                                            <div class="media-body">
-                                                                <span class="u-header__promo-title bg">Email Id
-                                                                </span>
-                                                                <span class=""> tarikulat124@gmail.com
-                                                                </span>
-                                                            </div>
+
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
-                                                    </router-link>
-                                                </div>
-                                                <!--menu title with subtitle and icon item end-->
-                                            </div>
-                                            <div class="col-md-4">
-                                                <!--menu title with subtitle and icon item start-->
-                                                <div class="title-with-icon-item">
-                                                    <router-link class="title-with-icon-link" href=""
-                                                        :to="{ name: 'software-development' }">
-                                                        <div class="media">
-                                                            <div class="menu-item-icon"><i class="fas fa-building"></i>
-                                                            </div>
-                                                            <div class="media-body">
-                                                                <span class="u-header__promo-title bg">Phone Number
-                                                                </span>
-                                                                <span class=""><i class="fas fa-phone"></i> 01793800828
-                                                                </span>
-                                                            </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title bg">Email Id
+                                                            </span>
+                                                            <span class=""> tarikulat124@gmail.com
+                                                            </span>
                                                         </div>
-                                                    </router-link>
-                                                </div>
-                                                <!--menu title with subtitle and icon item end-->
+                                                    </div>
+                                                </router-link>
                                             </div>
-                                            <div class="col-md-4">
-                                                <!--menu title with subtitle and icon item start-->
-                                                <div class="title-with-icon-item">
-                                                    <router-link class="title-with-icon-link" href=""
-                                                        :to="{ name: 'software-development' }">
-                                                        <div class="media">
-                                                            <div class="menu-item-icon"><i class="fas fa-building"></i>
-                                                            </div>
-                                                            <div class="media-body">
-                                                                <span class="u-header__promo-title bg">Skype Id
-                                                                </span>
-                                                                <span class=""> tarikulat124@gmail.com
-                                                                </span>
-                                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
                                                         </div>
-                                                    </router-link>
-                                                </div>
-                                                <!--menu title with subtitle and icon item end-->
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title bg">Phone Number
+                                                            </span>
+                                                            <span class=""><i class="fas fa-phone"></i> 01793800828
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </router-link>
                                             </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'software-development' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title bg">Skype Id
+                                                            </span>
+                                                            <span class=""> tarikulat124@gmail.com
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </router-link>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
 
                                     </div>
                                 </div>
                                 <!-- End Demos - Mega Menu -->
                             </li>
-                            <!--hosting end-->
+                            <!--Service end-->
 
-                            <!-- tarikul end navbar section 1 -->
+                            <!--portfolio start-->
+                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="620px"
+                                data-position="left">
+                                <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
+                                    href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Portfolio</a>
 
-                            <!-- <li class="nav-item hs-has-mega-menu custom-nav-item" data-position="left">
-                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle"
-                                    href="javascript:void(0);" aria-haspopup="true" aria-expanded="false">Project</a> -->
-
-                            <!--home mega menu start-->
-                            <!-- <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="homeMegaMenu">
+                                <!-- Demos - Mega Menu -->
+                                <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="hostingMegaMenu">
                                     <div class="row no-gutters">
-                                        <div class="col-lg-5"> -->
-                            <!-- Banner Image -->
-                            <!-- <div class="menu-banner-wrap d-none d-md-none d-lg-block gray-light-bg">
-                                                <div class="menu-banner-content">
-                                                    <div class="mb-4">
-                                                        <h5 class="mb-3 h6">Unbeatable WordPress Hosting</h5>
-                                                        <ul class="list-unstyled tech-feature-list">
-                                                            <li class="py-1"><span
-                                                                    class="ti-control-forward mr-2"></span>Flexible,
-                                                                Easy to Use Control Panel</li>
-                                                            <li class="py-1"><span
-                                                                    class="ti-control-forward mr-2"></span><strong>Unmetered</strong>
-                                                                Bandwidth</li>
-                                                            <li class="py-1"><span
-                                                                    class="ti-control-forward mr-2"></span><strong>Unmetered</strong>
-                                                                Sub Domains, FTP Accounts</li>
-                                                            <li class="py-1"><span
-                                                                    class="ti-control-forward mr-2"></span><strong>99%</strong>
-                                                                Uptime Guarantee</li>
-                                                            <li class="py-1"><span
-                                                                    class="ti-control-forward mr-2"></span><strong>45-Day</strong>
-                                                                Money-Back Guarantee</li>
-                                                        </ul>
+
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'about' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">About Us
+                                                            </span>
+
+                                                        </div>
                                                     </div>
-                                                    <a class="btn primary-solid-btn" href="#">Learn More <span
-                                                            class="fas fa-angle-right ml-2"></span></a>
-                                                </div>
-                                            </div> -->
-                            <!-- End Banner Image -->
-                            <!-- </div>
+                                                </router-link>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
 
-                                        <div class="col-lg-7">
-                                            <div class="row mega-menu-wrap">
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
-                                                    <span class="sub-menu-title">Home Demos</span>
-                                                    <ul class="sub-menu-nav-group">
-                                                        <li><a class="nav-link sub-menu-nav-link" href="index.html">Home
-                                                                Default</a></li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-image.html">Home Image</a>
-                                                        </li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-domain-search.html">Home
-                                                                Domain Search <span
-                                                                    class="badge badge-danger ml-2">Hot</span></a></li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-domain-search-2.html">Home
-                                                                Domain Search
-                                                                Two</a>
-                                                        </li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-bg-image.html">Home Background
-                                                                Image</a>
-                                                        </li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-bg-video.html">Home Background
-                                                                Video</a>
-                                                        </li>
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <router-link class="title-with-icon-link" href=""
+                                                    :to="{ name: 'about' }">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-briefcase"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Careers
+                                                            </span>
 
-                                                    </ul>
-                                                </div> -->
-
-                            <!-- <div class="col-md-6">
-                                                    <ul class="sub-menu-nav-group mb-3">
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-offer.html">Home Offer</a>
-                                                        </li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-slider.html">Home Slider</a>
-                                                        </li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-content-slider.html">Home
-                                                                Content Slider</a>
-                                                        </li>
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="index-reseller-hosting.html">Reseller Demo <span
-                                                                    class="badge badge-success ml-2">New</span></a></li>
-                                                    </ul>
-
-                                                    <span class="sub-menu-title">RTL Demo</span>
-                                                    <ul class="sub-menu-nav-group mb-3">
-                                                        <li><a class="nav-link sub-menu-nav-link"
-                                                                href="http://hostlar.themetags.com/template-rtl/index.html">Home
-                                                                Default Arabic <span
-                                                                    class="badge badge-danger ml-2">RTL</span></a></li>
-                                                    </ul>
-
-                                                </div> -->
-                            <!-- </div>
+                                                        </div>
+                                                    </div>
+                                                </router-link>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
                                         </div>
-                                    </div>
-                                </div> -->
-                            <!--home mega menu end-->
-                            <!-- </li> -->
-                            <!--home end-->
 
-                            <!--technologies start-->
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-gifts"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Our Culture</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="	far fa-compass"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Life@ServiceKey
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+
+                                        <div class="col-md-4">
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="email-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="fas fa-building"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Infrastructure</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                            <!--menu title with subtitle and icon item start-->
+                                            <div class="title-with-icon-item">
+                                                <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                                    <div class="media">
+                                                        <div class="menu-item-icon"><i class="	far fa-snowflake"></i>
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <span class="u-header__promo-title">Testimonials</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!--menu title with subtitle and icon item end-->
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- End Demos - Mega Menu -->
+                            </li>
+                            <!--portfolio end-->
+
+                            <!--technologies end-->
                             <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="720px"
                                 data-position="right">
                                 <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
@@ -629,100 +523,6 @@
                             </li>
                             <!--technologies end-->
 
-                            <!--support start-->
-                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="360px"
-                                data-position="right">
-                                <a id="supportMegaMenu" class="nav-link custom-nav-link main-link-toggle"
-                                    href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Support</a>
-                                <!--support submenu start-->
-                                <div class="hs-mega-menu main-sub-menu" aria-labelledby="supportMegaMenu"
-                                    style="min-width: 330px;">
-
-                                    <!--menu title with subtitle and icon item start-->
-                                    <div class="title-with-icon-item">
-                                        <a class="title-with-icon-link" href="submit-request.html">
-                                            <div class="media align-items-center">
-                                                <img class="menu-titile-icon" src="@/assets/img/chat.svg" alt="SVG">
-                                                <div class="media-body">
-                                                    <span class="u-header__promo-title">Submit a Request </span>
-                                                    <small class="u-header__promo-text">Support team quickly response
-                                                    </small>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!--menu title with subtitle and icon item end-->
-
-                                    <!--menu title with subtitle and icon item start-->
-                                    <div class="title-with-icon-item">
-                                        <a class="title-with-icon-link" href="support.html">
-                                            <div class="media align-items-center">
-                                                <img class="menu-titile-icon" src="@/assets/img/support.svg" alt="SVG">
-                                                <div class="media-body">
-                                                    <span class="u-header__promo-title">24/7/365 Support</span>
-                                                    <small class="u-header__promo-text">Support and statement</small>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!--menu title with subtitle and icon item end-->
-                                    <!--menu title with subtitle and icon item start-->
-                                    <div class="title-with-icon-item">
-                                        <a class="title-with-icon-link" href="network.html">
-                                            <div class="media align-items-center">
-                                                <img class="menu-titile-icon" src="@/assets/img/data-services.svg"
-                                                    alt="SVG">
-                                                <div class="media-body">
-                                                    <span class="u-header__promo-title">Our Datacenter</span>
-                                                    <small class="u-header__promo-text">24 Data center globally</small>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!--menu title with subtitle and icon item end-->
-                                    <!--menu title with subtitle and icon item start-->
-                                    <div class="title-with-icon-item">
-                                        <a class="title-with-icon-link" href="status.html">
-                                            <div class="media align-items-center">
-                                                <img class="menu-titile-icon" src="@/assets/img/time.svg" alt="SVG">
-                                                <div class="media-body">
-                                                    <span class="u-header__promo-title">Uptime Commitment</span>
-                                                    <small class="u-header__promo-text">Monitoring and secure</small>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!--menu title with subtitle and icon item end-->
-
-                                    <!--submenu footer start-->
-                                    <div class="u-header__promo-footer">
-                                        <!-- List -->
-                                        <div class="row no-gutters">
-                                            <div class="col-6">
-                                                <div class="u-header__promo-footer-item">
-                                                    <small class="text-muted d-block">Check what's new</small>
-                                                    <a class="small" href="#">
-                                                        Changelog
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="col-6 u-header__promo-footer-ver-divider">
-                                                <div class="u-header__promo-footer-item">
-                                                    <small class="text-muted d-block">Have a question?</small>
-                                                    <a class="small" href="contact-us.html">
-                                                        Contact us
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End List -->
-                                    </div>
-                                    <!--submenu footer end-->
-                                </div>
-                                <!--support submenu end-->
-                            </li>
-                            <!--support end-->
-
                             <!--about start-->
                             <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="250px"
                                 data-position="right">
@@ -857,13 +657,13 @@
                             </li>
                             <!--about end-->
 
-                            <!--button start-->
+                            <!--Case Studies start-->
                             <li class="nav-item header-nav-last-item d-flex align-items-center">
                                 <a class="" href="#" target="_blank">
                                     Case Studies
                                 </a>
                             </li>
-                            <!--button end-->
+                            <!--Case Studies end-->
 
                             <!--button start-->
                             <li class="nav-item header-nav-last-item d-flex align-items-center">
