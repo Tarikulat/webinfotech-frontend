@@ -292,7 +292,7 @@
         <!--Section 4 end-->
 
         <!--Section 5 start-->
-        <section class="call-to-action gradient-overly-bottom pdn">
+        <section class="call-to-action pdn">
             <div class="container">
                 <div class="row justify-content-center pad-n b-img">
                     <div class="col-md-9 col-lg-9">
