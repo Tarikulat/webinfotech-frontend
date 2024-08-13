@@ -3,8 +3,9 @@
 </script>
 
 <template>
+
    <!--section 1 start-->
-   <section class="hero-slider-section imga background-container">
+   <section class="hero-slider-section imga">
       <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
          <div class="item">
             <div class="gradient-overly-right hero-equal-height ptb-100">
@@ -129,141 +130,146 @@
    <section class="our-services ptb-100 gray-light-bg">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-md-9 col-lg-8">
+            <div class="col-md-9 col-lg-19">
                <div class="section-heading text-center mb-5 mb-sm-5 mb-md-3 mb-lg-3">
-                  <h2>We Have a Hosting Solution For You</h2>
-                  <p class="lead">Synergistically architect plug-and-play without next-generation
-                     manufactured products. Assertively develop synergistic networks.</p>
+                  <h2>Custom Web Development Services We Offer</h2>
+                  <p class="lead">We have a team of web developers who have years of experience in
+                     technologies, which help you to develop custom websites or web applications as per your business.
+                  </p>
                </div>
             </div>
          </div>
          <div class="row">
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-shared-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a1.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">Shared Hosting</h3>
-                     <p>Our most popular product! Shared Web Hosting gives you a fast SSD
-                        storage hosting.</p>
+                     <h3 class="h5 pdt clra">Custom Web App Development</h3>
+                     <p class="pdt">We have a team of web developers who have years of experience and core expertise in
+                        technologies, which help you to develop custom websites or web applications as per your business
+                        requirements.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$2.59/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-wordpress-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a2.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">WordPress Hosting</h3>
-                     <p>Get up and running fast with Optimized performance easy
-                        maintenance hosting.</p>
+                     <h3 class="h5 pdt clrb">Enterprise Web</h3>
+                     <p class="pdt">We’ve expertise in developing web applications for enterprise or large-scale
+                        businesses. Our web
+                        development services includes deep research, innovative approach, and cutting-edge technologies.
+                     </p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$2.59/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-vps-hosting.svg" alt="shared hosting" class="img-fluid mb-4" width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a3.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">VPS Hosting</h3>
-                     <p>Virtual Private Servers with ultra-fast SSDs and flexibility, Ubuntu, IPv6,
-                        Nginx and more.</p>
+                     <h3 class="h5 pdt clrc">Backend & API Development</h3>
+                     <p class="pdt">We offer comprehensive backend development services for mobile & Web app
+                        development. Our web
+                        developers provide custom API development services to make apps more interactive &
+                        user-friendly.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$12.00/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-website-builder.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a4.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">WP Website Builder</h3>
-                     <p>No code required! Build your site confidently with design tools that WordPress
-                        website build.</p>
+                     <h3 class="h5 pdt clrd">Full Stack Development</h3>
+                     <p class="pdt">Being a leading web development company, we provide full stack web development
+                        services under
+                        one roof. You don’t need to hire separate front-end and back-end developers for your project. We
+                        provide all.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$2.59/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-dadicate-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a5.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">Dedicated Hosting</h3>
-                     <p>Fast web servers to run your applications with root and a 100% Guarantee
-                        our hosting.</p>
+                     <h3 class="h5 pdt clre">Social Media App Integration</h3>
+                     <p class="pdt">We have expertise in integrating social media platforms like Facebook, Twitter,
+                        Tumblr, Reddit,
+                        LinkedIn, YouTube, Pinterest, Telegram, Medium, and many more with your existing web
+                        applications. Social media integration is easy with us.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$145.59/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-cloud-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a6.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">Cloud Hosting</h3>
-                     <p>Lightning-fast servers with root access, SSD storage and blazing-fast networking hosting.</p>
+                     <h3 class="h5 pdt clrf">Payment Gateway Integration</h3>
+                     <p class="pdt">Our web developers have expertise to integrate your application with payment
+                        gateways and mobile
+                        wallet like Stripe, PayPal, GooglePay, and many more. Get most of the benefits from hiring our
+                        web developers for smooth integration.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$0.0059/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-cloud-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a7.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">Cloud Hosting</h3>
-                     <p>Lightning-fast servers with root access, SSD storage and blazing-fast networking hosting.</p>
+                     <h3 class="h5 pdt clrg">Migration & Upgradation</h3>
+                     <p class="pdt">In order to migrate your existing web app from different technologies to different
+                        one or want
+                        to upgrade web applications to the latest version, then we will be your one-stop solution for
+                        hassle-free migration & upgradation.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$0.0059/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-cloud-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a8.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">Cloud Hosting</h3>
-                     <p>Lightning-fast servers with root access, SSD storage and blazing-fast networking hosting.</p>
+                     <h3 class="h5 pdt clrh">Maintenance & Support</h3>
+                     <p class="pdt">When you choose WPWeb Infotech as your web development partner, you don’t need to
+                        worry about
+                        maintenance & support services. We provide continuous support during and post-completion of the
+                        entire project.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$0.0059/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
             </div>
             <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/icon-cloud-hosting.svg" alt="shared hosting" class="img-fluid mb-4"
-                     width="45" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
+                  <img src="@/assets/img/a9.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
                   <div class="service-plane-content">
-                     <h3 class="h5">Cloud Hosting</h3>
-                     <p>Lightning-fast servers with root access, SSD storage and blazing-fast networking hosting.</p>
+                     <h3 class="h5 pdt clri">Business Analysis & Consulting</h3>
+                     <p class="pdt">You have a business idea but not sure which technology is best suitable for your
+                        project, our
+                        web developers & business analysts help you to choose appropriate technology. Get a free
+                        consultation now and build your own web app.</p>
                   </div>
                   <div class="action-wrap mt-3">
-                     <p>Starting at: <strong>$0.0059/mo</strong></p>
                      <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
                   </div>
                </div>
@@ -274,7 +280,7 @@
    </section>
    <!--section 3 end-->
 
-   <!--section 3 start-->
+   <!--section 4 start-->
    <section class="our-services ptb-100 gray-light-bg">
       <div class="container">
          <div class="row justify-content-center">
@@ -432,16 +438,16 @@
          </div>
       </div>
    </section>
-   <!--section 3 end-->
+   <!--section 4 end-->
 
-   <!--call to action section start-->
+   <!--section 5 start-->
    <section class="call-to-action ptb-100 gradient-overly-bottom">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-md-9 col-lg-8">
-               <div class="call-to-action-content text-white text-center">
-                  <h2 class="text-white">Why Choose Our Service?</h2>
-                  <p>No problem! It's quick and painless to transfer your hosting, domain registrations</p>
+               <div class="call-to-action-content text- text-center">
+                  <h2 class="text-">Web Development Process</h2>
+                  <p>We acknowledge your inquiry, what's next?</p>
                   <div class="action-btns mt-3">
                      <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
                      <a href="#" class="btn outline-white-btn">New Customers</a>
@@ -451,9 +457,9 @@
          </div>
       </div>
    </section>
-   <!--call to action section end-->
+   <!--section 5 end-->
 
-   <!--pricing with switch section start-->
+   <!--section 6 start-->
    <section class="pricing-section ptb-100">
       <div class="container">
          <div class="row justify-content-center">
@@ -575,9 +581,9 @@
          </div>
       </div>
    </section>
-   <!--pricing with switch section end-->
+   <!--section 6 end-->
 
-   <!--support category section start-->
+   <!--section 7 start-->
    <section class="support-category ptb-100">
       <div class="container">
          <div class="row justify-content-center">
@@ -702,15 +708,15 @@
          </div>
       </div>
    </section>
-   <!--support category section end-->
+   <!--section 7 end-->
 
-   <!--faq new style start-->
+   <!--section 8 start-->
    <section class="ptb-100 gray-light-bg">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-md-9 col-lg-8">
                <div class="section-heading mb-3 text-center">
-                  <h2>Frequently Asked Questions</h2>
+                  <h2>why choose our web development service</h2>
                   <p class="lead">
                      Quickly morph client-centric results through performance based applications. Proactively facilitate
                      professional human capital for cutting-edge.
@@ -766,18 +772,261 @@
          </div>
       </div>
    </section>
-   <!--faq new style end-->
+   <!--section 8 end-->
+
+   <section id="advertisers" class="advertisers-service-sec pt-5 pb-5">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="section-header text-center">
+               <h2 class="fw-bold fs-1">
+                  Our
+                  <span class="b-class-secondary">Advertiser </span>Services
+               </h2>
+               <p class="sec-icon"><i class="fa-solid fa-gear"></i></p>
+            </div>
+         </div>
+         <div class="row mt-5 mt-md-4 row-cols-1 row-cols-sm-1 row-cols-md-3 justify-content-center">
+            <div class="col">
+               <div class="service-card">
+                  <div class="icon-wrapper">
+                     <i class="fa-solid fa-chart-line"></i>
+                  </div>
+                  <h3>Tracking Lead</h3>
+                  <p>
+                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Quisquam consequatur necessitatibus eaque.
+                  </p>
+               </div>
+            </div>
+            <div class="col">
+               <div class="service-card">
+                  <div class="icon-wrapper">
+                     <i class="fa-solid fa-chart-line"></i>
+                  </div>
+                  <h3>Advanced Targeting solution</h3>
+                  <p>
+                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Quisquam consequatur necessitatibus eaque.
+                  </p>
+               </div>
+            </div>
+            <div class="col">
+               <div class="service-card">
+                  <div class="icon-wrapper">
+                     <i class="fa-solid fa-globe"></i>
+                  </div>
+                  <h3>Global Reach & Quality Traffic</h3>
+                  <p>
+                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Quisquam consequatur necessitatibus eaque.
+                  </p>
+               </div>
+            </div>
+            <div class="col">
+               <div class="service-card">
+                  <div class="icon-wrapper">
+                     <i class="fa-solid fa-money-check-dollar"></i>
+                  </div>
+                  <h3>Flexible pricing models</h3>
+                  <p>
+                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Quisquam consequatur necessitatibus eaque.
+                  </p>
+               </div>
+            </div>
+            <div class="col">
+               <div class="service-card">
+                  <div class="icon-wrapper">
+                     <i class="fa-regular fa-circle-check"></i>
+                  </div>
+                  <h3>Advanced optimization technologies & methodologies</h3>
+                  <p>
+                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Quisquam consequatur necessitatibus eaque.
+                  </p>
+               </div>
+            </div>
+            <div class="col">
+               <div class="service-card">
+                  <div class="icon-wrapper">
+                     <i class="fa-solid fa-chart-line"></i>
+                  </div>
+                  <h3>Dedicated account management team</h3>
+                  <p>
+                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Quisquam consequatur necessitatibus eaque.
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
 
 </template>
 
 <style scoped>
+.clra {
+   color: #c368f7;
+}
+.clrb {
+   color: #f76868;
+}
+.clrc {
+   color: #6880f7;
+}
+.clrd {
+   color: #68dff7;
+}
+.clre {
+   color: #68b0f7;
+}
+.clrf {
+   color: #f7c568;
+}
+.clrg {
+   color: #79f768;
+}
+.clrh {
+   color: #f79868;
+}
+.clri {
+   color: #f7688c;
+}
+.pdt {
+   padding-top: 15px;
+}
+.pdtm {
+   padding-top: 25px;
+}
+body {
+   font-family: "Roboto", sans-serif !important;
+}
+
+.sec-icon {
+   position: relative;
+   display: inline-block;
+   padding: 0;
+   margin: 0 auto;
+}
+
+.sec-icon::before {
+   content: "";
+   position: absolute;
+   height: 1px;
+   left: -70px;
+   margin-top: -5.5px;
+   top: 60%;
+   background: #333333;
+   width: 50px;
+}
+
+.sec-icon::after {
+   content: "";
+   position: absolute;
+   height: 1px;
+   right: -70px;
+   margin-top: -5.5px;
+   top: 60%;
+   background: #333;
+   width: 50px;
+}
+
+.advertisers-service-sec {
+   background-color: #f5f5f5;
+}
+
+.advertisers-service-sec span {
+   color: rgb(255, 23, 131);
+}
+
+.advertisers-service-sec .col {
+   padding: 0 1em 1em 1em;
+   text-align: center;
+}
+
+.advertisers-service-sec .service-card {
+   width: 100%;
+   height: 100%;
+   padding: 2em 1.5em;
+   border-radius: 5px;
+   box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+   cursor: pointer;
+   transition: 0.5s;
+   position: relative;
+   z-index: 2;
+   overflow: hidden;
+   background: #fff;
+}
+
+.advertisers-service-sec .service-card::after {
+   content: "";
+   width: 100%;
+   height: 100%;
+   background: linear-gradient(#0dcaf0, rgb(255, 23, 131));
+   position: absolute;
+   left: 0%;
+   top: -98%;
+   z-index: -2;
+   transition: all 0.4s cubic-bezier(0.77, -0.04, 0, 0.99);
+}
+
+.advertisers-service-sec h3 {
+   font-size: 20px;
+   text-transform: capitalize;
+   font-weight: 600;
+   color: #1f194c;
+   margin: 1em 0;
+   z-index: 3;
+}
+
+.advertisers-service-sec p {
+   color: #575a7b;
+   font-size: 15px;
+   line-height: 1.6;
+   letter-spacing: 0.03em;
+   z-index: 3;
+}
+
+.advertisers-service-sec .icon-wrapper {
+   background-color: #2c7bfe;
+   position: relative;
+   margin: auto;
+   font-size: 30px;
+   height: 2.5em;
+   width: 2.5em;
+   color: #ffffff;
+   border-radius: 50%;
+   display: grid;
+   place-items: center;
+   transition: 0.5s;
+   z-index: 3;
+}
+
+.advertisers-service-sec .service-card:hover:after {
+   top: 0%;
+}
+
+.service-card .icon-wrapper {
+   background-color: #ffffff;
+   color: rgb(255, 23, 131);
+}
+
+.advertisers-service-sec .service-card:hover .icon-wrapper {
+   color: #0dcaf0;
+}
+
+.advertisers-service-sec .service-card:hover h3 {
+   color: #ffffff;
+}
+
+.advertisers-service-sec .service-card:hover p {
+   color: #f0f0f0;
+}
 
 .pcd {
-   /* padding: 20px; */
    padding-top: 20px;
 }
 .pcdd {
-   /* padding: 20px; */
    padding-top: 10px;
 }
 

@@ -5,8 +5,8 @@
         <section class="hero-slider-section imga background-container">
             <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
                 <div class="item">
-                    <div class="gradient-overly-right hero-equal-height ptb-100"
-                        style="background: url('@/assets/img/hero-17.jpg')no-repeat center center / cover">
+                    <div class=" hero-equal-height ptb-100"
+                       >
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12 col-lg-12">
@@ -969,6 +969,7 @@
         </section>
         <!--feature section end-->
 
+
         <!--testimonial and review section start-->
         <section class="client-review-section ptb-100 gray-light-bg">
             <div class="container">
@@ -1117,6 +1118,7 @@
         </section>
         <!--testimonial and review section end-->
     </div>
+    
 </template>
 
 <script setup>

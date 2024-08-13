@@ -268,7 +268,7 @@
 
                             <!--portfolio start-->
                             <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="620px"
-                                data-position="left">
+                                data-position="right">
                                 <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
                                     href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Portfolio</a>
 
