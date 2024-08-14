@@ -50560,7 +50560,7 @@ img.mfp-img {
 /* line 170, src/assets/scss/vendors/hs.megamenu.css */
 .hs-menu-initialized.hs-menu-horizontal .hs-mega-menu.hs-position-center {
   right: auto;
-  left: 50%;
+  left: 55%;
   -webkit-transform: translate(-50%, 0);
   transform: translate(-50%, 0);
 }

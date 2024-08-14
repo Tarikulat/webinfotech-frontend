@@ -962,7 +962,7 @@ body {
    content: "";
    width: 100%;
    height: 100%;
-   background: linear-gradient(#0dcaf0, rgb(255, 23, 131));
+   background: linear-gradient(#031974, #343a40);
    position: absolute;
    left: 0%;
    top: -98%;
