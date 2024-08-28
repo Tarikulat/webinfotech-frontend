@@ -55242,7 +55242,7 @@ a.view-details-link:hover span {
 ============================================*/
 /* line 3610, src/assets/scss/custom/_style.scss */
 .single-blog-card {
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
 
 /* line 3613, src/assets/scss/custom/_style.scss */

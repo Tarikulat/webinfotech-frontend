@@ -3,7 +3,6 @@
 </script>
 
 <template>
-
    <!--section 1 start-->
    <section class="hero-slider-section imga">
       <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
@@ -88,7 +87,9 @@
    <section class="feature-section ptb-100">
       <div class="container">
          <div class="row align-items-center">
-            <h2>Best Web Development Software Company in Bangladesh</h2>
+            <div>
+               <h2>Best Web Development Software Company in Bangladesh</h2>
+            </div>
             <div class="col-md-8 col-lg-8">
                <div class="cta-new-wrap">
                   <p class="lead">Being one of the leading web development companies in Bangladesh, We provide

@@ -5,8 +5,7 @@
         <section class="hero-slider-section imga background-container">
             <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
                 <div class="item">
-                    <div class=" hero-equal-height ptb-100"
-                       >
+                    <div class=" hero-equal-height ptb-100">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12 col-lg-12">
@@ -97,7 +96,7 @@
                     </div>
                     <div class="col-md-7 col-lg-7">
                         <div class="cta-new-wrap">
-                            <h2>Best Web Development Software Company in Bangladesh</h2>
+                            <h3>Best Web Development Software Company in Bangladesh</h3>
                             <p class="lead">Being one of the leading web development companies in Bangladesh, We provide
                                 excellent eCommerce development,
                                 UI/UX design, web development, and digital marketing services to start-ups, small and
@@ -144,85 +143,103 @@
             <div class="container">
 
                 <div class="section-heading mb-5 al-text">
-                    <h2>Offering a Comprehensive Range of IT Services</h2>
-                    <p>
-                        Our complete IT services help your business stand out from the crowd.
-                    </p>
+                    <h3>Offering a Comprehensive Range of IT Services</h3>
+                    <h5>
+                        Our complete IT services help your business stand
+                    </h5>
                 </div>
 
                 <div class="row">
-                    <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm border-1 bg-1">
-                            <span class="category position-absolute badge badge-pill badge-primary">Top</span>
-                            <img src="@/assets/img/hc1.svg" class="card-img-top position-relative" alt="blog">
-                            <div class="card-body">
-                                <h3 class="h5 card-title"><a href="#">Web Development</a></h3>
-                                <p class="card-text">From lightweight MVPs to complex web-based products, our experts
-                                    can help make your vision a reality, while relieving you of all technical concerns.
-                                </p>
-                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                    <div class="col-md-4 pd">
+                        <div class="hov-a">
+                            <div class="single-blog-card card border-0 shadow-sm border-1 bg-1">
+                                <span class="category position-absolute badge badge-pill badge-primary">Top</span>
+                                <img src="@/assets/img/hc1.svg" class="card-img-top position-relative imgs" alt="blog">
+                                <div class="card-body">
+                                    <h3 class="h5 card-title"><a href="#">Web Development</a></h3>
+                                    <p class="card-text">From lightweight MVPs to complex web-based products, our
+                                        experts
+                                        can help make your vision a reality, while relieving you of all technical
+                                    </p>
+                                    <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm bg-2">
-                            <span class="category position-absolute badge badge-pill badge-danger">Advance</span>
-                            <img src="@/assets/img/hc2.svg" class="card-img-top position-relative" alt="blog">
-                            <div class="card-body">
-                                <h3 class="h5 card-title"><a href="#">eCommerce Development</a></h3>
-                                <p class="card-text">Our experts can create a modern, intuitive and eco-friendly store
-                                    to exhibit your products and services to people worldwide.</p>
-                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                    <div class="col-md-4 pd">
+                        <div class="hov-b">
+                            <div class="single-blog-card card border-0 shadow-sm bg-2">
+                                <span class="category position-absolute badge badge-pill badge-danger">Advance</span>
+                                <img src="@/assets/img/hc2.svg" class="card-img-top position-relative" alt="blog">
+                                <div class="card-body">
+                                    <h3 class="h5 card-title"><a href="#">eCommerce Development</a></h3>
+                                    <p class="card-text">Our experts can create a modern, intuitive and eco-friendly
+                                        store
+                                        to exhibit your products and services to people worldwide.</p>
+                                    <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm bg-3">
-                            <span class="category position-absolute badge badge-pill badge-info">Digital</span>
-                            <img src="@/assets/img/hc3.svg" class="card-img-top" alt="blog">
-                            <div class="card-body">
-                                <h3 class="h5 card-title"><a href="#">Digital Marketing Services</a></h3>
-                                <p class="card-text">We could really assist you in enhancing brand authority and
-                                    exposure. You are really only one tap away from reaching your intended audience..
-                                </p>
-                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                    <div class="col-md-4 pd">
+                        <div class="hov-c">
+                            <div class="single-blog-card card border-0 shadow-sm bg-3">
+                                <span class="category position-absolute badge badge-pill badge-info">Digital</span>
+                                <img src="@/assets/img/hc3.svg" class="card-img-top imc" alt="blog">
+                                <div class="card-body">
+                                    <h3 class="h5 card-title"><a href="#">Digital Marketing Services</a></h3>
+                                    <p class="card-text">We could really assist you in enhancing brand authority and
+                                        exposure. You are really only one tap away from reaching
+
+                                    </p>
+                                    <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm bg-4">
-                            <span class="category position-absolute badge badge-pill badge-primary">UI/UX</span>
-                            <img src="@/assets/img/hc4.svg" class="card-img-top position-relative" alt="blog">
-                            <div class="card-body">
-                                <h3 class="h5 card-title"><a href="#">UI/UX Designing </a></h3>
-                                <p class="card-text">Our experts create extraordinary UI/UX design ideas consistent with
-                                    the latest trends and technologies.</p>
-                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                    <div class="col-md-4 pd">
+                        <div class="hov-d">
+                            <div class="single-blog-card card border-0 shadow-sm bg-4">
+                                <span class="category position-absolute badge badge-pill badge-primary">UI/UX</span>
+                                <img src="@/assets/img/hc4.svg" class="card-img-top position-relative" alt="blog">
+                                <div class="card-body">
+                                    <h3 class="h5 card-title"><a href="#">UI/UX Designing </a></h3>
+                                    <p class="card-text">Our experts create extraordinary UI/UX design ideas consistent
+                                        with
+                                        the latest trends and technologies.</p>
+                                    <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm bg-5">
-                            <span class="category position-absolute badge badge-pill badge-danger">Technology</span>
-                            <img src="@/assets/img/hc5.svg" class="card-img-top position-relative" alt="blog">
-                            <div class="card-body">
-                                <h3 class="h5 card-title"><a href="#">Open Source Development</a></h3>
-                                <p class="card-text">We can turn even the most complicated of your business ideas into
-                                    reality with advanced open-source development technology</p>
-                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                    <div class="col-md-4 pd">
+                        <div class="hov-e">
+                            <div class="single-blog-card card border-0 shadow-sm bg-5">
+                                <span class="category position-absolute badge badge-pill badge-danger">Technology</span>
+                                <img src="@/assets/img/hc5.svg" class="card-img-top position-relative" alt="blog">
+                                <div class="card-body">
+                                    <h3 class="h5 card-title"><a href="#">Open Source Development</a></h3>
+                                    <p class="card-text">We can turn even the most complicated of your business ideas
+                                        into
+                                        reality with advanced open-source development technology</p>
+                                    <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="single-blog-card card border-0 shadow-sm bg-6">
-                            <span class="category position-absolute badge badge-pill badge-info">Science</span>
-                            <img src="@/assets/img/hc6.svg" class="card-img-top" alt="blog">
-                            <div class="card-body">
-                                <h3 class="h5 card-title"><a href="#">Hire Developers</a></h3>
-                                <p class="card-text">We have a team of experienced developers. Hire dedicated developers
-                                    on an hourly or monthly basis
-                                </p>
-                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                    <div class="col-md-4 pd">
+                        <div class="hov-f">
+                            <div class="single-blog-card card border-0 shadow-sm bg-6">
+                                <span class="category position-absolute badge badge-pill badge-info">Science</span>
+                                <img src="@/assets/img/hc6.svg" class="card-img-top imf" alt="blog">
+                                <div class="card-body">
+                                    <h3 class="h5 card-title"><a href="#">Hire Developers</a></h3>
+                                    <p class="card-text">We have a team of experienced developers. Hire dedicated
+                                        developers
+                                        on an hourly or monthly basis
+                                    </p>
+                                    <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -267,7 +284,7 @@
                     </div>
                     <div class="col-md-6 col-lg-6">
                         <div class="cta-new-wrap">
-                            <h2>About Our Laravel Development Services</h2>
+                            <h3>About Our Laravel Development Services</h3>
                             <p class="lead">Our Laravel Development Services provide robust, scalable, and secure web
                                 applications customized to your business needs. Our expert developers leverage the power
                                 of Laravel to deliver high-quality solutions, ranging from simple websites to complex
@@ -317,7 +334,7 @@
 
                     <div class="col-md-6 col-lg-6">
                         <div class="cta-new-wrap">
-                            <h2>Choose Our Software Company?</h2>
+                            <h3>Choose Our Software Company?</h3>
                             <p class="lead">Choose our software company for unparalleled innovation, reliability, and
                                 excellence. Our expert team leverages the latest technologies to deliver tailored
                                 solutions that meet your unique business needs. We ensure seamless integration, superior
@@ -505,7 +522,7 @@
                 <div class="row">
                     <div class="col-md-9 col-lg-8">
 
-                        <h2>FAQs</h2>
+                        <h3>FAQs</h3>
 
                     </div>
                 </div>
@@ -595,10 +612,42 @@
                                         <path
                                             d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
                                     </svg>
-                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
+                                    <h6 class="mb-0 d-inline-block">Test---4 As a leading web development outsourcing
+                                        company,
+                                        what are common engagement models you offer?
                                     </h6>
                                 </a>
                                 <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>We offer the following engagement models for our clients.
+
+                                            Fixed Price: – If you have a predefined scope of work and the project
+                                            requirements are crystal clear then you can move ahead with the fixed cost
+                                            model.
+                                            Hourly Model: – If your tasks are not exactly defined and need research,
+                                            then hourly model works would suit you the best. This model is also the most
+                                            convenient model where you can first taste the waters before moving on to
+                                            larger projects.
+                                            Dedicated Hiring: – This is the most flexible business model where the
+                                            developer is dedicatedly aligned to work with you exclusively on your
+                                            project. In case your project is large there is also a possibility to add
+                                            another developer and meet deadlines. It’s as simple as a developer working
+                                            for you on our payroll.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFive">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
+                                        class="bi bi-chat-left" viewBox="0 0 16 16">
+                                        <path
+                                            d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                    </svg>
+                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
+                                    </h6>
+                                </a>
+                                <div id="collapseFive" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
                                         <p>
                                             It depends on the client. If the client wants to sign an NDA before the
@@ -609,7 +658,7 @@
                                 </div>
                             </div>
                             <div class="card mb-0">
-                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseSix">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
@@ -619,7 +668,7 @@
                                         communicate with your project development team?
                                     </h6>
                                 </a>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                <div id="collapseSix" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
                                         <p>
 
@@ -632,7 +681,7 @@
                                 </div>
                             </div>
                             <div class="card mb-0">
-                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseSeven">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
@@ -641,7 +690,7 @@
                                     <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
                                     </h6>
                                 </a>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                <div id="collapseSeven" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
                                         <p>
                                             It depends on the client. If the client wants to sign an NDA before the
@@ -652,7 +701,7 @@
                                 </div>
                             </div>
                             <div class="card mb-0">
-                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseEight">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
@@ -661,7 +710,7 @@
                                     <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
                                     </h6>
                                 </a>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                <div id="collapseEight" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
                                         <p>
                                             It depends on the client. If the client wants to sign an NDA before the
@@ -672,7 +721,7 @@
                                 </div>
                             </div>
                             <div class="card mb-0">
-                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseNine">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
                                         class="bi bi-chat-left" viewBox="0 0 16 16">
                                         <path
@@ -681,7 +730,27 @@
                                     <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
                                     </h6>
                                 </a>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                <div id="collapseNine" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>
+                                            It depends on the client. If the client wants to sign an NDA before the
+                                            commencement of the project to ensure security, we are happy to oblige. But
+                                            we don’t force any client for an NDA.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseTen">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="46" height="20" fill="currentColor"
+                                        class="bi bi-chat-left" viewBox="0 0 16 16">
+                                        <path
+                                            d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                    </svg>
+                                    <h6 class="mb-0 d-inline-block">Do you sign a Non-Disclosure Agreement?
+                                    </h6>
+                                </a>
+                                <div id="collapseTen" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
                                         <p>
                                             It depends on the client. If the client wants to sign an NDA before the
@@ -704,10 +773,8 @@
                 <div class="row justify-content-center">
                     <div class="col-md-9 col-lg-8">
                         <div class="section-heading text-center mb-5">
-                            <h2>Best Hosting Features For You</h2>
-                            <p class="lead">These features come standard in all of our hosting plans. Dynamically
-                                extend
-                                imperatives through open-source quickly niche markets.</p>
+                            <h3>Best Hosting Features For You</h3>
+                            <h5 class="lead">These features come standard in all of our</h5>
                         </div>
                     </div>
                 </div>
@@ -969,17 +1036,33 @@
         </section>
         <!--feature section end-->
 
-
+        <!--Section 5 start-->
+        <section class="call-to-action pdn">
+            <div class="container">
+                <div class="row justify-content-center pad-n b-img">
+                    <div class="col-md-9 col-lg-9">
+                        <div class="call-to-action-content text-green text-left">
+                            <h4 class="text-white">Web Infotech is a Leading Web Development Software Company</h4> <br>
+                            <p class="text-white">We have strong principles and a long history of delivering effective
+                                web development
+                                solutions</p>
+                        </div>
+                        <button class="button4"> Meet Our Talented team
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Section 5 end-->
+        
         <!--testimonial and review section start-->
         <section class="client-review-section ptb-100 gray-light-bg">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-9 col-lg-8">
                         <div class="section-heading text-center mb-5">
-                            <h2>What Our Customers Say About Us?</h2>
-                            <p class="lead">Authoritatively reinvent client-centric fully tested process
-                                improvements.
-                                Objectively restore strategic initiatives through fully researched.</p>
+                            <h3>What Our Customers Say About Us?</h3>
+                            <h5 class="lead">Authoritatively reinvent client-centric fully tested</h5>
                         </div>
                     </div>
                 </div>
@@ -1118,7 +1201,7 @@
         </section>
         <!--testimonial and review section end-->
     </div>
-    
+
 </template>
 
 <script setup>
@@ -1126,6 +1209,83 @@
 </script>
 
 <style>
+.imf {
+    height: 222px;
+}
+.imgs {
+    height:247px;
+}
+.imc {
+    height: 248px;
+}
+
+.pd {
+    /* margin-bottom: 5px; */
+    padding-bottom: 10px;
+}
+
+.hov-a {
+    border-style: solid;
+    border-color: rgb(19, 17, 17);
+    border-width: 1px;
+}
+.hov-a:hover {
+    border-style: solid;
+    border-color: #FE53BB;   
+    border-width: 3px;
+}
+.hov-b {
+    border-style: solid;
+    border-color: rgb(19, 17, 17);
+    border-width: 1px;
+}
+.hov-b:hover {
+    border-style: solid;
+    border-color: #e67c1a;
+    border-width: 3px;
+}
+.hov-c {
+    border-style: solid;
+    border-color: rgb(19, 17, 17);
+    border-width: 1px;
+}
+.hov-c:hover {
+    border-style: solid;
+    border-color: #e6e31a;
+    border-width: 3px;
+}
+.hov-d {
+    border-style: solid;
+    border-color: rgb(19, 17, 17);
+    border-width: 1px;
+}
+.hov-d:hover {
+    border-style: solid;
+    border-color: #4e3b47;
+    border-width: 3px;
+}
+.hov-e {
+    border-style: solid;
+    border-color: rgb(19, 17, 17);
+    border-width: 1px;
+}
+.hov-e:hover {
+    border-style: solid;
+    border-color: #aca926;
+    border-width: 3px;
+}
+.hov-f {
+    border-style: solid;
+    border-color: rgb(19, 17, 17);
+    border-width: 1px;
+}
+.hov-f:hover {
+    border-style: solid;
+    border-color: #c93e8f;
+    border-width: 3px;
+}
+
+
 .pdn {
     padding-bottom: 100px;
 }
