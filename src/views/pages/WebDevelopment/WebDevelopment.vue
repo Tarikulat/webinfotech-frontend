@@ -88,7 +88,7 @@
       <div class="container">
          <div class="row align-items-center">
             <div>
-               <h2>Best Web Development Software Company in Bangladesh</h2>
+               <h3>Best Web Development Software Company in Bangladesh</h3>
             </div>
             <div class="col-md-8 col-lg-8">
                <div class="cta-new-wrap">
@@ -133,145 +133,170 @@
          <div class="row justify-content-center">
             <div class="col-md-9 col-lg-19">
                <div class="section-heading text-center mb-5 mb-sm-5 mb-md-3 mb-lg-3">
-                  <h2>Custom Web Development Services We Offer</h2>
-                  <p class="lead">We have a team of web developers who have years of experience in
+                  <h3>Custom Web Development Services We Offer</h3>
+                  <h5 class="lead">We have a team of web developers who have years of experience in
                      technologies, which help you to develop custom websites or web applications as per your business.
-                  </p>
+                  </h5>
                </div>
             </div>
          </div>
          <div class="row">
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a1.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clra">Custom Web App Development</h3>
-                     <p class="pdt">We have a team of web developers who have years of experience and core expertise in
-                        technologies, which help you to develop custom websites or web applications as per your business
-                        requirements.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a2.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clrb">Enterprise Web</h3>
-                     <p class="pdt">We’ve expertise in developing web applications for enterprise or large-scale
-                        businesses. Our web
-                        development services includes deep research, innovative approach, and cutting-edge technologies.
-                     </p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c1">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a1.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clra">Custom Web App Development</h3>
+                        <p class="pdt">We have a team of web developers who have years of experience and core expertise
+                           in
+                           technologies, which help you to develop custom websites or web applications as per your
+                           business
+                           requirements.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a3.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clrc">Backend & API Development</h3>
-                     <p class="pdt">We offer comprehensive backend development services for mobile & Web app
-                        development. Our web
-                        developers provide custom API development services to make apps more interactive &
-                        user-friendly.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a4.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clrd">Full Stack Development</h3>
-                     <p class="pdt">Being a leading web development company, we provide full stack web development
-                        services under
-                        one roof. You don’t need to hire separate front-end and back-end developers for your project. We
-                        provide all.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c2">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a2.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clrb">Enterprise Web</h3>
+                        <p class="pdt">We’ve expertise in developing web applications for enterprise or large-scale
+                           businesses. Our web
+                           development services includes deep research, innovative approach, and cutting-edge
+                           technologies.
+                        </p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a5.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clre">Social Media App Integration</h3>
-                     <p class="pdt">We have expertise in integrating social media platforms like Facebook, Twitter,
-                        Tumblr, Reddit,
-                        LinkedIn, YouTube, Pinterest, Telegram, Medium, and many more with your existing web
-                        applications. Social media integration is easy with us.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a6.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clrf">Payment Gateway Integration</h3>
-                     <p class="pdt">Our web developers have expertise to integrate your application with payment
-                        gateways and mobile
-                        wallet like Stripe, PayPal, GooglePay, and many more. Get most of the benefits from hiring our
-                        web developers for smooth integration.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c3">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a3.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clrc">Backend & API Development</h3>
+                        <p class="pdt">We offer comprehensive backend development services for mobile & Web app
+                           development. Our web
+                           developers provide custom API development services to make apps more interactive &
+                           user-friendly.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a7.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clrg">Migration & Upgradation</h3>
-                     <p class="pdt">In order to migrate your existing web app from different technologies to different
-                        one or want
-                        to upgrade web applications to the latest version, then we will be your one-stop solution for
-                        hassle-free migration & upgradation.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a8.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clrh">Maintenance & Support</h3>
-                     <p class="pdt">When you choose WPWeb Infotech as your web development partner, you don’t need to
-                        worry about
-                        maintenance & support services. We provide continuous support during and post-completion of the
-                        entire project.</p>
-                  </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c4">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a4.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clrd">Full Stack Development</h3>
+                        <p class="pdt">Being a leading web development company, we provide full stack web development
+                           services under
+                           one roof. You don’t need to hire separate front-end and back-end developers for your project.
+                           We
+                           provide all.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-4">
-                  <img src="@/assets/img/a9.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
-                  <div class="service-plane-content">
-                     <h3 class="h5 pdt clri">Business Analysis & Consulting</h3>
-                     <p class="pdt">You have a business idea but not sure which technology is best suitable for your
-                        project, our
-                        web developers & business analysts help you to choose appropriate technology. Get a free
-                        consultation now and build your own web app.</p>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c5">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a5.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clre">Social Media App Integration</h3>
+                        <p class="pdt">We have expertise in integrating social media platforms like Facebook, Twitter,
+                           Tumblr, Reddit,
+                           LinkedIn, YouTube, Pinterest, Telegram, Medium, and many more with your existing web
+                           applications. Social media integration is easy with us.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
                   </div>
-                  <div class="action-wrap mt-3">
-                     <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+               </div>
+            </div>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c6">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a6.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clrf">Payment Gateway Integration</h3>
+                        <p class="pdt">Our web developers have expertise to integrate your application with payment
+                           gateways and mobile
+                           wallet like Stripe, PayPal, GooglePay, and many more. Get most of the benefits from hiring
+                           our
+                           web developers for smooth integration.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c7">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a7.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clrg">Migration & Upgradation</h3>
+                        <p class="pdt">In order to migrate your existing web app from different technologies to
+                           different
+                           one or want
+                           to upgrade web applications to the latest version, then we will be your one-stop solution for
+                           hassle-free migration & upgradation.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c8">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a8.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clrh">Maintenance & Support</h3>
+                        <p class="pdt">When you choose WPWeb Infotech as your web development partner, you don’t need to
+                           worry about
+                           maintenance & support services. We provide continuous support during and post-completion of
+                           the
+                           entire project.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-6 col-lg-4 pdc">
+               <div class="hov-c9">
+                  <div class="single-service-plane text-center rounded white-bg shadow-sm p-3 mt-md-4 mt-lg-0">
+                     <img src="@/assets/img/a9.png" alt="shared hosting" class="img-fluid mb-4 pdtm" width="45" />
+                     <div class="service-plane-content">
+                        <h3 class="h5 pdt clri">Business Analysis & Consulting</h3>
+                        <p class="pdt">You have a business idea but not sure which technology is best suitable for your
+                           project, our
+                           web developers & business analysts help you to choose appropriate technology. Get a free
+                           consultation now and build your own web app.</p>
+                     </div>
+                     <div class="action-wrap mt-3">
+                        <a href="#" class="btn-link">View Details <span class="fas fa-long-arrow-alt-right"></span></a>
+                     </div>
                   </div>
                </div>
             </div>
@@ -287,13 +312,15 @@
          <div class="row justify-content-center">
             <div class="col-md-9 col-lg-8">
                <div class="section-heading text-center mb-5 mb-sm-5 mb-md-3 mb-lg-3">
-                  <h2>Web Technologies, We've Expertise In</h2>
+                  <h3>Web Technologies, We've Expertise In</h3>
+                  <h5 class="lead">We have a team of web developers who have years of experience
+                  </h5>
                </div>
             </div>
          </div>
          <div class="row">
             <div class="col-md-3 col-lg-2 pcdd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/a.png" alt="shared hosting" class="img-fluid mb-4" width="105" />
                   <div class="service-plane-content">
                      <h2 class="h5">Vue js</h2>
@@ -301,7 +328,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcdd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/b.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Laravel</h2>
@@ -309,7 +336,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcdd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/i.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">PHP</h2>
@@ -317,7 +344,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcdd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/c.png" alt="shared hosting" class="img-fluid mb-4" width="105" />
                   <div class="service-plane-content">
                      <h2 class="h5">React js</h2>
@@ -325,7 +352,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcdd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/d.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">JavaScript</h2>
@@ -333,7 +360,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/h.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">WordPress</h2>
@@ -341,15 +368,15 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcdd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-2 mt-md-2 mt-lg-2">
-                  <img src="@/assets/img/e.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
+                  <img src="@/assets/img/e.png" alt="shared hosting" class="img-fluid mb-4" width="86" />
                   <div class="service-plane-content">
                      <h2 class="h5">HTML</h2>
                   </div>
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/f.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">CSS</h2>
@@ -357,7 +384,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/l.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Angular js</h2>
@@ -365,7 +392,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/g.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Boostrap</h2>
@@ -373,7 +400,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/j.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">WooCom</h2>
@@ -381,7 +408,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/m.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Shopify</h2>
@@ -389,7 +416,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/k.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">CodeIgniter</h2>
@@ -397,7 +424,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/r.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">MySQL</h2>
@@ -405,7 +432,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/p.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">API</h2>
@@ -413,7 +440,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/n.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Github</h2>
@@ -421,7 +448,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/o.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Postman</h2>
@@ -429,7 +456,7 @@
                </div>
             </div>
             <div class="col-md-3 col-lg-2 pcd">
-               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2">
+               <div class="single-service-plane text-center rounded white-bg shadow-sm p-4 mt-md-2 mt-lg-2 hv bg-c">
                   <img src="@/assets/img/q.png" alt="shared hosting" class="img-fluid mb-4" width="90" />
                   <div class="service-plane-content">
                      <h2 class="h5">Node js</h2>
@@ -866,6 +893,81 @@
 </template>
 
 <style scoped>
+.hv {
+   color: inherit;
+   text-decoration: none;
+}
+
+.hv {
+   background:
+      linear-gradient(to right,
+         rgb(213, 236, 6),
+         rgb(2, 107, 114)),
+      linear-gradient(to right,
+         rgba(255, 0, 0, 1),
+         rgba(255, 0, 180, 1),
+         rgba(0, 100, 200, 1));
+   background-size: 100% 0px, 0 0px; 
+   background-position: 100% 100%, 0 100%;
+   background-repeat: no-repeat;
+   transition: background-size 400ms;
+}
+
+.hv:hover {
+   background-size: 0 6px, 100% 6px;
+}
+
+.pdc {
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+.hov-c1:hover {
+   border-style: solid;
+   border-color: #c368f7;
+   border-width: 3px;
+}
+.hov-c2:hover {
+   border-style: solid;
+   border-color: #f76868;
+   border-width: 3px;
+}
+.hov-c3:hover {
+   border-style: solid;
+   border-color: #6880f7;
+   border-width: 3px;
+}
+.hov-c4:hover {
+   border-style: solid;
+   border-color: #68dff7;
+   border-width: 3px;
+}
+.hov-c5:hover {
+   border-style: solid;
+   border-color: #68b0f7;
+   border-width: 3px;
+}
+.hov-c6:hover {
+   border-style: solid;
+   border-color: #f7c568;
+   border-width: 3px;
+}
+.hov-c7:hover {
+   border-style: solid;
+   border-color: #79f768;
+   border-width: 3px;
+}
+.hov-c8:hover {
+   border-style: solid;
+   border-color: #f79868;
+   border-width: 3px;
+}
+.hov-c9:hover {
+   border-style: solid;
+   border-color: #f7688c;
+   border-width: 3px;
+}
+
+
 .clra {
    color: #c368f7;
 }
@@ -1029,6 +1131,9 @@ body {
 }
 .pcdd {
    padding-top: 10px;
+}
+.bg-c {
+background-color: white;
 }
 
 </style>

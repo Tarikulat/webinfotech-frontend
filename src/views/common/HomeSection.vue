@@ -1,6 +1,5 @@
 <template>
     <div class="main">
-
         <!--hero section 1 start-->
         <section class="hero-slider-section imga background-container">
             <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
@@ -1055,7 +1054,8 @@
         </section>
         <!--Section 5 end-->
         
-        <!--testimonial and review section start-->
+
+        <!--Section 6 start-->
         <section class="client-review-section ptb-100 gray-light-bg">
             <div class="container">
                 <div class="row justify-content-center">
@@ -1199,9 +1199,9 @@
                 </div>
             </div>
         </section>
-        <!--testimonial and review section end-->
-    </div>
+        <!--Section 5 end-->
 
+    </div>
 </template>
 
 <script setup>
@@ -1212,9 +1212,11 @@
 .imf {
     height: 222px;
 }
+
 .imgs {
-    height:247px;
+    height: 247px;
 }
+
 .imc {
     height: 248px;
 }
@@ -1229,56 +1231,67 @@
     border-color: rgb(19, 17, 17);
     border-width: 1px;
 }
+
 .hov-a:hover {
     border-style: solid;
-    border-color: #FE53BB;   
+    border-color: #FE53BB;
     border-width: 3px;
 }
+
 .hov-b {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 1px;
 }
+
 .hov-b:hover {
     border-style: solid;
     border-color: #e67c1a;
     border-width: 3px;
 }
+
 .hov-c {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 1px;
 }
+
 .hov-c:hover {
     border-style: solid;
     border-color: #e6e31a;
     border-width: 3px;
 }
+
 .hov-d {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 1px;
 }
+
 .hov-d:hover {
     border-style: solid;
     border-color: #4e3b47;
     border-width: 3px;
 }
+
 .hov-e {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 1px;
 }
+
 .hov-e:hover {
     border-style: solid;
     border-color: #aca926;
     border-width: 3px;
 }
+
 .hov-f {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 1px;
 }
+
 .hov-f:hover {
     border-style: solid;
     border-color: #c93e8f;
@@ -1289,13 +1302,16 @@
 .pdn {
     padding-bottom: 100px;
 }
+
 .bg-co {
     background-color: #f6f7fa;
 }
+
 .ag-format-container {
     width: 580px;
     margin: 0 auto;
 }
+
 /* body {
     background-color: #000;
 } */
@@ -1455,36 +1471,46 @@
         font-size: 16px;
     }
 }
+
 .pad-n {
     padding-top: 100px;
     padding-bottom: 50px;
 }
+
 .bg-1 {
     background-color: #f8effe;
 }
+
 .bg-2 {
     background-color: #fdf1f0;
 }
+
 .bg-3 {
     background-color: #fef9ef;
 }
+
 .bg-4 {
     background-color: #e6e9f5;
 }
+
 .bg-5 {
-        background-color: #f0fced;
+    background-color: #f0fced;
 }
+
 .bg-6 {
-        background-color: #fcedf1;
+    background-color: #fcedf1;
 }
+
 .pos {
     padding-right: 25px;
 }
+
 .pad {
     padding-bottom: 25px;
 }
+
 .img-position {
-padding-right: 25px;
+    padding-right: 25px;
 }
 
 .background-container {
@@ -1497,6 +1523,7 @@ padding-right: 25px;
     height: 100vh;
     /* Full viewport height */
 }
+
 .b-img {
     background-image: url('@/assets/img/bacimg.webp');
     background-size: cover;
@@ -1507,6 +1534,7 @@ padding-right: 25px;
     height: 20vh; */
     /* Full viewport height */
 }
+
 /* .imga {
     background-image: url('@/assets/img/bacimg.webp');
     height: 700px;
