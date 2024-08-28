@@ -1054,7 +1054,6 @@
         </section>
         <!--Section 5 end-->
         
-
         <!--Section 6 start-->
         <section class="client-review-section ptb-100 gray-light-bg">
             <div class="container">
@@ -1304,7 +1303,7 @@
 }
 
 .bg-co {
-    background-color: #f6f7fa;
+    background-color: #edf9ff;
 }
 
 .ag-format-container {

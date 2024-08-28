@@ -305,6 +305,259 @@
       </div>
    </section>
    <!--section 3 end-->
+   <!--section 5 start-->
+   <section class="call-to-action ptb-100 gradient-overly-bottom">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-md-9 col-lg-8">
+               <div class="call-to-action-content text- text-center">
+                  <h2 class="text-">Web Development Process</h2>
+                  <p>We acknowledge your inquiry, what's next?</p>
+                  <div class="action-btns mt-3">
+                     <a href="#" class="btn solid-white-btn mr-3">Existing Customers</a>
+                     <a href="#" class="btn outline-white-btn">New Customers</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!--section 5 end-->
+
+   <!--section 6 start-->
+   <section class="our-services ptb-100 gray-light-bg">
+
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-md-4 col-sm-6">
+               <div class="pricing-table">
+                  <svg viewBox="0 0 100 50" class="pricing-header">
+                     <path class="svg-path" d="M 0,0 H100 V50 C55,0 50,80 0,40 Z" />
+                     <text class="svg-text" x="30" y="23">PLan-1</text>
+                  </svg>
+                  <div class="price-value">
+                     <div class="value">
+                        <span class="currency">$</span>
+                        <span class="amount">10.99</span>
+                     </div>
+                  </div>
+                  <div class="pricing-content">
+                     <ul>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                     </ul>
+                  </div>
+                  <div class="Sign-Up">
+                     <a href="">Buy Plan</a>
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+               <div class="pricing-table blue">
+                  <svg viewBox="0 0 100 50" class="pricing-header">
+                     <path class="svg-path" d="M 0,0 H100 V50 C55,0 50,80 0,40 Z" />
+                     <text class="svg-text" x="30" y="23">PLan-2</text>
+                  </svg>
+                  <div class="price-value">
+                     <div class="value">
+                        <span class="currency">$</span>
+                        <span class="amount">20.99</span>
+                     </div>
+                  </div>
+                  <div class="pricing-content">
+                     <ul>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                     </ul>
+                  </div>
+                  <div class="Sign-Up">
+                     <a href="">Buy Plan</a>
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+               <div class="pricing-table green">
+                  <svg viewBox="0 0 100 50" class="pricing-header">
+                     <path class="svg-path" d="M 0,0 H100 V50 C55,0 50,80 0,40 Z" />
+                     <text class="svg-text" x="30" y="23">PLan-3</text>
+                  </svg>
+                  <div class="price-value">
+                     <div class="value">
+                        <span class="currency">$</span>
+                        <span class="amount">30.99</span>
+                     </div>
+                  </div>
+                  <div class="pricing-content">
+                     <ul>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                        <li>Lorem ipsum tyurtdfreruru</li>
+                     </ul>
+                  </div>
+                  <div class="Sign-Up">
+                     <a href="">Buy Plan</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!--section 6 end-->
+
+   <!--section 7 start-->
+   <section class="support-category ptb-100">
+      <div class="container">
+         <div class="row justify-content-center">
+
+            <div class="col-md-9 col-lg-8">
+               <div class="section-heading mb-5 text-center">
+                  <h2>How we Define our Support Services</h2>
+                  <p class="lead">Distinctively productize team driven niches with</p>
+               </div>
+            </div>
+         </div>
+
+         <div class="row justify-content-around">
+            <div class="col-md-6 col-lg-6">
+               <div class="help-center-left">
+                  <ul class="list-unstyled popular-categories-list">
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-5 color-5-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5>How we Define our Support Services</h5>
+                           <p class="mb-0">Rapidiously reconceptualize technically
+                              professional. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-3 color-3-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5>How we Define our Support Services</h5>
+                           <p class="mb-0">Rapidiously reconceptualize technically
+                              professional. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5 class="mb-0">Payment issue</h5>
+                           <p class="mb-0">Intrinsicly iterate functional customer
+                              systems. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5 class="mb-0">Payment issue</h5>
+                           <p class="mb-0">Intrinsicly iterate functional customer
+                              systems. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-md-6 col-lg-6">
+               <div class="help-center-left">
+                  <ul class="list-unstyled popular-categories-list">
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-5 color-5-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5 class="mb-0">Our servers status</h5>
+                           <p class="mb-0">Rapidiously reconceptualize
+                              professional. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-3 color-3-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5 class="mb-0">Our domains services</h5>
+                           <p class="mb-0">Efficiently target tactical growth
+                              e-commerce. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5 class="mb-0">Payment issue</h5>
+                           <p class="mb-0">Intrinsicly iterate functional customer
+                              systems. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                     <li class="d-flex align-items-center border rounded py-4 px-4">
+                        <div class="icon-wrap mr-4">
+                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
+                        </div>
+                        <div class="help-center-info">
+                           <h5 class="mb-0">Payment issue</h5>
+                           <p class="mb-0">Intrinsicly iterate functional customer
+                              systems. </p>
+                           <a class="help-center-box-link" href="#"><i
+                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
+                        </div>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!--section 7 end-->
 
    <!--section 4 start-->
    <section class="our-services ptb-100 gray-light-bg">
@@ -487,259 +740,8 @@
    </section>
    <!--section 5 end-->
 
-   <!--section 6 start-->
-   <section class="pricing-section ptb-100">
-      <div class="container">
-         <div class="row justify-content-center">
-            <div class="col-md-9 col-lg-8">
-               <div class="section-heading text-center mb-5">
-                  <h2>Managed Our Hosting Price</h2>
-                  <p class="lead">
-                     Professional hosting at an affordable price. Distinctively recaptiualize principle-centered
-                     core competencies through
-                     core competencies.
-                  </p>
-               </div>
-            </div>
-         </div>
-         <div class="row justify-content-center">
-            <div class="col-10 col-sm-8 col-md-7">
-               <div class="text-center mb-5 radio-box-wrap billingCycle">
-                  <div class="single-radio-box">
-                     <input name="billingPlan" id="monthly-plan" value="monthly" class="radio" type="radio" checked>
-                     <label for="monthly-plan"><span class="custom-check"></span> Monthly</label>
-                  </div>
-                  <div class="single-radio-box">
-                     <input name="billingPlan" id="yearly-plan" value="yearly" class="radio" type="radio">
-                     <label for="yearly-plan"><span class="custom-check"></span> Yearly</label>
-                  </div>
-                  <div class="single-radio-box">
-                     <input name="billingPlan" id="biannual-plan" value="biannual" class="radio" type="radio">
-                     <label for="biannual-plan"><span class="custom-check"></span> Biannual</label>
-                  </div>
-                  <div class="single-radio-box">
-                     <input name="billingPlan" id="triennial-plan" value="triennial" class="radio" type="radio">
-                     <label for="triennial-plan"><span class="custom-check"></span> Triennial</label>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="row align-items-center justify-content-between">
-            <div class="col-lg-4 col-md-4 col-12">
-               <div class="card text-center single-pricing-pack">
-                  <div class="pt-5">
-                     <h5 class="mb-0">Cloud Starter</h5>
-                     <p class="mb-0">Medium traffic personal sites</p>
-                  </div>
-                  <div class="card-header pb-4 border-0 pricing-header">
-                     <div class="price text-center mb-0 monthly-price">$19<span>/month</span></div>
-                     <div class="price text-center mb-0 yearly-price">$69<span>/yearly</span></div>
-                     <div class="price text-center mb-0 biannual-price">$130<span>/biannual</span></div>
-                     <div class="price text-center mb-0 triennial-price">$199<span>/triennial</span></div>
-                  </div>
-                  <div class="card-body">
-                     <ul class="list-unstyled mb-4 pricing-feature-list">
-                        <li><span>10</span> Hosted Domains</li>
-                        <li><span>25 GB</span> RAID 10 Storage</li>
-                        <li><span>200 GB</span> Bandwidth</li>
-                        <li><span>1 Free</span> Domain included</li>
-                        <li><span>Super Fast</span> SSD Storage</li>
-                        <li><span>Free</span> SSL Certificate</li>
-                        <li>99.95% Uptime</li>
-                        <li>24/7 Phone Support</li>
-                     </ul>
-                     <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-12">
-               <div class="card popular-price text-center single-pricing-pack">
-                  <div class="pt-5">
-                     <h5 class="mb-0">Cloud Business <span class="badge color-1 color-1-bg">Popular</span></h5>
-                     <p class="mb-0">High traffic corporate sites</p>
-                  </div>
-                  <div class="card-header pb-4 border-0 pricing-header">
-                     <div class="price text-center mb-0 monthly-price">$49<span>/month</span></div>
-                     <div class="price text-center mb-0 yearly-price">$159<span>/yearly</span></div>
-                     <div class="price text-center mb-0 biannual-price">$299<span>/biannual</span></div>
-                     <div class="price text-center mb-0 triennial-price">$429<span>/triennial</span></div>
-                  </div>
-                  <div class="card-body">
-                     <ul class="list-unstyled mb-4 pricing-feature-list">
-                        <li><span>30</span> Hosted Domains</li>
-                        <li><span>75 GB</span> RAID 10 Storage</li>
-                        <li><span>700 GB</span> Bandwidth</li>
-                        <li><span>3 Free</span> Domain included</li>
-                        <li><span>Super Fast</span> SSD Storage</li>
-                        <li><span>Free</span> SSL Certificate</li>
-                        <li>99.95% Uptime</li>
-                        <li>24/7 Phone Support</li>
-                     </ul>
-                     <a href="#" class="btn primary-solid-btn mb-3" target="_blank">Purchase now</a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-12">
-               <div class="card text-center single-pricing-pack">
-                  <div class="pt-5">
-                     <h5 class="mb-0">Cloud Enterprise</h5>
-                     <p class="mb-0">Enterprise content management</p>
-                  </div>
-                  <div class="card-header pb-4 border-0 pricing-header">
-                     <div class="price text-center mb-0 monthly-price">$69<span>/month</span></div>
-                     <div class="price text-center mb-0 yearly-price">$259<span>/yearly</span></div>
-                     <div class="price text-center mb-0 biannual-price">$499<span>/biannual</span></div>
-                     <div class="price text-center mb-0 triennial-price">$739<span>/triennial</span></div>
-                  </div>
-                  <div class="card-body">
-                     <ul class="list-unstyled mb-4 pricing-feature-list">
-                        <li><span>60</span> Hosted Domains</li>
-                        <li><span>175 GB</span> RAID 10 Storage</li>
-                        <li><span>1500 GB</span> Bandwidth</li>
-                        <li><span>6 Free</span> Domain included</li>
-                        <li><span>Super Fast</span> SSD Storage</li>
-                        <li><span>Free</span> SSL Certificate</li>
-                        <li>99.95% Uptime</li>
-                        <li>24/7 Phone Support</li>
-                     </ul>
-                     <a href="#" class="btn outline-btn mb-3" target="_blank">Purchase now</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!--section 6 end-->
-
-   <!--section 7 start-->
-   <section class="support-category ptb-100">
-      <div class="container">
-         <div class="row justify-content-center">
-
-            <div class="col-md-9 col-lg-8">
-               <div class="section-heading mb-5 text-center">
-                  <h2>How we Define our Support Services</h2>
-                  <p class="lead">Distinctively productize team driven niches with</p>
-               </div>
-            </div>
-         </div>
-
-         <div class="row justify-content-around">
-            <div class="col-md-6 col-lg-6">
-               <div class="help-center-left">
-                  <ul class="list-unstyled popular-categories-list">
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-5 color-5-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5>How we Define our Support Services</h5>
-                           <p class="mb-0">Rapidiously reconceptualize technically
-                              professional. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-3 color-3-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5>How we Define our Support Services</h5>
-                           <p class="mb-0">Rapidiously reconceptualize technically
-                              professional. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5 class="mb-0">Payment issue</h5>
-                           <p class="mb-0">Intrinsicly iterate functional customer
-                              systems. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5 class="mb-0">Payment issue</h5>
-                           <p class="mb-0">Intrinsicly iterate functional customer
-                              systems. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                  </ul>
-               </div>
-            </div>
-            <div class="col-md-6 col-lg-6">
-               <div class="help-center-left">
-                  <ul class="list-unstyled popular-categories-list">
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-5 color-5-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5 class="mb-0">Our servers status</h5>
-                           <p class="mb-0">Rapidiously reconceptualize
-                              professional. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-3 color-3-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5 class="mb-0">Our domains services</h5>
-                           <p class="mb-0">Efficiently target tactical growth
-                              e-commerce. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5 class="mb-0">Payment issue</h5>
-                           <p class="mb-0">Intrinsicly iterate functional customer
-                              systems. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center border rounded py-4 px-4">
-                        <div class="icon-wrap mr-4">
-                           <span class="ti-star icon-sm color-4 color-4-bg p-3 rounded"></span>
-                        </div>
-                        <div class="help-center-info">
-                           <h5 class="mb-0">Payment issue</h5>
-                           <p class="mb-0">Intrinsicly iterate functional customer
-                              systems. </p>
-                           <a class="help-center-box-link" href="#"><i
-                                 class="ti-angle-right p-3 rounded-circle primary-bg text-white"></i></a>
-                        </div>
-                     </li>
-                  </ul>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!--section 7 end-->
-
    <!--section 8 start-->
-   <section class="ptb-100 gray-light-bg">
+   <section class="ptb-100">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-md-9 col-lg-8">
@@ -805,6 +807,119 @@
 </template>
 
 <style scoped>
+ .pricing-table {
+    background: white;
+    text-align: center;
+    padding-bottom: 30px;
+    position: relative;
+    margin-bottom: 50px;
+ }
+
+ .pricing-table .price-value {
+    color: #EF3E36;
+    margin-bottom: 5px;
+    transition: all 0.3s ease 0s;
+ }
+
+ .pricing-table.blue .price-value {
+    color: #1CA4B9;
+ }
+
+ .pricing-table.green .price-value {
+    color: #e4ac1e;
+ }
+
+ .pricing-table .currency {
+    display: inline-block;
+    font-size: 30px;
+    vertical-align: top;
+    margin-top: 8px;
+ }
+
+ .price-value .amount {
+    font-size: 40px;
+    font-weight: 700;
+ }
+
+ .pricing-content ul {
+    color: black;
+    line-height: 45px;
+    font-size: 20px;
+    margin-bottom: 20px;
+ }
+
+ .pricing-content ul li {
+    border-bottom: 2px dashed rgba(148, 91, 91, 0.1);
+ }
+
+ .pricing-content ul li:last-child {
+    border-bottom: none;
+ }
+
+ .Sign-Up a {
+    display: inline-block;
+    padding: 10px 25px;
+    background: #EF3E36;
+    color: #fff !important;
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+    overflow: hidden;
+ }
+
+ .pricing-table.blue .Sign-Up a {
+    background: #1CA4B9;
+ }
+
+ .pricing-table.green .Sign-Up a {
+    background: #e4ac1e;
+ }
+
+ .Sign-Up a:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    display: inline-block;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 0) 100%);
+    transform: translate(0, 100%);
+    transition: all .6s ease-in-out;
+    opacity: 0;
+ }
+
+ .Sign-Up a:hover:before {
+    opacity: 1;
+    transform: translate(0, -100%);
+ }
+
+ @media screen and (max-width:990px) {
+    .pricing-table {
+       margin-bottom: 30px;
+       display: block;
+       
+    }
+ }
+ .pricing-header {
+    width: 100%;
+    /* or any specific width you need */
+    height: auto;
+    /* maintains aspect ratio */
+ }
+
+ .svg-path {
+    stroke: none;
+    fill: #EF3E36;
+ }
+
+ .svg-text {
+    fill: #fff;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    /* Optional: Define font-family */
+ }
+
 .hv {
    color: inherit;
    text-decoration: none;
