@@ -14,7 +14,8 @@ import {
    WordPressDevelopment,
    LandingPage,
    LaravelWebsite,
-   AppDevelopment
+   AppDevelopment,
+   OrderForm
   // Signup
  } from '@/views/pages'
 
@@ -76,56 +77,13 @@ const router = createRouter({
       name: 'app-development',    
       component: AppDevelopment, 
     },
+    {
+      path: '/order-form', 
+      name: 'order-form',    
+      component: OrderForm, 
+    },
   
-    // //...hosting......
-    // {
-    //   path: '/shared-host',  
-    //   name: 'shared-host',   
-    //   component: SharedHost, 
-    // },
-    // {
-    //   path: '/share-hosting',  
-    //   name: 'website-shared',   
-    //   component: WebsiteShared, 
-    // },
-    // {
-    //   path: '/ecommerce-hosting',  
-    //   name: 'ecommerce-host',   
-    //   component: EcommerceHost, 
-    // },
-    // {
-    //   path: '/reseller-hosting',  
-    //   name: 'reseller-host',   
-    //   component: ResellerHost, 
-    // },
-    // //...server.....
-    // {
-    //   path: '/rocket-server',  
-    //   name: 'rocket-server',   
-    //   component: RocketServer, 
-    // },
-    // {
-    //   path: '/vps-server',  
-    //   name: 'vps-server',   
-    //   component: VpsServer, 
-    // },
-    // {
-    //   path: '/dadicated-server',  
-    //   name: 'DedicatedServer',   
-    //   component: DedicatedServer, 
-    // },
-    // //...login file.....
-    // {
-    //   path: '/contact',  
-    //   name: 'contact',   
-    //   component: Contact, 
-    // },
-    //
-    // {
-    //   path: '/login',  
-    //   name: 'login',   
-    //   component: Login, 
-    // },
+   
     // {
     //   path: '/signup',  
     //   name: 'signup',   

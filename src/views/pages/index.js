@@ -8,3 +8,4 @@ export { default as WordPressDevelopment } from   '@/views/pages/WordPressDevelo
 export { default as LandingPage } from            '@/views/pages/LandingPage/LandingPage.vue';
 export { default as LaravelWebsite } from         '@/views/pages/LaravelWebsite/LaravelWebsite.vue';
 export { default as AppDevelopment } from         '@/views/pages/AppDevelopment/AppDevelopment.vue';
+export { default as OrderForm } from              '@/views/pages/OrderForm/OrderForm.vue';
