@@ -1,7 +1,7 @@
 <template>
     <div class="main">
         <!--hero section 1 start-->
-        <section class="hero-slider-section imga background-container">
+        <section class="hero-slider-section background-container">
             <div class="">
                 <div class="item">
                     <div class=" hero-equal-height ptb-100">
@@ -1519,7 +1519,7 @@
     background-position: center;
     /* Adjust as needed */
     width: 100%;
-    height: 100vh;
+    height: 80%;
     /* Full viewport height */
 }
 
@@ -1534,10 +1534,6 @@
     /* Full viewport height */
 }
 
-/* .imga {
-    background-image: url('@/assets/img/bacimg.webp');
-    height: 700px;
-} */
 .border-1 {
     border: 5px solid red;
 

@@ -305,6 +305,7 @@
       </div>
    </section>
    <!--section 3 end-->
+
    <!--section 5 start-->
    <section class="call-to-action ptb-100 gradient-overly-bottom">
       <div class="container">
@@ -807,6 +808,7 @@
 </template>
 
 <style scoped>
+
  .pricing-table {
     background: white;
     text-align: center;
