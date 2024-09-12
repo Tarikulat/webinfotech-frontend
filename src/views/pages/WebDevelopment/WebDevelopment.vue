@@ -5,7 +5,7 @@
 <template>
    <!--section 1 start-->
    <section class="hero-slider-section imga">
-      <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
+      <div class="">
          <div class="item">
             <div class="gradient-overly-right hero-equal-height ptb-100">
                <div class="container">

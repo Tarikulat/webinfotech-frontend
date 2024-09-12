@@ -2,7 +2,7 @@
     <div class="main">
         <!--hero section 1 start-->
         <section class="hero-slider-section imga background-container">
-            <div class="owl-carousel owl-theme hero-slider-one custom-dot dot-right-center">
+            <div class="">
                 <div class="item">
                     <div class=" hero-equal-height ptb-100">
                         <div class="container">
