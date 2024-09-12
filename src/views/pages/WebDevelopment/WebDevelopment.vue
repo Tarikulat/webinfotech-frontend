@@ -3,8 +3,96 @@
 </script>
 
 <template>
+
+   <!--hero section 1 start-->
+   <section class="hero-slider-section background-container-2">
+      <div class="">
+         <div class="item">
+            <div class=" hero-equal-height ptb-100">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-10 col-lg-10">
+                        <div class="hero-content-wrap text-white position-relative z-index">
+                           <!-- <h3 class="text-white">Your Trusted and Reliable</h3> -->
+                           <!-- <h2 class="text-white">ECOMMERCE & WEB DEVELOPMENT</h2> -->
+                           <h2 class="text-white">Partner to Empower your Business Empower  </h2> <br>
+
+                           <p class="lead">We are a group of creative design and development minds
+                              providing futuristic and contemporary web development
+                              solutions with affordability and satisfaction, to all businesses, regardless
+                              of their size and domain. Our goal is to exceed
+                              our customers' expectations with the help of experience combined with
+                              state-of-art techniques and technologies.
+                           </p>
+                        </div>
+                     </div>
+
+                     <div class="col-md-12 col-lg-12">
+                        <div class="domain-list-wrap mt-4">
+                           <ul class="list-inline  text-white pad">
+                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi1.png"
+                                       alt="com" class="img-fluid" />
+                                 </a></li>
+                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi2.png"
+                                       alt="com" class="img-fluid" />
+                                 </a></li>
+                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi3.png"
+                                       alt="com" class="img-fluid" />
+                                 </a></li>
+
+                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi1.png"
+                                       alt="com" class="img-fluid" />
+                                 </a></li>
+                              <!-- <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi2.png"
+                                       alt="com" class="img-fluid" />
+                                 </a></li> -->
+
+                           </ul>
+                        </div>
+
+                        <div class="domain-list-wrap mt-4">
+                           <ul class="list-inline  text-white pad">
+                              <li class="list-inline-item pos"><button class="btnb" type="button2">
+                                    <strong>What We Do</strong>
+                                    <div id="container-stars">
+                                       <div id="stars"></div>
+                                    </div>
+
+                                    <div id="glow">
+                                       <div class="circle"></div>
+                                       <div class="circle"></div>
+                                    </div>
+                                 </button>
+                              </li>
+
+                              <li class="list-inline-item"> <button>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                       class="bi bi-card-text" viewBox="0 0 16 16">
+                                       <path
+                                          d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2z" />
+                                       <path
+                                          d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8m0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5" />
+                                    </svg>
+                                    <span> Details</span>
+                                 </button>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+   </section>
+   <!--hero section 1 end-->
+
+
+
+
    <!--section 1 start-->
-   <section class="hero-slider-section imga">
+   <!-- <section class="hero-slider-section imga">
       <div class="">
          <div class="item">
             <div class="gradient-overly-right hero-equal-height ptb-100">
@@ -80,7 +168,7 @@
          </div>
       </div>
 
-   </section>
+   </section> -->
    <!--section 1 end-->
 
    <!-- section 2 start-->
@@ -809,6 +897,16 @@
 
 <style scoped>
 
+.background-container-2 {
+   background-image: url('@/assets/img/j.jpg');
+   background-size: cover;
+   /* Adjust as needed */
+   background-position: center;
+   /* Adjust as needed */
+   width: 100%;
+   height: 80%;
+   /* Full viewport height */
+}
  .pricing-table {
     background: white;
     text-align: center;

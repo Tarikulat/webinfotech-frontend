@@ -7,13 +7,14 @@
                     <div class=" hero-equal-height ptb-100">
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-12 col-lg-12">
-                                    <div class="hero-content-wrap text-white position-relative z-index">
-                                        <h3 class="text-white">Your Trusted and Reliable</h3>
-                                        <h2 class="text-white">ECOMMERCE & WEB DEVELOPMENT</h2>
-                                        <h2 class="text-white">Partner to Empower your Business</h2> <br>
+                                <div class="col-md-9 col-lg-9">
+                                    <div class="hero-content-wrap position-relative z-index">
+                                        <h3 class="text-white">Your <span class="colo">Trusted</span> and Reliable!</h3>
+                                        <h1 class="text-white">ECOMMERCE & WEB DEVELOPMENT</h1>
+                                        <h1 class="text-white">Partner to Empower your Business</h1> <br>
 
-                                        <p class="lead">We are a group of creative design and development minds
+                                        <p class="lead text-white">We are a group of creative design and development
+                                            minds
                                             providing futuristic and contemporary web development
                                             solutions with affordability and satisfaction, to all businesses, regardless
                                             of their size and domain. Our goal is to exceed
@@ -39,9 +40,9 @@
                                             <li class="list-inline-item img-position"><a href="#"><img
                                                         src="@/assets/img/hi1.png" alt="com" class="img-fluid" />
                                                 </a></li>
-                                            <li class="list-inline-item img-position"><a href="#"><img
+                                            <!-- <li class="list-inline-item img-position"><a href="#"><img
                                                         src="@/assets/img/hi2.png" alt="com" class="img-fluid" />
-                                                </a></li>
+                                                </a></li> -->
 
                                         </ul>
                                     </div>
@@ -308,7 +309,7 @@
         <!--Section 4 end-->
 
         <!--Section 5 start-->
-        <section class="call-to-action pdn">
+        <!-- <section class="call-to-action pdn">
             <div class="container">
                 <div class="row justify-content-center pad-n b-img">
                     <div class="col-md-9 col-lg-9">
@@ -323,7 +324,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Section 5 end-->
 
         <!-- Section 6 start-->
@@ -1036,12 +1037,12 @@
         <!--feature section end-->
 
         <!--Section 5 start-->
-        <section class="call-to-action pdn">
+        <section class="call-to-action pdn ptb-100">
             <div class="container">
                 <div class="row justify-content-center pad-n b-img">
                     <div class="col-md-9 col-lg-9">
                         <div class="call-to-action-content text-green text-left">
-                            <h4 class="text-white">Web Infotech is a Leading Web Development Software Company</h4> <br>
+                            <h3 class="text-white">Web is a Leading Web Development Software Company</h3> <br>
                             <p class="text-white">We have strong principles and a long history of delivering effective
                                 web development
                                 solutions</p>
@@ -1053,7 +1054,7 @@
             </div>
         </section>
         <!--Section 5 end-->
-        
+
         <!--Section 6 start-->
         <section class="client-review-section ptb-100 gray-light-bg">
             <div class="container">
@@ -1208,6 +1209,11 @@
 </script>
 
 <style>
+
+.colo {
+    color: red;
+    font-weight: 750;
+}
 .imf {
     height: 222px;
 }
@@ -1228,7 +1234,7 @@
 .hov-a {
     border-style: solid;
     border-color: rgb(19, 17, 17);
-    border-width: 1px;
+    border-width: 0px;
 }
 
 .hov-a:hover {
@@ -1240,7 +1246,7 @@
 .hov-b {
     border-style: solid;
     border-color: rgb(19, 17, 17);
-    border-width: 1px;
+    border-width: 0px;
 }
 
 .hov-b:hover {
@@ -1252,7 +1258,7 @@
 .hov-c {
     border-style: solid;
     border-color: rgb(19, 17, 17);
-    border-width: 1px;
+    border-width: 0px;
 }
 
 .hov-c:hover {
@@ -1264,7 +1270,7 @@
 .hov-d {
     border-style: solid;
     border-color: rgb(19, 17, 17);
-    border-width: 1px;
+    border-width: 0px;
 }
 
 .hov-d:hover {
@@ -1276,7 +1282,7 @@
 .hov-e {
     border-style: solid;
     border-color: rgb(19, 17, 17);
-    border-width: 1px;
+    border-width: 0px;
 }
 
 .hov-e:hover {
@@ -1288,7 +1294,7 @@
 .hov-f {
     border-style: solid;
     border-color: rgb(19, 17, 17);
-    border-width: 1px;
+    border-width: 0px;
 }
 
 .hov-f:hover {
@@ -1513,7 +1519,7 @@
 }
 
 .background-container {
-    background-image: url('@/assets/img/bacimg.webp');
+    background-image: url('@/assets/img/j2.jpg');
     background-size: cover;
     /* Adjust as needed */
     background-position: center;
@@ -1524,7 +1530,7 @@
 }
 
 .b-img {
-    background-image: url('@/assets/img/bacimg.webp');
+    background-image: url('@/assets/img/sk.jpg');
     background-size: cover;
     /* Adjust as needed */
     /* background-position: center; */
