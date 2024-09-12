@@ -59,6 +59,7 @@
                                 <img src="@/assets/img/s2.svg" alt="com" class="img-fluid" />
                             </li>
                     </div>
+                    
                     <div class="media-body">
                         <span class="u-header__promo-title">Web Development
                         </span>
@@ -645,8 +646,8 @@
             </a>
         </li> -->
         <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="250px" data-position="right">
-            <a id="aboutMegaMenu" class="nav-link custom-nav-link" href="JavaScript:Void(0);"
-                aria-haspopup="true" aria-expanded="false">Case Studies</a>
+            <a id="aboutMegaMenu" class="nav-link custom-nav-link" href="JavaScript:Void(0);" aria-haspopup="true"
+                aria-expanded="false">Case Studies</a>
         </li>
         <!--Case Studies end-->
 

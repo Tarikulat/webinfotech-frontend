@@ -357,7 +357,7 @@
                      </ul>
                   </div>
                   <div class="Sign-Up">
-                     <a href="">Buy Plan</a>
+                     <router-link href="" :to="{ name: 'order-form' }">Buy Plan</router-link>
                   </div>
                </div>
             </div>
@@ -390,7 +390,7 @@
                      </ul>
                   </div>
                   <div class="Sign-Up">
-                     <a href="">Buy Plan</a>
+                     <router-link href="" :to="{ name: 'order-form' }">Buy Plan</router-link>
                   </div>
                </div>
             </div>
@@ -423,7 +423,7 @@
                      </ul>
                   </div>
                   <div class="Sign-Up">
-                     <a href="">Buy Plan</a>
+                     <router-link href="" :to="{ name: 'order-form' }">Buy Plan</router-link>
                   </div>
                </div>
             </div>
