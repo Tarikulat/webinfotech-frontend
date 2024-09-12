@@ -3,7 +3,6 @@
 </script>
 
 <template>
-
    <!--hero section 1 start-->
    <section class="hero-slider-section background-container-2">
       <div class="">
@@ -15,7 +14,7 @@
                         <div class="hero-content-wrap text-white position-relative z-index">
                            <!-- <h3 class="text-white">Your Trusted and Reliable</h3> -->
                            <!-- <h2 class="text-white">ECOMMERCE & WEB DEVELOPMENT</h2> -->
-                           <h2 class="text-white">Partner to Empower your Business Empower  </h2> <br>
+                           <h1 class="text-white">Partner to Empower your Business Empower </h1> <br>
 
                            <p class="lead">We are a group of creative design and development minds
                               providing futuristic and contemporary web development
@@ -88,97 +87,14 @@
    </section>
    <!--hero section 1 end-->
 
-
-
-
-   <!--section 1 start-->
-   <!-- <section class="hero-slider-section imga">
-      <div class="">
-         <div class="item">
-            <div class="gradient-overly-right hero-equal-height ptb-100">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-12 col-lg-12">
-                        <div class="hero-content-wrap text-white position-relative z-index">
-
-                           <h2 class="text-white">Custom web development saport</h2> <br>
-
-                           <p class="lead">We are a group of creative design and development minds
-                              providing futuristic and contemporary web development
-                              solutions with affordability and satisfaction, to all businesses.
-                           </p>
-                        </div>
-                     </div>
-
-                     <div class="col-md-12 col-lg-12">
-                        <div class="domain-list-wrap mt-4">
-                           <ul class="list-inline  text-white pad">
-                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi1.png"
-                                       alt="com" class="img-fluid" />
-                                 </a></li>
-                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi2.png"
-                                       alt="com" class="img-fluid" />
-                                 </a></li>
-                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi3.png"
-                                       alt="com" class="img-fluid" />
-                                 </a></li>
-
-                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi1.png"
-                                       alt="com" class="img-fluid" />
-                                 </a></li>
-                              <li class="list-inline-item img-position"><a href="#"><img src="@/assets/img/hi2.png"
-                                       alt="com" class="img-fluid" />
-                                 </a></li>
-
-                           </ul>
-                        </div>
-
-                        <div class="domain-list-wrap mt-4">
-                           <ul class="list-inline  text-white pad">
-                              <li class="list-inline-item pos"><button class="btnb" type="button2">
-                                    <strong>What We Do</strong>
-                                    <div id="container-stars">
-                                       <div id="stars"></div>
-                                    </div>
-
-                                    <div id="glow">
-                                       <div class="circle"></div>
-                                       <div class="circle"></div>
-                                    </div>
-                                 </button>
-                              </li>
-
-                              <li class="list-inline-item"> <button>
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                       class="bi bi-card-text" viewBox="0 0 16 16">
-                                       <path
-                                          d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2z" />
-                                       <path
-                                          d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8m0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5" />
-                                    </svg>
-                                    <span> Details</span>
-                                 </button>
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-
-   </section> -->
-   <!--section 1 end-->
-
    <!-- section 2 start-->
    <section class="feature-section ptb-100">
       <div class="container">
          <div class="row align-items-center">
             <div>
-               <h3>Best Web Development Software Company in Bangladesh</h3>
+               <h2>Best Software Company in Bangladesh</h2> <br>
             </div>
-            <div class="col-md-8 col-lg-8">
+            <div class="col-md-7 col-lg-7">
                <div class="cta-new-wrap">
                   <p class="lead">Being one of the leading web development companies in Bangladesh, We provide
                      excellent eCommerce development,
@@ -204,7 +120,7 @@
                </div>
             </div>
 
-            <div class="col-md-4 col-lg-4">
+            <div class="col-md-5 col-lg-5">
                <div class="cta-new-wrap">
                   <img src="@/assets/img/webdevelopment.svg" alt="hosting" class="img-fluid" />
                </div>
@@ -221,10 +137,10 @@
          <div class="row justify-content-center">
             <div class="col-md-9 col-lg-19">
                <div class="section-heading text-center mb-5 mb-sm-5 mb-md-3 mb-lg-3">
-                  <h3>Custom Web Development Services We Offer</h3>
-                  <h5 class="lead">We have a team of web developers who have years of experience in
-                     technologies, which help you to develop custom websites or web applications as per your business.
-                  </h5>
+                  <h2>Custom Web Development Services We Offer</h2>
+                  <p class="lead">We have a team of web developers who have years of experience in
+                     technologies
+                  </p>
                </div>
             </div>
          </div>

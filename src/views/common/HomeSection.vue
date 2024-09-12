@@ -1055,6 +1055,47 @@
         </section>
         <!--Section 5 end-->
 
+        <!-- Section 4 start-->
+        <section class="feature-section pad-n">
+            <div class="container">
+                <div class="row justify-content-left">
+                    <div class="col-md-9 col-lg-12">
+                        <div class="section-heading text-left mb-5">
+                            <h3>Our Latest Work</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row align-items-center bac">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="cta-new-wrap">
+                            <h3 class="txc">Max Fid Food</h3> 
+                            
+                            <h5 class="txc">Max Fid Food</h5> 
+
+                            <p class="txc">Our Laravel Development Services provide robust, scalable, and secure
+                                web
+                                applications customized to your business needs. Our expert developers leverage the power
+                                of Laravel to deliver high-quality solutions, ranging from simple websites to complex
+                                enterprise systems. We focus on performance, user experience, and seamless
+                                functionality, ensuring your project </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6">
+
+                        <div class="cta-new-wrap img-h">
+                            <ui>
+                                <li> <img src="@/assets/img/hs3.png" alt="hosting" class="img-fluid" /></li>
+
+                            </ui>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!--Section 4 end-->
+
         <!--Section 6 start-->
         <section class="client-review-section ptb-100 gray-light-bg">
             <div class="container">
@@ -1209,6 +1250,18 @@
 </script>
 
 <style>
+.img-h {
+    height: 350px;
+}
+.txc {
+    text-align: justify;
+    color: #040005;
+    padding-left: 30px;
+}
+.bac {
+    background-color: #418388;
+    height: 450px;
+}
 
 .colo {
     color: red;
