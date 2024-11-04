@@ -50871,7 +50871,7 @@ img.mfp-img {
 .owl-theme .owl-dots .owl-dot {
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 
 /* line 40, src/assets/scss/vendors/owl.theme.default.css */

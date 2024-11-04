@@ -964,52 +964,104 @@
    padding-top: 30px;
    padding-bottom: 30px;
 }
-.hov-c1:hover {
+.hov-c1 {
    border-style: solid;
-   border-color: #c368f7;
+   border-color: transparent;
    border-width: 3px;
-}
-.hov-c2:hover {
-   border-style: solid;
-   border-color: #f76868;
-   border-width: 3px;
-}
-.hov-c3:hover {
-   border-style: solid;
-   border-color: #6880f7;
-   border-width: 3px;
-}
-.hov-c4:hover {
-   border-style: solid;
-   border-color: #68dff7;
-   border-width: 3px;
-}
-.hov-c5:hover {
-   border-style: solid;
-   border-color: #68b0f7;
-   border-width: 3px;
-}
-.hov-c6:hover {
-   border-style: solid;
-   border-color: #f7c568;
-   border-width: 3px;
-}
-.hov-c7:hover {
-   border-style: solid;
-   border-color: #79f768;
-   border-width: 3px;
-}
-.hov-c8:hover {
-   border-style: solid;
-   border-color: #f79868;
-   border-width: 3px;
-}
-.hov-c9:hover {
-   border-style: solid;
-   border-color: #f7688c;
-   border-width: 3px;
+   transition: border-color 0.3s ease;
 }
 
+.hov-c1:hover {
+   border-color: #c368f7;
+}
+
+.hov-c2 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c2:hover {
+   border-color: #f76868;
+}
+
+.hov-c3 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c3:hover {
+   border-color: #6880f7;
+}
+
+.hov-c4 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c4:hover {
+   border-color: #68dff7;
+}
+
+.hov-c5 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c5:hover {
+   border-color: #68b0f7;
+}
+
+.hov-c6 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c6:hover {
+   border-color: #f7c568;
+}
+
+.hov-c7 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c7:hover {
+   border-color: #79f768;
+}
+
+.hov-c8 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c8:hover {
+   border-color: #f79868;
+}
+
+.hov-c9 {
+   border-style: solid;
+   border-color: transparent;
+   border-width: 3px;
+   transition: border-color 0.3s ease;
+}
+
+.hov-c9:hover {
+   border-color: #f7688c;
+}
 
 .clra {
    color: #c368f7;

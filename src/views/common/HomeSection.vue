@@ -1288,72 +1288,90 @@
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 0px;
+    transition: border-width 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .hov-a:hover {
     border-style: solid;
     border-color: #FE53BB;
     border-width: 3px;
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .hov-b {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 0px;
+    transition: border-width 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .hov-b:hover {
     border-style: solid;
     border-color: #e67c1a;
     border-width: 3px;
+    transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .hov-c {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 0px;
+    transition: border-width 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .hov-c:hover {
     border-style: solid;
     border-color: #e6e31a;
     border-width: 3px;
+    transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .hov-d {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 0px;
+    transition: border-width 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .hov-d:hover {
     border-style: solid;
     border-color: #4e3b47;
     border-width: 3px;
+    transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .hov-e {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 0px;
+    transition: border-width 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .hov-e:hover {
     border-style: solid;
     border-color: #aca926;
     border-width: 3px;
+    transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .hov-f {
     border-style: solid;
     border-color: rgb(19, 17, 17);
     border-width: 0px;
+    transition: border-width 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .hov-f:hover {
     border-style: solid;
     border-color: #c93e8f;
     border-width: 3px;
+    transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 
@@ -1907,7 +1925,7 @@ button4 {
     box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.4), 0 0 9px 3px rgba(27, 253, 156, 0.1);
 }
 
-button:hover {
+button4:hover {
     color: #82ffc9;
     box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.6), 0 0 9px 3px rgba(27, 253, 156, 0.2);
 }
